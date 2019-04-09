@@ -1,0 +1,84 @@
+{
+  "id": 890438999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.49163,-20.24494,57.49163,-20.24494",
+    "geom:latitude":-20.24494,
+    "geom:longitude":57.49163,
+    "gn:country":"MU",
+    "gn:fcode":"PPL",
+    "gn:pop":1001,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "\u00c9b\u00e8ne"
+    ],
+    "name:eng_x_colloquial":[
+        "Ebene City"
+    ],
+    "name:eng_x_preferred":[
+        "Ebene CyberCity"
+    ],
+    "name:eng_x_variant":[
+        "Ebene City",
+        "\u00c9b\u00e8ne"
+    ],
+    "name:ger_x_preferred":[
+        "Ebene City"
+    ],
+    "name:swa_x_preferred":[
+        "Ebene City"
+    ],
+    "qs:name":"Ebene",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106748,
+        "gp:id":1377444,
+        "qs:id":84156,
+        "wd:id":"Q213275"
+    },
+    "wof:country":"MU",
+    "wof:created":1469052217,
+    "wof:geomhash":"7ca55573f1a6f535edc61955268577d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":890438999,
+            "region_id":85674929
+        }
+    ],
+    "wof:id":890438999,
+    "wof:lastmodified":1514485380,
+    "wof:name":"Ebene",
+    "wof:parent_id":85674929,
+    "wof:placetype":"locality",
+    "wof:population":1001,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.49163,
+    -20.24494,
+    57.49163,
+    -20.24494
+],
+  "geometry": {"coordinates":[57.49163,-20.24494],"type":"Point"}
+}

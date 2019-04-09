@@ -1,0 +1,76 @@
+{
+  "id": 1125889051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.70611,-20.26389,57.70611,-20.26389",
+    "geom:latitude":-20.26389,
+    "geom:longitude":57.70611,
+    "gn:gn_country":"MU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1835,
+    "gn:population":1835,
+    "iso:country":"MU",
+    "lbl:latitude":-20.26389,
+    "lbl:longitude":57.70611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MU",
+    "qs_pg:gn_country":"MU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":934599,
+    "qs_pg:gn_pop":1835,
+    "qs_pg:name":"Cl\u00e9mencia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1029463,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934599,
+        "qs_pg:id":1029463
+    },
+    "wof:country":"MU",
+    "wof:created":1497295230,
+    "wof:geomhash":"7712ddced05a2c4d9cb72466da5197b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1125889051,
+            "region_id":85674943
+        }
+    ],
+    "wof:id":1125889051,
+    "wof:lastmodified":1509398688,
+    "wof:name":"Cl\u00e9mencia",
+    "wof:parent_id":85674943,
+    "wof:placetype":"locality",
+    "wof:population":1835,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.70611,
+    -20.26389,
+    57.70611,
+    -20.26389
+],
+  "geometry": {"coordinates":[57.70611,-20.26389],"type":"Point"}
+}

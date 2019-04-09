@@ -1,0 +1,65 @@
+{
+  "id": 1226115505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.53444,-20.21694,57.53444,-20.21694",
+    "geom:latitude":-20.21694,
+    "geom:longitude":57.53444,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Mont Fleury",
+    "gn:country_code":"MU",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934258,
+    "gn:latitude":-20.21694,
+    "gn:longitude":57.53444,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Mont Fleury",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934258
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"48f03957c3d2f206c0733af9a06c11d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1226115505,
+            "region_id":85674953
+        }
+    ],
+    "wof:id":1226115505,
+    "wof:lastmodified":1536622494,
+    "wof:name":"Mont Fleury",
+    "wof:parent_id":85674953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.53444,
+    -20.21694,
+    57.53444,
+    -20.21694
+],
+  "geometry": {"coordinates":[57.53444,-20.21694],"type":"Point"}
+}

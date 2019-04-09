@@ -1,0 +1,66 @@
+{
+  "id": 890436959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.65917,-20.13083,57.65917,-20.13083",
+    "geom:latitude":-20.13083,
+    "geom:longitude":57.65917,
+    "gn:country":"MU",
+    "gn:fcode":"PPL",
+    "gn:pop":2912,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Amaury",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":127,
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106630,
+        "gp:id":1377460,
+        "qs:id":1029735,
+        "wk:page":"Amaury"
+    },
+    "wof:country":"MU",
+    "wof:created":1469052133,
+    "wof:geomhash":"dcaed13a179f3ef3519f7247068ba64e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":890436959,
+            "region_id":85674979
+        }
+    ],
+    "wof:id":890436959,
+    "wof:lastmodified":1527735403,
+    "wof:name":"Amaury",
+    "wof:parent_id":85674979,
+    "wof:placetype":"locality",
+    "wof:population":2912,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.65917,
+    -20.13083,
+    57.65917,
+    -20.13083
+],
+  "geometry": {"coordinates":[57.65917,-20.13083],"type":"Point"}
+}

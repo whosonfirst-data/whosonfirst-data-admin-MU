@@ -1,0 +1,84 @@
+{
+  "id": 421197247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.68472,-20.10306,57.68472,-20.10306",
+    "geom:latitude":-20.10306,
+    "geom:longitude":57.68472,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Rivi\u00e8re du Rempart"
+    ],
+    "name:pol_x_preferred":[
+        "Rivi\u00e8re du Rempart"
+    ],
+    "qs:gn_country":"MU",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":934091,
+    "qs:gn_pop":11675,
+    "qs:name":"Riviere du Rempart",
+    "qs:name_adm0":"Mauritius",
+    "qs:name_adm1":"Riviere du Rempart",
+    "qs:photos":180,
+    "qs:photos_1k":36,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":180,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":279420,
+    "qs:woe_adm0":23424894,
+    "qs:woe_id":1377460,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934091,
+        "gp:id":1377460,
+        "qs:id":279420
+    },
+    "wof:country":"MU",
+    "wof:created":1459009907,
+    "wof:geomhash":"1774ad7519909770064b14d8f0f5bad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":421197247,
+            "region_id":85674979
+        }
+    ],
+    "wof:id":421197247,
+    "wof:lastmodified":1527716406,
+    "wof:name":"Riviere du Rempart",
+    "wof:parent_id":85674979,
+    "wof:placetype":"locality",
+    "wof:population":11675,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.68472,
+    -20.10306,
+    57.68472,
+    -20.10306
+],
+  "geometry": {"coordinates":[57.68472,-20.10306],"type":"Point"}
+}

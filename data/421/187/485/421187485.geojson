@@ -1,0 +1,79 @@
+{
+  "id": 421187485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"57.54611,-20.045,57.54611,-20.045",
+    "geom:latitude":-20.045,
+    "geom:longitude":57.54611,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Trou-aux-Biches"
+    ],
+    "qs:gn_country":"MU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":933953,
+    "qs:gn_pop":0,
+    "qs:name":"Trou aux Biches",
+    "qs:name_adm0":"Mauritius",
+    "qs:name_adm1":"Pamplemousses",
+    "qs:photos":1410,
+    "qs:photos_1k":286,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1410,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083577,
+    "qs:woe_adm0":23424894,
+    "qs:woe_id":1377506,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":88,
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933953,
+        "gp:id":1377506,
+        "qs:id":1083577,
+        "wd:id":"Q7846369",
+        "wk:page":"Trou-aux-Biches"
+    },
+    "wof:country":"MU",
+    "wof:created":1459009514,
+    "wof:geomhash":"3562231d4e662f7f6b6b2f1eaf2bedf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":421187485,
+            "region_id":85674957
+        }
+    ],
+    "wof:id":421187485,
+    "wof:lastmodified":1527716244,
+    "wof:name":"Trou aux Biches",
+    "wof:parent_id":85674957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.54611,
+    -20.045,
+    57.54611,
+    -20.045
+],
+  "geometry": {"coordinates":[57.54611,-20.045],"type":"Point"}
+}

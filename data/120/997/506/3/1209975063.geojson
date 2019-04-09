@@ -1,0 +1,70 @@
+{
+  "id": 1209975063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.39167,-19.71667,63.39167,-19.71667",
+    "geom:latitude":-19.71667,
+    "geom:longitude":63.39167,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Mangue",
+    "gn:cc2":"MU",
+    "gn:country_code":"MU",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1547467,
+    "gn:latitude":-19.71667,
+    "gn:longitude":63.39167,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mangue",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mangues",
+        "Mangue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1547467
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"d09526e0e1c25f9b76f846c37e8c4bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1209975063,
+            "region_id":85674989
+        }
+    ],
+    "wof:id":1209975063,
+    "wof:lastmodified":1537665827,
+    "wof:name":"Mangue",
+    "wof:parent_id":85674989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.39167,
+    -19.71667,
+    63.39167,
+    -19.71667
+],
+  "geometry": {"coordinates":[63.39167,-19.71667],"type":"Point"}
+}

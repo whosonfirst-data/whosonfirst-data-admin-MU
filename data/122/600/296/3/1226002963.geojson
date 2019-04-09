@@ -1,0 +1,70 @@
+{
+  "id": 1226002963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.44722,-19.71389,63.44722,-19.71389",
+    "geom:latitude":-19.71389,
+    "geom:longitude":63.44722,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Lataniers",
+    "gn:cc2":"MU",
+    "gn:country_code":"MU",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1545774,
+    "gn:latitude":-19.71389,
+    "gn:longitude":63.44722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lataniers",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Latanier",
+        "Lataniers"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1545774
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"a41aecd4ca92a6744b6932976e739322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1226002963,
+            "region_id":85674989
+        }
+    ],
+    "wof:id":1226002963,
+    "wof:lastmodified":1537665827,
+    "wof:name":"Lataniers",
+    "wof:parent_id":85674989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.44722,
+    -19.71389,
+    63.44722,
+    -19.71389
+],
+  "geometry": {"coordinates":[63.44722,-19.71389],"type":"Point"}
+}

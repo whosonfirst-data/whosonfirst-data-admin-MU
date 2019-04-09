@@ -1,0 +1,65 @@
+{
+  "id": 1276942229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.51444,-20.50611,57.51444,-20.50611",
+    "geom:latitude":-20.50611,
+    "geom:longitude":57.51444,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Terracine",
+    "gn:country_code":"MU",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106708,
+    "gn:latitude":-20.50611,
+    "gn:longitude":57.51444,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Terracine",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106708
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"58f138c353ca7df3ccb8f047f42bd41c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1276942229,
+            "region_id":85674993
+        }
+    ],
+    "wof:id":1276942229,
+    "wof:lastmodified":1536957823,
+    "wof:name":"Terracine",
+    "wof:parent_id":85674993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.51444,
+    -20.50611,
+    57.51444,
+    -20.50611
+],
+  "geometry": {"coordinates":[57.51444,-20.50611],"type":"Point"}
+}

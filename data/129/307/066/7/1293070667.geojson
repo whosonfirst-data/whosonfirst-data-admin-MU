@@ -1,0 +1,70 @@
+{
+  "id": 1293070667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.56,-20.00833,57.56,-20.00833",
+    "geom:latitude":-20.00833,
+    "geom:longitude":57.56,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Pointe aux Canonniers",
+    "gn:cc2":"MU",
+    "gn:country_code":"MU",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934162,
+    "gn:latitude":-20.00833,
+    "gn:longitude":57.56,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pointe aux Canonniers",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pointe aux Cannoniers",
+        "Pointe aux Canonniers"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934162
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"6ccdbffad3af37624a70694eb42a11e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1293070667,
+            "region_id":85674957
+        }
+    ],
+    "wof:id":1293070667,
+    "wof:lastmodified":1537665823,
+    "wof:name":"Pointe aux Canonniers",
+    "wof:parent_id":85674957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.56,
+    -20.00833,
+    57.56,
+    -20.00833
+],
+  "geometry": {"coordinates":[57.56,-20.00833],"type":"Point"}
+}

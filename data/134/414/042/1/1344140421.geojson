@@ -1,0 +1,61 @@
+{
+  "id": 1344140421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.72693,-20.43035,57.72693,-20.43035",
+    "geom:latitude":-20.43035,
+    "geom:longitude":57.72693,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Pointe d'Esny",
+    "gn:country_code":"MU",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106685,
+    "gn:latitude":-20.43035,
+    "gn:longitude":57.72693,
+    "gn:modification_date":"2013-11-01",
+    "gn:name":"Pointe d\u2019Esny",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106685
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"c50b9c0268b6cd304da178d32f05976c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344140421,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344140421,
+    "wof:lastmodified":1536760457,
+    "wof:name":"Pointe d'Esny",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.72693,
+    -20.43035,
+    57.72693,
+    -20.43035
+],
+  "geometry": {"coordinates":[57.72693,-20.43035],"type":"Point"}
+}

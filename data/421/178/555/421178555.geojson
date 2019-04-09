@@ -1,0 +1,87 @@
+{
+  "id": 421178555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.56222,-20.14306,57.56222,-20.14306",
+    "geom:latitude":-20.14306,
+    "geom:longitude":57.56222,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Long Mountain"
+    ],
+    "name:swe_x_preferred":[
+        "Long Mountain"
+    ],
+    "name:unk_x_variant":[
+        "Mont Longue"
+    ],
+    "qs:gn_country":"MU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":934333,
+    "qs:gn_pop":7775,
+    "qs:name":"Long Mountain",
+    "qs:name_adm0":"Mauritius",
+    "qs:name_adm1":"Pamplemousses",
+    "qs:photos":819,
+    "qs:photos_1k":166,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":819,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":130166,
+    "qs:woe_adm0":23424894,
+    "qs:woe_id":1377378,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934333,
+        "gp:id":1377378,
+        "qs:id":130166
+    },
+    "wof:country":"MU",
+    "wof:created":1459009186,
+    "wof:geomhash":"05855ecc4744166ae1dd31a6ad1ec8e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":421178555,
+            "region_id":85674957
+        }
+    ],
+    "wof:id":421178555,
+    "wof:lastmodified":1527717723,
+    "wof:name":"Long Mountain",
+    "wof:parent_id":85674957,
+    "wof:placetype":"locality",
+    "wof:population":7775,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.56222,
+    -20.14306,
+    57.56222,
+    -20.14306
+],
+  "geometry": {"coordinates":[57.56222,-20.14306],"type":"Point"}
+}

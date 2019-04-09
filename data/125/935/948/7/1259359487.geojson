@@ -1,0 +1,65 @@
+{
+  "id": 1259359487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.66889,-20.25194,57.66889,-20.25194",
+    "geom:latitude":-20.25194,
+    "geom:longitude":57.66889,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Petite Cabane",
+    "gn:country_code":"MU",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106669,
+    "gn:latitude":-20.25194,
+    "gn:longitude":57.66889,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Petite Cabane",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106669
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"edcaf2176aeaf9e92b9116e0f6440afd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1259359487,
+            "region_id":85674943
+        }
+    ],
+    "wof:id":1259359487,
+    "wof:lastmodified":1537035331,
+    "wof:name":"Petite Cabane",
+    "wof:parent_id":85674943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.66889000000001,
+    -20.25194,
+    57.66889000000001,
+    -20.25194
+],
+  "geometry": {"coordinates":[57.66889000000001,-20.25194],"type":"Point"}
+}

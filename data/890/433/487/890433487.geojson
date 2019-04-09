@@ -1,0 +1,67 @@
+{
+  "id": 890433487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.61194,-20.01333,57.61194,-20.01333",
+    "geom:latitude":-20.01333,
+    "geom:longitude":57.61194,
+    "gn:country":"MU",
+    "gn:fcode":"PPL",
+    "gn:pop":9117,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Petit Raffray",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":235,
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934184,
+        "gp:id":1377323,
+        "qs:id":130154,
+        "wd:id":"Q1053565",
+        "wk:page":"Rivi\u00e8re du Rempart District"
+    },
+    "wof:country":"MU",
+    "wof:created":1469051982,
+    "wof:geomhash":"269f6a1030b0e7e01f7fff4d5125e3fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":890433487,
+            "region_id":85674979
+        }
+    ],
+    "wof:id":890433487,
+    "wof:lastmodified":1527792956,
+    "wof:name":"Petit Raffray",
+    "wof:parent_id":85674979,
+    "wof:placetype":"locality",
+    "wof:population":9117,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.61194,
+    -20.01333,
+    57.61194,
+    -20.01333
+],
+  "geometry": {"coordinates":[57.61194,-20.01333],"type":"Point"}
+}

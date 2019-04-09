@@ -1,0 +1,64 @@
+{
+  "id": 890432067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.63833,-20.36417,57.63833,-20.36417",
+    "geom:latitude":-20.36417,
+    "geom:longitude":57.63833,
+    "gn:country":"MU",
+    "gn:fcode":"PPL",
+    "gn:pop":4170,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Saint Hubert",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934047,
+        "gp:id":1377466,
+        "qs:id":130145
+    },
+    "wof:country":"MU",
+    "wof:created":1469051927,
+    "wof:geomhash":"7368e7ee14370436233adda98211e877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":890432067,
+            "region_id":85674947
+        }
+    ],
+    "wof:id":890432067,
+    "wof:lastmodified":1505343527,
+    "wof:name":"Saint Hubert",
+    "wof:parent_id":85674947,
+    "wof:placetype":"locality",
+    "wof:population":4170,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.63833,
+    -20.36417,
+    57.63833,
+    -20.36417
+],
+  "geometry": {"coordinates":[57.63833,-20.36417],"type":"Point"}
+}

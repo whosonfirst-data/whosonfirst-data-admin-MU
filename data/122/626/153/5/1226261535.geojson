@@ -1,0 +1,60 @@
+{
+  "id": 1226261535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.71907,-20.44098,57.71907,-20.44098",
+    "geom:latitude":-20.44098,
+    "geom:longitude":57.71907,
+    "gn:asciiname":"Blue bay",
+    "gn:country_code":"MU",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8394334,
+    "gn:latitude":-20.44098,
+    "gn:longitude":57.71907,
+    "gn:modification_date":"2012-09-26",
+    "gn:name":"Blue bay",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8394334
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"01ce5c8fb30c3eeb3fdc09bf207b9fb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226261535,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226261535,
+    "wof:lastmodified":1536911224,
+    "wof:name":"Blue bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.71907,
+    -20.44098,
+    57.71907,
+    -20.44098
+],
+  "geometry": {"coordinates":[57.71907,-20.44098],"type":"Point"}
+}

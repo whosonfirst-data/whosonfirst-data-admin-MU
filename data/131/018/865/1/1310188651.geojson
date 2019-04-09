@@ -1,0 +1,66 @@
+{
+  "id": 1310188651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.6275,-20.37944,57.6275,-20.37944",
+    "geom:latitude":-20.37944,
+    "geom:longitude":57.6275,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mare Chicose",
+    "gn:country_code":"MU",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106698,
+    "gn:latitude":-20.37944,
+    "gn:longitude":57.6275,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Mare Chicose",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106698,
+        "wk:page":"Mare_Chicose"
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"a3daf95becaf08db8e0757a90381eb55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1310188651,
+            "region_id":85674947
+        }
+    ],
+    "wof:id":1310188651,
+    "wof:lastmodified":1537568541,
+    "wof:name":"Mare Chicose",
+    "wof:parent_id":85674947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.6275,
+    -20.37944,
+    57.6275,
+    -20.37944
+],
+  "geometry": {"coordinates":[57.6275,-20.37944],"type":"Point"}
+}

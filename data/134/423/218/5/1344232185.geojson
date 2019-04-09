@@ -1,0 +1,65 @@
+{
+  "id": 1344232185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.65861,-20.045,57.65861,-20.045",
+    "geom:latitude":-20.045,
+    "geom:longitude":57.65861,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Belmont",
+    "gn:country_code":"MU",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934733,
+    "gn:latitude":-20.045,
+    "gn:longitude":57.65861,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Belmont",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934733
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"e75d88843f481ab826b65de968a64d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1344232185,
+            "region_id":85674979
+        }
+    ],
+    "wof:id":1344232185,
+    "wof:lastmodified":1536626027,
+    "wof:name":"Belmont",
+    "wof:parent_id":85674979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.65861,
+    -20.045,
+    57.65861,
+    -20.045
+],
+  "geometry": {"coordinates":[57.65861,-20.045],"type":"Point"}
+}

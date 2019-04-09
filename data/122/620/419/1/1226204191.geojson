@@ -1,0 +1,73 @@
+{
+  "id": 1226204191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.40611,-20.50222,57.40611,-20.50222",
+    "geom:latitude":-20.50222,
+    "geom:longitude":57.40611,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Bel Ombre",
+    "gn:cc2":"MU",
+    "gn:country_code":"MU",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934731,
+    "gn:latitude":-20.50222,
+    "gn:longitude":57.40611,
+    "gn:modification_date":"2013-08-24",
+    "gn:name":"Bel Ombre",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u044c-\u041e\u043c\u0431\u0440"
+    ],
+    "name:und_x_variant":[
+        "Belle Ombre",
+        "Bel Ombre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934731,
+        "wk:page":"Bel-Ombre%2C_Mauritius"
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"d4699cb4b62b9f481fd45ac3f52e23a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1226204191,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226204191,
+    "wof:lastmodified":1537665826,
+    "wof:name":"Bel Ombre",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.40611,
+    -20.50222,
+    57.40611,
+    -20.50222
+],
+  "geometry": {"coordinates":[57.40611,-20.50222],"type":"Point"}
+}

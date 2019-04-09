@@ -1,0 +1,72 @@
+{
+  "id": 890432069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.54139,-20.49167,57.54139,-20.49167",
+    "geom:latitude":-20.49167,
+    "geom:longitude":57.54139,
+    "gn:country":"MU",
+    "gn:fcode":"PPL",
+    "gn:pop":1659,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u041e\u0431\u0435\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Union Saint Aubin"
+    ],
+    "qs:name":"Saint Aubin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":678,
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934056,
+        "gp:id":1377481,
+        "qs:id":130146,
+        "wk:page":"Saint-Aubin"
+    },
+    "wof:country":"MU",
+    "wof:created":1469051927,
+    "wof:geomhash":"aa8cc62db51ee27c079cc04f763be61b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":890432069,
+            "region_id":85674993
+        }
+    ],
+    "wof:id":890432069,
+    "wof:lastmodified":1527793042,
+    "wof:name":"Saint Aubin",
+    "wof:parent_id":85674993,
+    "wof:placetype":"locality",
+    "wof:population":1659,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.54139,
+    -20.49167,
+    57.54139,
+    -20.49167
+],
+  "geometry": {"coordinates":[57.54139,-20.49167],"type":"Point"}
+}

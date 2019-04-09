@@ -1,0 +1,65 @@
+{
+  "id": 1343537747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.66667,-20.23333,57.66667,-20.23333",
+    "geom:latitude":-20.23333,
+    "geom:longitude":57.66667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Camp Sonah",
+    "gn:country_code":"MU",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934657,
+    "gn:latitude":-20.23333,
+    "gn:longitude":57.66667,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Camp Sonah",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934657
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"a84046784c0f60ad78bf3251f01c3598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1343537747,
+            "region_id":85674943
+        }
+    ],
+    "wof:id":1343537747,
+    "wof:lastmodified":1536633398,
+    "wof:name":"Camp Sonah",
+    "wof:parent_id":85674943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.66667,
+    -20.23333,
+    57.66667,
+    -20.23333
+],
+  "geometry": {"coordinates":[57.66667,-20.23333],"type":"Point"}
+}

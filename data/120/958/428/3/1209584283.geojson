@@ -1,0 +1,61 @@
+{
+  "id": 1209584283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.475,-19.71667,63.475,-19.71667",
+    "geom:latitude":-19.71667,
+    "geom:longitude":63.475,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Saint Louis",
+    "gn:country_code":"MU",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1547529,
+    "gn:latitude":-19.71667,
+    "gn:longitude":63.475,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Saint Louis",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1547529
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"371b2cbce664b6ef5dce056fb9d7024b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632357,
+            "locality_id":1209584283
+        }
+    ],
+    "wof:id":1209584283,
+    "wof:lastmodified":1536282687,
+    "wof:name":"Saint Louis",
+    "wof:parent_id":85632357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.475,
+    -19.71667,
+    63.475,
+    -19.71667
+],
+  "geometry": {"coordinates":[63.475,-19.71667],"type":"Point"}
+}

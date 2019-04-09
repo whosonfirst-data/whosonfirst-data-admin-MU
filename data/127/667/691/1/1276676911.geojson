@@ -1,0 +1,64 @@
+{
+  "id": 1276676911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.61699,-20.15757,57.61699,-20.15757",
+    "geom:latitude":-20.15757,
+    "geom:longitude":57.61699,
+    "gn:asciiname":"La Nicoliere",
+    "gn:country_code":"MU",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8299629,
+    "gn:latitude":-20.15757,
+    "gn:longitude":57.61699,
+    "gn:modification_date":"2012-06-01",
+    "gn:name":"La Nicoliere",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8299629
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"0d06079367083a74e4ae10a7719c5427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1276676911,
+            "region_id":85674957
+        }
+    ],
+    "wof:id":1276676911,
+    "wof:lastmodified":1536814619,
+    "wof:name":"La Nicoliere",
+    "wof:parent_id":85674957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.61699,
+    -20.15757,
+    57.61699,
+    -20.15757
+],
+  "geometry": {"coordinates":[57.61699,-20.15757],"type":"Point"}
+}

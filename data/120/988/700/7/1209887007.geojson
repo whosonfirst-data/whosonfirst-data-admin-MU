@@ -1,0 +1,65 @@
+{
+  "id": 1209887007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.6962,-20.40835,57.6962,-20.40835",
+    "geom:latitude":-20.40835,
+    "geom:longitude":57.6962,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ville Noire",
+    "gn:country_code":"MU",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106684,
+    "gn:latitude":-20.40835,
+    "gn:longitude":57.6962,
+    "gn:modification_date":"2013-11-01",
+    "gn:name":"Ville Noire",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106684
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"430dff83c9ecbd6847f32d45a33c6eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1209887007,
+            "region_id":85674947
+        }
+    ],
+    "wof:id":1209887007,
+    "wof:lastmodified":1536392471,
+    "wof:name":"Ville Noire",
+    "wof:parent_id":85674947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.6962,
+    -20.40835,
+    57.6962,
+    -20.40835
+],
+  "geometry": {"coordinates":[57.6962,-20.40835],"type":"Point"}
+}

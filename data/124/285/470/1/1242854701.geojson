@@ -1,0 +1,65 @@
+{
+  "id": 1242854701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.4,-20.3,57.4,-20.3",
+    "geom:latitude":-20.3,
+    "geom:longitude":57.4,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mon Vallon",
+    "gn:country_code":"MU",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934252,
+    "gn:latitude":-20.3,
+    "gn:longitude":57.4,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Mon Vallon",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934252
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"f2881a24b3f8fff074db5aab80081afd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1242854701,
+            "region_id":85674983
+        }
+    ],
+    "wof:id":1242854701,
+    "wof:lastmodified":1536664568,
+    "wof:name":"Mon Vallon",
+    "wof:parent_id":85674983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.4,
+    -20.3,
+    57.4,
+    -20.3
+],
+  "geometry": {"coordinates":[57.4,-20.3],"type":"Point"}
+}

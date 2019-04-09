@@ -1,0 +1,113 @@
+{
+  "id": 421177481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.37056,-20.32556,57.37056,-20.32556",
+    "geom:latitude":-20.32556,
+    "geom:longitude":57.37056,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5854\u9a6c\u5170"
+    ],
+    "name:dut_x_preferred":[
+        "Tamarin"
+    ],
+    "name:eng_x_preferred":[
+        "Tamarin"
+    ],
+    "name:fra_x_preferred":[
+        "Tamarin"
+    ],
+    "name:fre_x_preferred":[
+        "Tamarin"
+    ],
+    "name:ita_x_preferred":[
+        "Tamarin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30de\u30ea\u30f3"
+    ],
+    "name:pol_x_preferred":[
+        "Tamarin"
+    ],
+    "name:por_x_preferred":[
+        "Tamarin"
+    ],
+    "name:swe_x_preferred":[
+        "Tamarin"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u9a6c\u5170"
+    ],
+    "qs:gn_country":"MU",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":933982,
+    "qs:gn_pop":3764,
+    "qs:name":"Tamarin",
+    "qs:name_adm0":"Mauritius",
+    "qs:name_adm1":"Black River",
+    "qs:photos":3266,
+    "qs:photos_1k":662,
+    "qs:photos_9k":14,
+    "qs:photos_9r":11,
+    "qs:photos_all":3266,
+    "qs:photos_sr":20,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":423480,
+    "qs:woe_adm0":23424894,
+    "qs:woe_id":1377498,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":580,
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933982,
+        "gp:id":1377498,
+        "qs:id":423480,
+        "wd:id":"Q2322083",
+        "wk:page":"Tamarin, Mauritius"
+    },
+    "wof:country":"MU",
+    "wof:created":1459009146,
+    "wof:geomhash":"cc30440547d6964e4ebc8b58ff1b84a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":421177481,
+            "region_id":85674983
+        }
+    ],
+    "wof:id":421177481,
+    "wof:lastmodified":1553816367,
+    "wof:name":"Tamarin",
+    "wof:parent_id":85674983,
+    "wof:placetype":"locality",
+    "wof:population":3764,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.37056,
+    -20.32556,
+    57.37056,
+    -20.32556
+],
+  "geometry": {"coordinates":[57.37056,-20.32556],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1310085833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.38444,-20.28222,57.38444,-20.28222",
+    "geom:latitude":-20.28222,
+    "geom:longitude":57.38444,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Palmyre",
+    "gn:country_code":"MU",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934214,
+    "gn:latitude":-20.28222,
+    "gn:longitude":57.38444,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Palmyre",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934214
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"1c323e6dfd7d312a600a62f374868920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1310085833,
+            "region_id":85674983
+        }
+    ],
+    "wof:id":1310085833,
+    "wof:lastmodified":1537023860,
+    "wof:name":"Palmyre",
+    "wof:parent_id":85674983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.38444000000001,
+    -20.28222,
+    57.38444000000001,
+    -20.28222
+],
+  "geometry": {"coordinates":[57.38444000000001,-20.28222],"type":"Point"}
+}

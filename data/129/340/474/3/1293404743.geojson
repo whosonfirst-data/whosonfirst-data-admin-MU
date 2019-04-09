@@ -1,0 +1,76 @@
+{
+  "id": 1293404743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.56694,-20.42417,57.56694,-20.42417",
+    "geom:latitude":-20.42417,
+    "geom:longitude":57.56694,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Riviere du Poste",
+    "gn:cc2":"MU",
+    "gn:country_code":"MU",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934092,
+    "gn:latitude":-20.42417,
+    "gn:longitude":57.56694,
+    "gn:modification_date":"2013-08-24",
+    "gn:name":"Rivi\u00e8re du Poste",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0432\u044c\u0435\u0440-\u0434\u044e-\u041f\u043e\u0441\u0442"
+    ],
+    "name:und_x_variant":[
+        "Rivi\u00e8re du Poste Station",
+        "Rivi\u00e8re du Post",
+        "River du Poste Station",
+        "Rivi\u00e8re du Poste"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934092,
+        "wk:page":"Rivi%C3%A8re_Du_Poste"
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"a4d944e15acacd3a201741733725a7f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1293404743,
+            "region_id":85674993
+        }
+    ],
+    "wof:id":1293404743,
+    "wof:lastmodified":1537665823,
+    "wof:name":"Riviere du Poste",
+    "wof:parent_id":85674993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.56694,
+    -20.42417,
+    57.56694,
+    -20.42417
+],
+  "geometry": {"coordinates":[57.56694,-20.42417],"type":"Point"}
+}

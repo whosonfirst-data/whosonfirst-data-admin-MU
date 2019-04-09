@@ -1,0 +1,80 @@
+{
+  "id": 421203057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.48826,-20.19271,57.48826,-20.19271",
+    "geom:latitude":-20.19271,
+    "geom:longitude":57.48826,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Pailles Village"
+    ],
+    "qs:gn_country":"MU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":934219,
+    "qs:gn_pop":10622,
+    "qs:name":"Pailles",
+    "qs:name_adm0":"Mauritius",
+    "qs:name_adm1":"Port Louis",
+    "qs:photos":173,
+    "qs:photos_1k":35,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":173,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":229252,
+    "qs:woe_adm0":23424894,
+    "qs:woe_id":1377413,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934219,
+        "gp:id":1377413,
+        "qs:id":229252
+    },
+    "wof:country":"MU",
+    "wof:created":1459010139,
+    "wof:geomhash":"607b2829d125e6186b8bb007e0496213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":421203057,
+            "region_id":85674953
+        }
+    ],
+    "wof:id":421203057,
+    "wof:lastmodified":1505340779,
+    "wof:name":"Pailles",
+    "wof:parent_id":85674953,
+    "wof:placetype":"locality",
+    "wof:population":10622,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.48826,
+    -20.19271,
+    57.48826,
+    -20.19271
+],
+  "geometry": {"coordinates":[57.48826,-20.19271],"type":"Point"}
+}

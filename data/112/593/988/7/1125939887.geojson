@@ -1,0 +1,144 @@
+{
+  "id": 1125939887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.45833,-20.21944,57.45833,-20.21944",
+    "geom:latitude":-20.21944,
+    "geom:longitude":57.45833,
+    "gn:gn_country":"MU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MU",
+    "lbl:latitude":-20.21944,
+    "lbl:longitude":57.45833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u7f85\u65af\u5e0c\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Beau Bassin"
+    ],
+    "name:eng_x_preferred":[
+        "Beau Bassin-Rose Hill"
+    ],
+    "name:epo_x_preferred":[
+        "Beau Bassin-Rose Hill"
+    ],
+    "name:fre_x_preferred":[
+        "Beau-Bassin Rose-Hill"
+    ],
+    "name:ger_x_preferred":[
+        "Beau Bassin-Rose Hill"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5 \u05d1\u05e1\u05d9\u05df-\u05e8\u05d5\u05d6 \u05d0\u05d9\u05dc"
+    ],
+    "name:ita_x_preferred":[
+        "Beau Bassin-Rose Hill"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30fc\u30d0\u30c3\u30b5\u30f3\u30fb\u30ed\u30fc\u30ba\u30d2\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\ubca0\uc774\uc2e0\ub85c\uc988\ud790"
+    ],
+    "name:lit_x_preferred":[
+        "Bo Basenas-Rouz Hilis"
+    ],
+    "name:nob_x_preferred":[
+        "Beau Bassin-Rosehill"
+    ],
+    "name:pol_x_preferred":[
+        "Beau Bassin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0437-\u0425\u0438\u043b\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Beau Bassin-Rose Hill"
+    ],
+    "name:swe_x_preferred":[
+        "Beau Bassin"
+    ],
+    "name:tur_x_preferred":[
+        "Beau Bassin-Rose Hill"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648-\u0628\u0627\u0633\u0646 \u0631\u0648\u0632-\u06c1\u0644"
+    ],
+    "name:war_x_preferred":[
+        "Beau Bassin"
+    ],
+    "qs_pg:aaroncc":"MU",
+    "qs_pg:gn_country":"MU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":934765,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Beau Bassin",
+    "qs_pg:name_adm0":"Mauritius",
+    "qs_pg:name_adm1":"Plaines Wilhems",
+    "qs_pg:photos":133,
+    "qs_pg:photos_1k":27,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":133,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":229253,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424894,
+    "qs_pg:woe_id":1377240,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424894,
+    "woe:name_adm0":"Mauritius",
+    "woe:name_adm1":"Plaines Wilhems",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934765,
+        "gp:id":1377240,
+        "qs_pg:id":229253,
+        "wd:id":"Q813337"
+    },
+    "wof:country":"MU",
+    "wof:created":1497297081,
+    "wof:geomhash":"d15ffff1ccf1fac7171207326e70ffdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1125939887,
+            "region_id":85674983
+        }
+    ],
+    "wof:id":1125939887,
+    "wof:lastmodified":1514485378,
+    "wof:name":"Beau Bassin",
+    "wof:parent_id":85674983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.45833,
+    -20.21944,
+    57.45833,
+    -20.21944
+],
+  "geometry": {"coordinates":[57.45833,-20.21944],"type":"Point"}
+}

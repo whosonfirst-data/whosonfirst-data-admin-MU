@@ -1,0 +1,67 @@
+{
+  "id": 890421837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.40722,-20.28694,57.40722,-20.28694",
+    "geom:latitude":-20.28694,
+    "geom:longitude":57.40722,
+    "gn:country":"MU",
+    "gn:fcode":"PPL",
+    "gn:pop":2613,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Cascavelle",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":227,
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934644,
+        "gp:id":1377498,
+        "qs:id":130175,
+        "wd:id":"Q1053595",
+        "wk:page":"Plaines Wilhems District"
+    },
+    "wof:country":"MU",
+    "wof:created":1469051415,
+    "wof:geomhash":"58a63f04a33a027039dc5c3df9ccd2c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":890421837,
+            "region_id":85674983
+        }
+    ],
+    "wof:id":890421837,
+    "wof:lastmodified":1527782113,
+    "wof:name":"Cascavelle",
+    "wof:parent_id":85674983,
+    "wof:placetype":"locality",
+    "wof:population":2613,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.40722,
+    -20.28694,
+    57.40722,
+    -20.28694
+],
+  "geometry": {"coordinates":[57.40722,-20.28694],"type":"Point"}
+}

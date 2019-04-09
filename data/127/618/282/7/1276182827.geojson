@@ -1,0 +1,65 @@
+{
+  "id": 1276182827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.48333,-19.7,63.48333,-19.7",
+    "geom:latitude":-19.7,
+    "geom:longitude":63.48333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Patate Theophile",
+    "gn:country_code":"MU",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1547484,
+    "gn:latitude":-19.7,
+    "gn:longitude":63.48333,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Patate Th\u00e9ophile",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1547484
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"7644e335857ac3bcddc19e11e412c6c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1276182827,
+            "region_id":85674989
+        }
+    ],
+    "wof:id":1276182827,
+    "wof:lastmodified":1536980028,
+    "wof:name":"Patate Theophile",
+    "wof:parent_id":85674989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.48333,
+    -19.7,
+    63.48333,
+    -19.7
+],
+  "geometry": {"coordinates":[63.48333,-19.7],"type":"Point"}
+}

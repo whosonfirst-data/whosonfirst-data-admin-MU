@@ -1,0 +1,64 @@
+{
+  "id": 1225954767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.63202,-19.99057,57.63202,-19.99057",
+    "geom:latitude":-19.99057,
+    "geom:longitude":57.63202,
+    "gn:asciiname":"Anse La Raie",
+    "gn:country_code":"MU",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10171149,
+    "gn:latitude":-19.99057,
+    "gn:longitude":57.63202,
+    "gn:modification_date":"2015-03-11",
+    "gn:name":"Anse La Raie",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10171149
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"84866c00594f4034f308ea4e8b98231e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1225954767,
+            "region_id":85674979
+        }
+    ],
+    "wof:id":1225954767,
+    "wof:lastmodified":1536855009,
+    "wof:name":"Anse La Raie",
+    "wof:parent_id":85674979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.63202,
+    -19.99057,
+    57.63202,
+    -19.99057
+],
+  "geometry": {"coordinates":[57.63202,-19.99057],"type":"Point"}
+}

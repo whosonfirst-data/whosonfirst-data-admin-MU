@@ -1,0 +1,81 @@
+{
+  "id": 421180195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.43333,-19.7,63.43333,-19.7",
+    "geom:latitude":-19.7,
+    "geom:longitude":63.43333,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Saint Gabriel"
+    ],
+    "name:unk_x_variant":[
+        "Gabrielle"
+    ],
+    "qs:gn_country":"MU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1545746,
+    "qs:gn_pop":0,
+    "qs:name":"Saint Gabriel",
+    "qs:name_adm0":"Mauritius",
+    "qs:name_adm1":"Rodrigues",
+    "qs:photos":366,
+    "qs:photos_1k":74,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":366,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":423471,
+    "qs:woe_adm0":23424894,
+    "qs:woe_id":1377482,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":203,
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1545746,
+        "gp:id":1377482,
+        "qs:id":423471
+    },
+    "wof:country":"MU",
+    "wof:created":1459009247,
+    "wof:geomhash":"303f38b3a56416ea3a086cc321995b5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":421180195,
+            "region_id":85674989
+        }
+    ],
+    "wof:id":421180195,
+    "wof:lastmodified":1527716233,
+    "wof:name":"Saint Gabriel",
+    "wof:parent_id":85674989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.43333,
+    -19.7,
+    63.43333,
+    -19.7
+],
+  "geometry": {"coordinates":[63.43333,-19.7],"type":"Point"}
+}

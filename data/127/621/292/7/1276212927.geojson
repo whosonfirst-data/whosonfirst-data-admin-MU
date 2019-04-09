@@ -1,0 +1,65 @@
+{
+  "id": 1276212927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.69861,-20.18833,57.69861,-20.18833",
+    "geom:latitude":-20.18833,
+    "geom:longitude":57.69861,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Belle Vue Allendy",
+    "gn:country_code":"MU",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106672,
+    "gn:latitude":-20.18833,
+    "gn:longitude":57.69861,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Belle Vue Allendy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106672
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"7a18e340a175360cbd1fca5331dc200a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1276212927,
+            "region_id":85674943
+        }
+    ],
+    "wof:id":1276212927,
+    "wof:lastmodified":1536941119,
+    "wof:name":"Belle Vue Allendy",
+    "wof:parent_id":85674943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.69861,
+    -20.18833,
+    57.69861,
+    -20.18833
+],
+  "geometry": {"coordinates":[57.69861,-20.18833],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310467459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.60111,-19.98389,57.60111,-19.98389",
+    "geom:latitude":-19.98389,
+    "geom:longitude":57.60111,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Beau Manguier",
+    "gn:cc2":"MU",
+    "gn:country_code":"MU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934759,
+    "gn:latitude":-19.98389,
+    "gn:longitude":57.60111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Beau Manguier",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beau Mangue",
+        "Beau Manguier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934759
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"7e583d7bc3117fdae9aedd7e28d44586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1310467459,
+            "region_id":85674979
+        }
+    ],
+    "wof:id":1310467459,
+    "wof:lastmodified":1537665826,
+    "wof:name":"Beau Manguier",
+    "wof:parent_id":85674979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.60111,
+    -19.98389,
+    57.60111,
+    -19.98389
+],
+  "geometry": {"coordinates":[57.60111,-19.98389],"type":"Point"}
+}

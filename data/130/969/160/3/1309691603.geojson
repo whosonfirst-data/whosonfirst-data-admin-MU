@@ -1,0 +1,65 @@
+{
+  "id": 1309691603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.74667,-20.24583,57.74667,-20.24583",
+    "geom:latitude":-20.24583,
+    "geom:longitude":57.74667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Caroline",
+    "gn:country_code":"MU",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106662,
+    "gn:latitude":-20.24583,
+    "gn:longitude":57.74667,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"La Caroline",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106662
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"07ab91bc39a5594bab037de7fe36f125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1309691603,
+            "region_id":85674943
+        }
+    ],
+    "wof:id":1309691603,
+    "wof:lastmodified":1537092542,
+    "wof:name":"La Caroline",
+    "wof:parent_id":85674943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.74667,
+    -20.24583,
+    57.74667,
+    -20.24583
+],
+  "geometry": {"coordinates":[57.74667,-20.24583],"type":"Point"}
+}

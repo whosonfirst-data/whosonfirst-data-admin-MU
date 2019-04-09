@@ -1,0 +1,80 @@
+{
+  "id": 421202445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.36611,-20.36028,57.36611,-20.36028",
+    "geom:latitude":-20.36028,
+    "geom:longitude":57.36611,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Rivi\u00e8re Noire"
+    ],
+    "qs:gn_country":"MU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":934089,
+    "qs:gn_pop":2361,
+    "qs:name":"Riviere Noire",
+    "qs:name_adm0":"Mauritius",
+    "qs:name_adm1":"Black River",
+    "qs:photos":1805,
+    "qs:photos_1k":366,
+    "qs:photos_9k":8,
+    "qs:photos_9r":9,
+    "qs:photos_all":1805,
+    "qs:photos_sr":14,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":222662,
+    "qs:woe_adm0":23424894,
+    "qs:woe_id":1377461,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934089,
+        "gp:id":1377461,
+        "qs:id":222662
+    },
+    "wof:country":"MU",
+    "wof:created":1459010118,
+    "wof:geomhash":"872a583d372186f635e7182afa24206d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":421202445,
+            "region_id":85674983
+        }
+    ],
+    "wof:id":421202445,
+    "wof:lastmodified":1505340776,
+    "wof:name":"Riviere Noire",
+    "wof:parent_id":85674983,
+    "wof:placetype":"locality",
+    "wof:population":2361,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.36611,
+    -20.36028,
+    57.36611,
+    -20.36028
+],
+  "geometry": {"coordinates":[57.36611,-20.36028],"type":"Point"}
+}

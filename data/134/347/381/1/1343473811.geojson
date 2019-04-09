@@ -1,0 +1,64 @@
+{
+  "id": 1343473811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.60617,-19.98767,57.60617,-19.98767",
+    "geom:latitude":-19.98767,
+    "geom:longitude":57.60617,
+    "gn:asciiname":"Bain Boeuf",
+    "gn:country_code":"MU",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8630032,
+    "gn:latitude":-19.98767,
+    "gn:longitude":57.60617,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Bain Boeuf",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8630032
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"04586d5b47fdb1eddaa52635c6ae095b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1343473811,
+            "region_id":85674979
+        }
+    ],
+    "wof:id":1343473811,
+    "wof:lastmodified":1536727154,
+    "wof:name":"Bain Boeuf",
+    "wof:parent_id":85674979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.60617,
+    -19.98767,
+    57.60617,
+    -19.98767
+],
+  "geometry": {"coordinates":[57.60617,-19.98767],"type":"Point"}
+}

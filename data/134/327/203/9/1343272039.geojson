@@ -1,0 +1,69 @@
+{
+  "id": 1343272039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.46667,-20.5,57.46667,-20.5",
+    "geom:latitude":-20.5,
+    "geom:longitude":57.46667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"L'Union",
+    "gn:country_code":"MU",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934329,
+    "gn:latitude":-20.5,
+    "gn:longitude":57.46667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"L\u2019Union",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Union",
+        "L\u2019Union"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934329
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"2f5c836de9948bab883c85b16d2757b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1343272039,
+            "region_id":85674993
+        }
+    ],
+    "wof:id":1343272039,
+    "wof:lastmodified":1537665824,
+    "wof:name":"L'Union",
+    "wof:parent_id":85674993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.46666999999999,
+    -20.5,
+    57.46666999999999,
+    -20.5
+],
+  "geometry": {"coordinates":[57.46666999999999,-20.5],"type":"Point"}
+}

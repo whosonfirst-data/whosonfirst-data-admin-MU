@@ -1,0 +1,65 @@
+{
+  "id": 1226026993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.52528,-20.11333,57.52528,-20.11333",
+    "geom:latitude":-20.11333,
+    "geom:longitude":57.52528,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"La Bergerie",
+    "gn:country_code":"MU",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934412,
+    "gn:latitude":-20.11333,
+    "gn:longitude":57.52528,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"La Bergerie",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934412
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"d79d633513af169c536ddf3c7b4febba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1226026993,
+            "region_id":85674957
+        }
+    ],
+    "wof:id":1226026993,
+    "wof:lastmodified":1536752169,
+    "wof:name":"La Bergerie",
+    "wof:parent_id":85674957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.52528,
+    -20.11333,
+    57.52528,
+    -20.11333
+],
+  "geometry": {"coordinates":[57.52528,-20.11333],"type":"Point"}
+}

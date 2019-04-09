@@ -1,0 +1,65 @@
+{
+  "id": 1344128439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.48667,-20.24778,57.48667,-20.24778",
+    "geom:latitude":-20.24778,
+    "geom:longitude":57.48667,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Trianon",
+    "gn:country_code":"MU",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933961,
+    "gn:latitude":-20.24778,
+    "gn:longitude":57.48667,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Trianon",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933961
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"c9a171468f2f7a97d054a877ed1ad6ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1344128439,
+            "region_id":85674929
+        }
+    ],
+    "wof:id":1344128439,
+    "wof:lastmodified":1536778104,
+    "wof:name":"Trianon",
+    "wof:parent_id":85674929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.48667,
+    -20.24778,
+    57.48667,
+    -20.24778
+],
+  "geometry": {"coordinates":[57.48667,-20.24778],"type":"Point"}
+}

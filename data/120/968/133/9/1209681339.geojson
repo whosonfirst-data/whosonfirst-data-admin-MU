@@ -1,0 +1,65 @@
+{
+  "id": 1209681339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.64249,-20.00215,57.64249,-20.00215",
+    "geom:latitude":-20.00215,
+    "geom:longitude":57.64249,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Calodyne",
+    "gn:country_code":"MU",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643380,
+    "gn:latitude":-20.00215,
+    "gn:longitude":57.64249,
+    "gn:modification_date":"2013-11-23",
+    "gn:name":"Calodyne",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Calodyne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643380,
+        "wk:page":"Calodyne"
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"495c2ee652d097fbacefcb92481ea608",
+    "wof:hierarchy":[
+        {
+            "country_id":85632357,
+            "locality_id":1209681339
+        }
+    ],
+    "wof:id":1209681339,
+    "wof:lastmodified":1537568541,
+    "wof:name":"Calodyne",
+    "wof:parent_id":85632357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.64249,
+    -20.00215,
+    57.64249,
+    -20.00215
+],
+  "geometry": {"coordinates":[57.64249,-20.00215],"type":"Point"}
+}

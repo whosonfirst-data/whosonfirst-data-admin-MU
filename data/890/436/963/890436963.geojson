@@ -1,0 +1,67 @@
+{
+  "id": 890436963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.74556,-20.21583,57.74556,-20.21583",
+    "geom:latitude":-20.21583,
+    "geom:longitude":57.74556,
+    "gn:country":"MU",
+    "gn:fcode":"PPL",
+    "gn:pop":4401,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Camp Ithier",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":209,
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106645,
+        "gp:id":1377294,
+        "qs:id":1029740,
+        "wd:id":"Q911651",
+        "wk:page":"Flacq District"
+    },
+    "wof:country":"MU",
+    "wof:created":1469052133,
+    "wof:geomhash":"8431625b2f15d1ab168d7df58a6fd531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":890436963,
+            "region_id":85674943
+        }
+    ],
+    "wof:id":890436963,
+    "wof:lastmodified":1527735400,
+    "wof:name":"Camp Ithier",
+    "wof:parent_id":85674943,
+    "wof:placetype":"locality",
+    "wof:population":4401,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.74556,
+    -20.21583,
+    57.74556,
+    -20.21583
+],
+  "geometry": {"coordinates":[57.74556,-20.21583],"type":"Point"}
+}

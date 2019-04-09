@@ -1,0 +1,70 @@
+{
+  "id": 1327001055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.66972,-20.465,57.66972,-20.465",
+    "geom:latitude":-20.465,
+    "geom:longitude":57.66972,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Le Bouchon",
+    "gn:cc2":"MU",
+    "gn:country_code":"MU",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934683,
+    "gn:latitude":-20.465,
+    "gn:longitude":57.66972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Le Bouchon",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bouchon",
+        "Le Bouchon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934683
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"11a690d4c5c20481009e513e12043067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1327001055,
+            "region_id":85674947
+        }
+    ],
+    "wof:id":1327001055,
+    "wof:lastmodified":1537665825,
+    "wof:name":"Le Bouchon",
+    "wof:parent_id":85674947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.66972,
+    -20.465,
+    57.66972,
+    -20.465
+],
+  "geometry": {"coordinates":[57.66972,-20.465],"type":"Point"}
+}

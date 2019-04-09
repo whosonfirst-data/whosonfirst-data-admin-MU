@@ -1,0 +1,66 @@
+{
+  "id": 890433535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.76444,-20.31417,57.76444,-20.31417",
+    "geom:latitude":-20.31417,
+    "geom:longitude":57.76444,
+    "gn:country":"MU",
+    "gn:fcode":"PPL",
+    "gn:pop":2208,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Grand Sable",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":225,
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934459,
+        "gp:id":1377407,
+        "qs:id":130169,
+        "wk:page":"Grand Sable Dunes"
+    },
+    "wof:country":"MU",
+    "wof:created":1469051984,
+    "wof:geomhash":"add772b9f6c49565f1827bdfee8a65ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":890433535,
+            "region_id":85674947
+        }
+    ],
+    "wof:id":890433535,
+    "wof:lastmodified":1527792951,
+    "wof:name":"Grand Sable",
+    "wof:parent_id":85674947,
+    "wof:placetype":"locality",
+    "wof:population":2208,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.76444,
+    -20.31417,
+    57.76444,
+    -20.31417
+],
+  "geometry": {"coordinates":[57.76444,-20.31417],"type":"Point"}
+}

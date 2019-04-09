@@ -1,0 +1,64 @@
+{
+  "id": 1344075649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.33318,-20.44621,57.33318,-20.44621",
+    "geom:latitude":-20.44621,
+    "geom:longitude":57.33318,
+    "gn:asciiname":"Le Morne",
+    "gn:country_code":"MU",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7911318,
+    "gn:latitude":-20.44621,
+    "gn:longitude":57.33318,
+    "gn:modification_date":"2011-08-09",
+    "gn:name":"Le Morne",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7911318
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"0b04b9cd62c0c9a4d01bfe7579301a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1344075649,
+            "region_id":85674983
+        }
+    ],
+    "wof:id":1344075649,
+    "wof:lastmodified":1536852566,
+    "wof:name":"Le Morne",
+    "wof:parent_id":85674983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.33318000000001,
+    -20.44621,
+    57.33318000000001,
+    -20.44621
+],
+  "geometry": {"coordinates":[57.33318000000001,-20.44621],"type":"Point"}
+}

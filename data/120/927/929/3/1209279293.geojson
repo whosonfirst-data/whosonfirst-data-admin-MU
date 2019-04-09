@@ -1,0 +1,61 @@
+{
+  "id": 1209279293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.48028,-20.50944,57.48028,-20.50944",
+    "geom:latitude":-20.50944,
+    "geom:longitude":57.48028,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Pomponnette",
+    "gn:country_code":"MU",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106711,
+    "gn:latitude":-20.50944,
+    "gn:longitude":57.48028,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Pomponnette",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106711
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"11a67dfcc1ef1c7e6feb9172cfa2514f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632357,
+            "locality_id":1209279293
+        }
+    ],
+    "wof:id":1209279293,
+    "wof:lastmodified":1536292081,
+    "wof:name":"Pomponnette",
+    "wof:parent_id":85632357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.48028000000001,
+    -20.50944,
+    57.48028000000001,
+    -20.50944
+],
+  "geometry": {"coordinates":[57.48028000000001,-20.50944],"type":"Point"}
+}

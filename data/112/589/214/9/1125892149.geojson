@@ -1,0 +1,76 @@
+{
+  "id": 1125892149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.595,-20.2975,57.595,-20.2975",
+    "geom:latitude":-20.2975,
+    "geom:longitude":57.595,
+    "gn:gn_country":"MU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2726,
+    "gn:population":2726,
+    "iso:country":"MU",
+    "lbl:latitude":-20.2975,
+    "lbl:longitude":57.595,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MU",
+    "qs_pg:gn_country":"MU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1106788,
+    "qs_pg:gn_pop":2726,
+    "qs_pg:name":"Dubreuil",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1029745,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106788,
+        "qs_pg:id":1029745
+    },
+    "wof:country":"MU",
+    "wof:created":1497295370,
+    "wof:geomhash":"02efe893b531fff759b990a30a25b1fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1125892149,
+            "region_id":85674953
+        }
+    ],
+    "wof:id":1125892149,
+    "wof:lastmodified":1509398865,
+    "wof:name":"Dubreuil",
+    "wof:parent_id":85674953,
+    "wof:placetype":"locality",
+    "wof:population":2726,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.595,
+    -20.2975,
+    57.595,
+    -20.2975
+],
+  "geometry": {"coordinates":[57.595,-20.2975],"type":"Point"}
+}

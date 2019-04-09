@@ -1,0 +1,64 @@
+{
+  "id": 1259641763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.44167,-19.73889,63.44167,-19.73889",
+    "geom:latitude":-19.73889,
+    "geom:longitude":63.44167,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Songe",
+    "gn:country_code":"MU",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1547535,
+    "gn:latitude":-19.73889,
+    "gn:longitude":63.44167,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Songe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1547535
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"78138e40f7d44c8d13679fc706f1d59a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1259641763,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259641763,
+    "wof:lastmodified":1536629148,
+    "wof:name":"Songe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.44167,
+    -19.73889,
+    63.44167,
+    -19.73889
+],
+  "geometry": {"coordinates":[63.44167,-19.73889],"type":"Point"}
+}

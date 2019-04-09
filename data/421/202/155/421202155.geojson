@@ -1,0 +1,80 @@
+{
+  "id": 421202155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.57028,-20.10389,57.57028,-20.10389",
+    "geom:latitude":-20.10389,
+    "geom:longitude":57.57028,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Pamplemousses Village"
+    ],
+    "qs:gn_country":"MU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":934213,
+    "qs:gn_pop":8836,
+    "qs:name":"Pamplemousses",
+    "qs:name_adm0":"Mauritius",
+    "qs:name_adm1":"Pamplemousses",
+    "qs:photos":554,
+    "qs:photos_1k":112,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":554,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":219465,
+    "qs:woe_adm0":23424894,
+    "qs:woe_id":1377416,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934213,
+        "gp:id":1377416,
+        "qs:id":219465
+    },
+    "wof:country":"MU",
+    "wof:created":1459010107,
+    "wof:geomhash":"595ee51009c08347da7f83e07a26f330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":421202155,
+            "region_id":85674957
+        }
+    ],
+    "wof:id":421202155,
+    "wof:lastmodified":1505340775,
+    "wof:name":"Pamplemousses",
+    "wof:parent_id":85674957,
+    "wof:placetype":"locality",
+    "wof:population":8836,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.57028,
+    -20.10389,
+    57.57028,
+    -20.10389
+],
+  "geometry": {"coordinates":[57.57028,-20.10389],"type":"Point"}
+}

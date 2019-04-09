@@ -1,0 +1,65 @@
+{
+  "id": 1193110963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.68528,-20.39722,57.68528,-20.39722",
+    "geom:latitude":-20.39722,
+    "geom:longitude":57.68528,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Dalais",
+    "gn:country_code":"MU",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934565,
+    "gn:latitude":-20.39722,
+    "gn:longitude":57.68528,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Dalais",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934565
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"82128185a131644ec54c1e5ea6e87274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1193110963,
+            "region_id":85674947
+        }
+    ],
+    "wof:id":1193110963,
+    "wof:lastmodified":1536373325,
+    "wof:name":"Dalais",
+    "wof:parent_id":85674947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.68528000000001,
+    -20.39722,
+    57.68528000000001,
+    -20.39722
+],
+  "geometry": {"coordinates":[57.68528000000001,-20.39722],"type":"Point"}
+}

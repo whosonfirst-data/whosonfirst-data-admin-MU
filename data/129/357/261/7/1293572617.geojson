@@ -1,0 +1,65 @@
+{
+  "id": 1293572617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.62083,-20.35472,57.62083,-20.35472",
+    "geom:latitude":-20.35472,
+    "geom:longitude":57.62083,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Le Val",
+    "gn:country_code":"MU",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934338,
+    "gn:latitude":-20.35472,
+    "gn:longitude":57.62083,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Le Val",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934338
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"38e02eb023f542ecc8f1db8135880b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1293572617,
+            "region_id":85674947
+        }
+    ],
+    "wof:id":1293572617,
+    "wof:lastmodified":1536664407,
+    "wof:name":"Le Val",
+    "wof:parent_id":85674947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.62083000000001,
+    -20.35472,
+    57.62083000000001,
+    -20.35472
+],
+  "geometry": {"coordinates":[57.62083000000001,-20.35472],"type":"Point"}
+}

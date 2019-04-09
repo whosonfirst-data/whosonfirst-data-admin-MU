@@ -1,0 +1,64 @@
+{
+  "id": 890431359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.65639,-20.17083,57.65639,-20.17083",
+    "geom:latitude":-20.17083,
+    "geom:longitude":57.65639,
+    "gn:country":"MU",
+    "gn:fcode":"PPL",
+    "gn:pop":6553,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Bon Accueil",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934693,
+        "gp:id":1377440,
+        "qs:id":275866
+    },
+    "wof:country":"MU",
+    "wof:created":1469051887,
+    "wof:geomhash":"a27d72d2d8b9d90c84fbb7a7ff698656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":890431359,
+            "region_id":85674943
+        }
+    ],
+    "wof:id":890431359,
+    "wof:lastmodified":1505343523,
+    "wof:name":"Bon Accueil",
+    "wof:parent_id":85674943,
+    "wof:placetype":"locality",
+    "wof:population":6553,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.65639,
+    -20.17083,
+    57.65639,
+    -20.17083
+],
+  "geometry": {"coordinates":[57.65639,-20.17083],"type":"Point"}
+}

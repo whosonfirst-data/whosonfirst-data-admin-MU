@@ -1,0 +1,65 @@
+{
+  "id": 1310572747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.52776,-20.26936,57.52776,-20.26936",
+    "geom:latitude":-20.26936,
+    "geom:longitude":57.52776,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Belle Terre",
+    "gn:country_code":"MU",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106733,
+    "gn:latitude":-20.26936,
+    "gn:longitude":57.52776,
+    "gn:modification_date":"2016-10-05",
+    "gn:name":"Belle Terre",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106733
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"80cb3f58bee9a1a105c9a91a9d4f342c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1310572747,
+            "region_id":85674961
+        }
+    ],
+    "wof:id":1310572747,
+    "wof:lastmodified":1536819153,
+    "wof:name":"Belle Terre",
+    "wof:parent_id":85674961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.52776,
+    -20.26936,
+    57.52776,
+    -20.26936
+],
+  "geometry": {"coordinates":[57.52776,-20.26936],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276960945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.58361,-20.16417,57.58361,-20.16417",
+    "geom:latitude":-20.16417,
+    "geom:longitude":57.58361,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Les Mariannes",
+    "gn:country_code":"MU",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106622,
+    "gn:latitude":-20.16417,
+    "gn:longitude":57.58361,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Les Mariannes",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106622
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"6c3a7898b8f3eb084e3458c4c847c3df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1276960945,
+            "region_id":85674957
+        }
+    ],
+    "wof:id":1276960945,
+    "wof:lastmodified":1536933464,
+    "wof:name":"Les Mariannes",
+    "wof:parent_id":85674957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.58361,
+    -20.16417,
+    57.58361,
+    -20.16417
+],
+  "geometry": {"coordinates":[57.58361,-20.16417],"type":"Point"}
+}

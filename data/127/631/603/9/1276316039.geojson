@@ -1,0 +1,65 @@
+{
+  "id": 1276316039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.57222,-20.19361,57.57222,-20.19361",
+    "geom:latitude":-20.19361,
+    "geom:longitude":57.57222,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Ripailles",
+    "gn:country_code":"MU",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934102,
+    "gn:latitude":-20.19361,
+    "gn:longitude":57.57222,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Ripailles",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934102
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"f17104b0da798d24d0aaa230bac43af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1276316039,
+            "region_id":85674957
+        }
+    ],
+    "wof:id":1276316039,
+    "wof:lastmodified":1536801932,
+    "wof:name":"Ripailles",
+    "wof:parent_id":85674957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.57222,
+    -20.19361,
+    57.57222,
+    -20.19361
+],
+  "geometry": {"coordinates":[57.57222,-20.19361],"type":"Point"}
+}

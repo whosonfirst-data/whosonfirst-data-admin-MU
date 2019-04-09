@@ -1,0 +1,64 @@
+{
+  "id": 1242985951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.58017,-20.01839,57.58017,-20.01839",
+    "geom:latitude":-20.01839,
+    "geom:longitude":57.58017,
+    "gn:asciiname":"Lallmatie",
+    "gn:country_code":"MU",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205637,
+    "gn:latitude":-20.01839,
+    "gn:longitude":57.58017,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Lallmatie",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205637
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"4a4994ebf6ce54ca92a3ad1a1dfdbb84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1242985951,
+            "region_id":85674957
+        }
+    ],
+    "wof:id":1242985951,
+    "wof:lastmodified":1536971991,
+    "wof:name":"Lallmatie",
+    "wof:parent_id":85674957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.58017,
+    -20.01839,
+    57.58017,
+    -20.01839
+],
+  "geometry": {"coordinates":[57.58017,-20.01839],"type":"Point"}
+}

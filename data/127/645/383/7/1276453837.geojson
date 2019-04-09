@@ -1,0 +1,64 @@
+{
+  "id": 1276453837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.51931,-20.27391,57.51931,-20.27391",
+    "geom:latitude":-20.27391,
+    "geom:longitude":57.51931,
+    "gn:asciiname":"Morcellement Lonrho",
+    "gn:country_code":"MU",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258581,
+    "gn:latitude":-20.27391,
+    "gn:longitude":57.51931,
+    "gn:modification_date":"2016-10-05",
+    "gn:name":"Morcellement Lonrho",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258581
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"b50f1e9b2c5efb843c8a603477584500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1276453837,
+            "region_id":85674961
+        }
+    ],
+    "wof:id":1276453837,
+    "wof:lastmodified":1536614752,
+    "wof:name":"Morcellement Lonrho",
+    "wof:parent_id":85674961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.51931,
+    -20.27391,
+    57.51931,
+    -20.27391
+],
+  "geometry": {"coordinates":[57.51931,-20.27391],"type":"Point"}
+}

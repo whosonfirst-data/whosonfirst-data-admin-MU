@@ -1,0 +1,65 @@
+{
+  "id": 1276287511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.46944,-19.71111,63.46944,-19.71111",
+    "geom:latitude":-19.71111,
+    "geom:longitude":63.46944,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Nouvelle Decouverte",
+    "gn:country_code":"MU",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1545762,
+    "gn:latitude":-19.71111,
+    "gn:longitude":63.46944,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Nouvelle D\u00e9couverte",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1545762
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"b2b94cda2107dcbb3b703b4b865415a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1276287511,
+            "region_id":85674989
+        }
+    ],
+    "wof:id":1276287511,
+    "wof:lastmodified":1536839203,
+    "wof:name":"Nouvelle Decouverte",
+    "wof:parent_id":85674989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.46944000000001,
+    -19.71111,
+    63.46944000000001,
+    -19.71111
+],
+  "geometry": {"coordinates":[63.46944000000001,-19.71111],"type":"Point"}
+}

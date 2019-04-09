@@ -1,0 +1,88 @@
+{
+  "id": 890436973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.60139,-20.07583,57.60139,-20.07583",
+    "geom:latitude":-20.07583,
+    "geom:longitude":57.60139,
+    "gn:country":"MU",
+    "gn:fcode":"PPL",
+    "gn:pop":1288,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043f\u043e\u0443"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u666e"
+    ],
+    "name:dut_x_preferred":[
+        "Mapou"
+    ],
+    "name:eng_x_preferred":[
+        "Mapou"
+    ],
+    "name:fre_x_preferred":[
+        "Mapou"
+    ],
+    "name:ger_x_preferred":[
+        "Mapou"
+    ],
+    "name:swe_x_preferred":[
+        "Mapou"
+    ],
+    "qs:name":"Mapou",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":254,
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106771,
+        "gp:id":1377428,
+        "qs:id":1029744,
+        "wd:id":"Q1105427",
+        "wk:page":"Mapou"
+    },
+    "wof:country":"MU",
+    "wof:created":1469052133,
+    "wof:geomhash":"240825b1149dfa5cdb49935e016617db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":890436973,
+            "region_id":85674957
+        }
+    ],
+    "wof:id":890436973,
+    "wof:lastmodified":1527735406,
+    "wof:name":"Mapou",
+    "wof:parent_id":85674957,
+    "wof:placetype":"locality",
+    "wof:population":1288,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.60139,
+    -20.07583,
+    57.60139,
+    -20.07583
+],
+  "geometry": {"coordinates":[57.60139,-20.07583],"type":"Point"}
+}

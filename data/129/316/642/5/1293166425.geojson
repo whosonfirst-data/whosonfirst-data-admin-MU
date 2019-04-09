@@ -1,0 +1,70 @@
+{
+  "id": 1293166425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.64778,-20.12417,57.64778,-20.12417",
+    "geom:latitude":-20.12417,
+    "geom:longitude":57.64778,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Barlow",
+    "gn:cc2":"MU",
+    "gn:country_code":"MU",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106628,
+    "gn:latitude":-20.12417,
+    "gn:longitude":57.64778,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Barlow",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Lucia",
+        "Barlow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106628
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"7e3519ea8af02c9cbc3447f8b4383795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1293166425,
+            "region_id":85674979
+        }
+    ],
+    "wof:id":1293166425,
+    "wof:lastmodified":1537665827,
+    "wof:name":"Barlow",
+    "wof:parent_id":85674979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.64778,
+    -20.12417,
+    57.64778,
+    -20.12417
+],
+  "geometry": {"coordinates":[57.64778,-20.12417],"type":"Point"}
+}

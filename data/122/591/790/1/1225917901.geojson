@@ -1,0 +1,65 @@
+{
+  "id": 1225917901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.60306,-20.41639,57.60306,-20.41639",
+    "geom:latitude":-20.41639,
+    "geom:longitude":57.60306,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Gros Billot",
+    "gn:country_code":"MU",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934457,
+    "gn:latitude":-20.41639,
+    "gn:longitude":57.60306,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Gros Billot",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934457
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"840fc549db63db303f54d35821a80ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1225917901,
+            "region_id":85674993
+        }
+    ],
+    "wof:id":1225917901,
+    "wof:lastmodified":1536910030,
+    "wof:name":"Gros Billot",
+    "wof:parent_id":85674993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.60306,
+    -20.41639,
+    57.60306,
+    -20.41639
+],
+  "geometry": {"coordinates":[57.60306,-20.41639],"type":"Point"}
+}

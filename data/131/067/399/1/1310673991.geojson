@@ -1,0 +1,65 @@
+{
+  "id": 1310673991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.55132,-20.28289,57.55132,-20.28289",
+    "geom:latitude":-20.28289,
+    "geom:longitude":57.55132,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Belle Rive",
+    "gn:country_code":"MU",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258580,
+    "gn:latitude":-20.28289,
+    "gn:longitude":57.55132,
+    "gn:modification_date":"2016-10-05",
+    "gn:name":"Belle Rive",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258580
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"fb06ea98e99a4b547393427070935ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1310673991,
+            "region_id":85674961
+        }
+    ],
+    "wof:id":1310673991,
+    "wof:lastmodified":1536673863,
+    "wof:name":"Belle Rive",
+    "wof:parent_id":85674961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.55132,
+    -20.28289,
+    57.55132,
+    -20.28289
+],
+  "geometry": {"coordinates":[57.55132,-20.28289],"type":"Point"}
+}

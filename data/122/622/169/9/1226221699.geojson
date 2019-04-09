@@ -1,0 +1,70 @@
+{
+  "id": 1226221699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.67639,-20.24778,57.67639,-20.24778",
+    "geom:latitude":-20.24778,
+    "geom:longitude":57.67639,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Mare Jacot",
+    "gn:cc2":"MU",
+    "gn:country_code":"MU",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934307,
+    "gn:latitude":-20.24778,
+    "gn:longitude":57.67639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mare Jacot",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mare Jocquot",
+        "Mare Jacot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934307
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"0844745ca71ac8b78d5d9f8588304126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1226221699,
+            "region_id":85674943
+        }
+    ],
+    "wof:id":1226221699,
+    "wof:lastmodified":1537665824,
+    "wof:name":"Mare Jacot",
+    "wof:parent_id":85674943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.67639000000001,
+    -20.24778,
+    57.67639000000001,
+    -20.24778
+],
+  "geometry": {"coordinates":[57.67639000000001,-20.24778],"type":"Point"}
+}

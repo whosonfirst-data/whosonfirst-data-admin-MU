@@ -1,0 +1,65 @@
+{
+  "id": 1226307777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.4175,-20.48361,57.4175,-20.48361",
+    "geom:latitude":-20.48361,
+    "geom:longitude":57.4175,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Bon Courage",
+    "gn:country_code":"MU",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934689,
+    "gn:latitude":-20.48361,
+    "gn:longitude":57.4175,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Bon Courage",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934689
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"b3974de4e7d73c2f3c8852b2b0f537a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1226307777,
+            "region_id":85674993
+        }
+    ],
+    "wof:id":1226307777,
+    "wof:lastmodified":1536843322,
+    "wof:name":"Bon Courage",
+    "wof:parent_id":85674993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.4175,
+    -20.48361,
+    57.4175,
+    -20.48361
+],
+  "geometry": {"coordinates":[57.4175,-20.48361],"type":"Point"}
+}

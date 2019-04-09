@@ -1,0 +1,67 @@
+{
+  "id": 890433503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.44528,-20.18944,57.44528,-20.18944",
+    "geom:latitude":-20.18944,
+    "geom:longitude":57.44528,
+    "gn:country":"MU",
+    "gn:fcode":"PPL",
+    "gn:pop":5331,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0442\u0438\u0442-\u0420\u0438\u0432\u044c\u0435\u0440"
+    ],
+    "qs:name":"Petite Rivi\u00e8re",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934195,
+        "gp:id":1377413,
+        "qs:id":130155
+    },
+    "wof:country":"MU",
+    "wof:created":1469051982,
+    "wof:geomhash":"4f513823d56eaf6a28ae8f1bf35f7688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":890433503,
+            "region_id":85674983
+        }
+    ],
+    "wof:id":890433503,
+    "wof:lastmodified":1505343535,
+    "wof:name":"Petite Rivi\u00e8re",
+    "wof:parent_id":85674983,
+    "wof:placetype":"locality",
+    "wof:population":5331,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.44528,
+    -20.18944,
+    57.44528,
+    -20.18944
+],
+  "geometry": {"coordinates":[57.44528,-20.18944],"type":"Point"}
+}

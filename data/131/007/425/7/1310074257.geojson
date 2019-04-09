@@ -1,0 +1,65 @@
+{
+  "id": 1310074257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.4,-19.7,63.4,-19.7",
+    "geom:latitude":-19.7,
+    "geom:longitude":63.4,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Quatre Vents",
+    "gn:country_code":"MU",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1545750,
+    "gn:latitude":-19.7,
+    "gn:longitude":63.4,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Quatre Vents",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1545750
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"64a40aa22e5ac6703d0fe4522b5b8b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1310074257,
+            "region_id":85674989
+        }
+    ],
+    "wof:id":1310074257,
+    "wof:lastmodified":1537039971,
+    "wof:name":"Quatre Vents",
+    "wof:parent_id":85674989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.4,
+    -19.7,
+    63.4,
+    -19.7
+],
+  "geometry": {"coordinates":[63.4,-19.7],"type":"Point"}
+}

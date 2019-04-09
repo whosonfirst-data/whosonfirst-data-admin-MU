@@ -1,0 +1,204 @@
+{
+  "id": 890452097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.65851,-16.60329,59.65851,-16.60329",
+    "geom:latitude":-16.60329,
+    "geom:longitude":59.65851,
+    "gn:country":"MU",
+    "gn:fcode":"PPL",
+    "gn:pop":63,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0631\u063a\u0627\u062f\u0648\u0633 \u0643\u0627\u0631\u0627\u064a\u0648\u0633"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0440\u0433\u0430\u0434\u0430\u0441-\u041a\u0430\u0440\u0430\u0445\u0430\u0441"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09b0\u09cd\u0997\u09be\u09a1\u09cb\u09b8 \u0995\u09be\u09b0\u09be\u099c\u09c1\u09b8"
+    ],
+    "name:bre_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0440\u0433\u0430\u0434\u043e\u0441-\u041a\u0430\u0440\u0430\u0445\u043e\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u52a0\u591a\u65af-\u5361\u62c9\u82e5\u65af\u7fa4\u5c9b"
+    ],
+    "name:cze_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:dan_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:dut_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:eng_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:est_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:fin_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:fre_x_preferred":[
+        "Saint-Brandon"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10d2\u10d0\u10d3\u10dd\u10e1-\u10d9\u10d0\u10e0\u10d0\u10ee\u10dd\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Cargados-Carajos-Inseln"
+    ],
+    "name:glg_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b3\u03ba\u03ac\u03bd\u03c4\u03bf\u03c2 \u039a\u03b1\u03c1\u03ac\u03c4\u03b6\u03bf\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0abe\u0ab0\u0acd\u0a97\u0abe\u0aa1\u0acb\u0ab8 \u0a95\u0abe\u0ab0\u0abe\u0a9c\u0acb\u0ab8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0930\u094d\u0917\u093e\u0921\u094b\u0938 \u0915\u093e\u0930\u093e\u0913\u0938"
+    ],
+    "name:ind_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:ita_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30ac\u30c9\u30b9\u30fb\u30ab\u30e9\u30db\u30b9\u8af8\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cbe\u0cb0\u0ccd\u0c97\u0ca1\u0ccb\u0cb8\u0ccd \u0c95\u0ccd\u0caf\u0cbe\u0cb0\u0cbe\u0c9c\u0cca\u0cb8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\ub974\uac00\ub3c4\uc2a4 \uce74\ub77c\ud638\uc2a4 \uc81c\ub3c4"
+    ],
+    "name:lav_x_preferred":[
+        "Sentbrendona salas"
+    ],
+    "name:lit_x_preferred":[
+        "Kargados Karachos"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u093e\u0930\u094d\u0917\u093e\u0921\u094b \u0915\u0945\u0930\u091c\u094b\u0938"
+    ],
+    "name:may_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:nob_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:pol_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:por_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:rum_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0433\u0430\u0434\u043e\u0441-\u041a\u0430\u0440\u0430\u0445\u043e\u0441"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dcf\u0dbb\u0dca\u0d9c\u0da9\u0ddc\u0dc3\u0dca \u0d9a\u0dbb\u0da2\u0ddd\u0dc3\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0440\u0433\u0430\u0434\u043e\u0441 \u041a\u0430\u0440\u0430\u0445\u043e\u0441"
+    ],
+    "name:swa_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:swe_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbe\u0bb0\u0bcd\u0b95\u0b9f\u0bcb\u0bb8\u0bcd  \u0b95\u0bb0\u0bbe\u0b9c\u0bca\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c3e\u0c30\u0c4d\u0c17\u0c21\u0c4b\u0c38\u0c4d \u0c15\u0c3e\u0c30\u0c3e\u0c1c\u0c4b\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e32\u0e23\u0e4c\u0e01\u0e32\u0e14\u0e2d\u0e2a \u0e04\u0e32\u0e23\u0e32\u0e08\u0e2d\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Cargados-Carajos Adalar\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0433\u0430\u0434\u043e\u0441-\u041a\u0430\u0440\u0430\u0445\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Saint Brandon"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u0628\u0631\u06cc\u0646\u0688\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:yor_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "qs:name":"Cargados Carajos",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8199111,
+        "qs:id":759631,
+        "wd:id":"Q511859"
+    },
+    "wof:country":"MU",
+    "wof:created":1469052805,
+    "wof:geomhash":"192adab05773d4f5ab7084e59f893a90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632357,
+            "locality_id":890452097
+        }
+    ],
+    "wof:id":890452097,
+    "wof:lastmodified":1553816402,
+    "wof:name":"Cargados Carajos",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.65851,
+    -16.60329,
+    59.65851,
+    -16.60329
+],
+  "geometry": {"coordinates":[59.65851,-16.60329],"type":"Point"}
+}

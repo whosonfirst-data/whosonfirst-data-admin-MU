@@ -1,0 +1,101 @@
+{
+  "id": 421170479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.46556,-20.48722,57.46556,-20.48722",
+    "geom:latitude":-20.48722,
+    "geom:longitude":57.46556,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Chemin Grenier"
+    ],
+    "name:eng_x_preferred":[
+        "Chemin Grenier"
+    ],
+    "name:fra_x_preferred":[
+        "Chemin Grenier"
+    ],
+    "name:fre_x_preferred":[
+        "chemin Grenier"
+    ],
+    "name:pol_x_preferred":[
+        "Chemin Grenier"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043c\u0435\u043d-\u0413\u0440\u0435\u043d\u044c\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Chemin Grenier"
+    ],
+    "qs:gn_country":"MU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":934614,
+    "qs:gn_pop":12457,
+    "qs:name":"Chemin Grenier",
+    "qs:name_adm0":"Mauritius",
+    "qs:name_adm1":"Savanne",
+    "qs:photos":623,
+    "qs:photos_1k":126,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":623,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1220947,
+    "qs:woe_adm0":23424894,
+    "qs:woe_id":1377297,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":8,
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934614,
+        "gp:id":1377297,
+        "qs:id":1220947,
+        "wd:id":"Q2962294",
+        "wk:page":"Chemin-Grenier"
+    },
+    "wof:country":"MU",
+    "wof:created":1459008855,
+    "wof:geomhash":"f551c53a510bb0cb382bb5e267ba8682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":421170479,
+            "region_id":85674993
+        }
+    ],
+    "wof:id":421170479,
+    "wof:lastmodified":1527716460,
+    "wof:name":"Chemin Grenier",
+    "wof:parent_id":85674993,
+    "wof:placetype":"locality",
+    "wof:population":12457,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.46556,
+    -20.48722,
+    57.46556,
+    -20.48722
+],
+  "geometry": {"coordinates":[57.46556,-20.48722],"type":"Point"}
+}

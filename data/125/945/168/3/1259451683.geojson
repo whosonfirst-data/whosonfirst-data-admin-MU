@@ -1,0 +1,66 @@
+{
+  "id": 1259451683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.45,-19.75,63.45,-19.75",
+    "geom:latitude":-19.75,
+    "geom:longitude":63.45,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Port Sud-Est",
+    "gn:cc2":"MU",
+    "gn:country_code":"MU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1545751,
+    "gn:latitude":-19.75,
+    "gn:longitude":63.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Port Sud-Est",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Port South East",
+        "Port Sud-Est"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1545751
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"442a82caa4e2eba8ada44250a5678e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259451683,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259451683,
+    "wof:lastmodified":1537665827,
+    "wof:name":"Port Sud-Est",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.45,
+    -19.75,
+    63.45,
+    -19.75
+],
+  "geometry": {"coordinates":[63.45,-19.75],"type":"Point"}
+}

@@ -1,0 +1,296 @@
+{
+  "id": 85674993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.020575,
+    "geom:area_square_m":238356516.906173,
+    "geom:bbox":"57.3913763205,-20.5173479145,57.6309736011,-20.396050134",
+    "geom:latitude":-20.461808,
+    "geom:longitude":57.517202,
+    "gn:population":70158,
+    "iso:country":"MU",
+    "label:eng_x_preferred_longname":[
+        "Savanne District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-20.457232,
+    "lbl:longitude":57.543444,
+    "mps:latitude":-20.457232,
+    "mps:longitude":57.543444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u0627\u0641\u0627\u0646\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09ac\u09be\u09a8\u09c7 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Savanne"
+    ],
+    "name:chi_x_preferred":[
+        "\u85a9\u51e1\u7d0d\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Savanne District"
+    ],
+    "name:dut_x_preferred":[
+        "Savanne"
+    ],
+    "name:eng_x_preferred":[
+        "Savanne"
+    ],
+    "name:fin_x_preferred":[
+        "Savannen kaupunginosa"
+    ],
+    "name:fre_x_preferred":[
+        "Savanne"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10d5\u10d0\u10dc\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Savanne"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03b2\u03ac\u03bd"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ab5\u0abe\u0aa8\u0ac7 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0935\u093e\u0928\u0947 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Savanne"
+    ],
+    "name:ita_x_preferred":[
+        "Savanne"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30d0\u30f3\u30ca\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cb5\u0ca8\u0ccd\u0ca8\u0cc6 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\ubc18 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Savannas distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Savano rajonas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0935\u093e\u0928\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Savanne District"
+    ],
+    "name:nno_x_preferred":[
+        "Savanne p\u00e5 Mauritius"
+    ],
+    "name:nob_x_preferred":[
+        "Savanne"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0633\u0627\u0648\u0627\u0646\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Savanne"
+    ],
+    "name:por_x_preferred":[
+        "Savanne"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Savanne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0432\u0430\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dc0\u0db1\u0dca\u0db1\u0dda \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Savanne"
+    ],
+    "name:swe_x_preferred":[
+        "Savanne"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bb5\u0ba9\u0bcd\u0ba9\u0bc7 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c35\u0c46\u0c28\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e0b\u0e32\u0e27\u0e32\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Savanne B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d \u0421\u0430\u0432\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Savane"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0648\u0627\u0646\u06d2 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Savanne"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MUS",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"MUS-5195",
+    "ne:adm1_code":"MUS-5195",
+    "ne:admin":"Mauritius",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MU.",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5195",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Mauritius",
+    "ne:gn_a1_code":"MU.20",
+    "ne:gn_id":"934017",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Savanne District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MP20",
+    "ne:gns_id":"-1355564",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Savanne District",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MUS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MU-",
+    "ne:iso_a2":"MU",
+    "ne:labelrank":"20",
+    "ne:latitude":"-20.46400000000",
+    "ne:longitude":"57.52110000000",
+    "ne:mapcolor13":7,
+    "ne:mapcolor9":5,
+    "ne:name":"Savanne",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"Savanne",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MUS",
+    "ne:sub_code":"",
+    "ne:type":"District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Savanne_District",
+    "ne:woe_id":2346236,
+    "ne:woe_label":"Savanne, MU, Mauritius",
+    "ne:woe_name":"Savanne",
+    "qs:a0":"Mauritius",
+    "qs:a0_lc":"MU",
+    "qs:a1":"Savanne",
+    "qs:a1_lc":"MUS-5195",
+    "qs:adm0":"Mauritius",
+    "qs:adm0_a3":"MUS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-07-03",
+    "statoids:area_km":"243",
+    "statoids:area_mi":"94",
+    "statoids:as_of_date":"2011-07-03",
+    "statoids:capital":"Souillac",
+    "statoids:country":"MU",
+    "statoids:gec":"MP20",
+    "statoids:hasc":"MU.SA",
+    "statoids:iso":"SA",
+    "statoids:name":"Savanne",
+    "statoids:population":"67906",
+    "statoids:timezone":"+4",
+    "statoids:type":"district",
+    "unlc:subdivision":"MU-SA",
+    "wof:belongsto":[
+        102193527,
+        85632357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MP20",
+        "gn:id":934017,
+        "gp:id":2346236,
+        "hasc:id":"MU.SA",
+        "iso:id":"MU-SA",
+        "qs:id":423829,
+        "unlc:id":"MU-SA",
+        "wd:id":"Q1053600",
+        "wk:page":"Savanne District"
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"7d6d7bcb47d9f8421db0608373b9ed94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "region_id":85674993
+        }
+    ],
+    "wof:id":85674993,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "fra"
+    ],
+    "wof:lastmodified":1553550466,
+    "wof:name":"Savanne",
+    "wof:parent_id":85632357,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":67906,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:shortcode":"SA",
+    "wof:subdivision":"MU-SA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.39137632046089,
+    -20.51734791447461,
+    57.63097360105093,
+    -20.39605013400643
+],
+  "geometry": {"coordinates":[[[57.54601330556966,-20.40249334209403],[57.5739338727501,-20.40141947422933],[57.59433736397824,-20.40571494568815],[57.61259311857759,-20.42504456905158],[57.6254795347528,-20.45833447555555],[57.62870113834691,-20.48088570251309],[57.63097360105093,-20.49204013774209],[57.58838951866142,-20.50481536263885],[57.50359134216677,-20.51734791447461],[57.47364342520399,-20.5150692689316],[57.42693118572572,-20.5009091123656],[57.39926191520527,-20.49797942511032],[57.40211500000731,-20.48303343914188],[57.39137632046089,-20.47336862746016],[57.39137632046089,-20.45296513623202],[57.40963207506024,-20.44759579600913],[57.43325716988255,-20.43041390927442],[57.45366066111069,-20.42289683332217],[57.47513802020353,-20.41645362523457],[57.48695056851398,-20.42289683332217],[57.50305858738398,-20.42504456905158],[57.50950179547152,-20.40464107782344],[57.51164953120093,-20.39605013400643],[57.52668368220623,-20.39819787063516],[57.53527462602324,-20.40464107782344],[57.54601330556966,-20.40249334209403]]],"type":"Polygon"}
+}

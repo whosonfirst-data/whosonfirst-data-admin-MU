@@ -1,0 +1,61 @@
+{
+  "id": 1209184481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.51667,-20.22139,57.51667,-20.22139",
+    "geom:latitude":-20.22139,
+    "geom:longitude":57.51667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Helvetia",
+    "gn:country_code":"MU",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934443,
+    "gn:latitude":-20.22139,
+    "gn:longitude":57.51667,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Helv\u00e9tia",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934443
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"fab15a4ed12ebe245e063f0c6ad9a675",
+    "wof:hierarchy":[
+        {
+            "country_id":85632357,
+            "locality_id":1209184481
+        }
+    ],
+    "wof:id":1209184481,
+    "wof:lastmodified":1536295147,
+    "wof:name":"Helvetia",
+    "wof:parent_id":85632357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.51667,
+    -20.22139,
+    57.51667,
+    -20.22139
+],
+  "geometry": {"coordinates":[57.51667,-20.22139],"type":"Point"}
+}

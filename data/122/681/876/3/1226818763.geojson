@@ -1,0 +1,70 @@
+{
+  "id": 1226818763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.59417,-20.06583,57.59417,-20.06583",
+    "geom:latitude":-20.06583,
+    "geom:longitude":57.59417,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Belle Vue Harel",
+    "gn:cc2":"MU",
+    "gn:country_code":"MU",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934736,
+    "gn:latitude":-20.06583,
+    "gn:longitude":57.59417,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Belle Vue Harel",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belle-Vue",
+        "Belle Vue Harel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934736
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"5409bb3da95e8107661b36ab87933ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1226818763,
+            "region_id":85674957
+        }
+    ],
+    "wof:id":1226818763,
+    "wof:lastmodified":1537665826,
+    "wof:name":"Belle Vue Harel",
+    "wof:parent_id":85674957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.59417,
+    -20.06583,
+    57.59417,
+    -20.06583
+],
+  "geometry": {"coordinates":[57.59417,-20.06583],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1343238301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.52389,-20.26806,57.52389,-20.26806",
+    "geom:latitude":-20.26806,
+    "geom:longitude":57.52389,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Cinq Arpents",
+    "gn:country_code":"MU",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106734,
+    "gn:latitude":-20.26806,
+    "gn:longitude":57.52389,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Cinq Arpents",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106734
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"4234f2f797ec82c658b5773356efc33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1343238301,
+            "region_id":85674961
+        }
+    ],
+    "wof:id":1343238301,
+    "wof:lastmodified":1537064172,
+    "wof:name":"Cinq Arpents",
+    "wof:parent_id":85674961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.52389,
+    -20.26806,
+    57.52389,
+    -20.26806
+],
+  "geometry": {"coordinates":[57.52389,-20.26806],"type":"Point"}
+}

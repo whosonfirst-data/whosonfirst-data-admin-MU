@@ -1,0 +1,198 @@
+{
+  "id": 85674935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000023,
+    "geom:area_square_m":274627.107081,
+    "geom:bbox":"59.492035352,-16.8208960918,59.6970320974,-16.4236792947",
+    "geom:latitude":-16.6874,
+    "geom:longitude":59.56438,
+    "gn:population":63,
+    "iso:country":"MU",
+    "label:eng_x_preferred_longname":[
+        "Cargados Carajos Shoals Dependency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "dependency"
+    ],
+    "lbl:latitude":-16.818676,
+    "lbl:longitude":59.496433,
+    "mps:latitude":-16.818676,
+    "mps:longitude":59.496433,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:deu_x_preferred":[
+        "Cargados-Carajos-Inseln"
+    ],
+    "name:eng_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:fra_x_preferred":[
+        "\u00c9cueils des Cargados Carajos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30ac\u30c9\u30b9\u30fb\u30ab\u30e9\u30db\u30b9\u8af8\u5cf6"
+    ],
+    "name:pol_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:por_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0433\u0430\u0434\u043e\u0441-\u041a\u0430\u0440\u0430\u0445\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Cargados Carajos"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0440\u0433\u0430\u0434\u043e\u0441 \u041a\u0430\u0440\u0430\u0445\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Cargados Carajos"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MUS",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"MUS-5182",
+    "ne:adm1_code":"MUS-5182",
+    "ne:admin":"Mauritius",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MU.",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5182",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Mauritius",
+    "ne:gn_a1_code":"MU.22",
+    "ne:gn_id":"1106583",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Cargados Carajos",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MP22",
+    "ne:gns_id":"9149174",
+    "ne:gns_lang":"por",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Cargados Carajos",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MUS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MU-",
+    "ne:iso_a2":"MU",
+    "ne:labelrank":"20",
+    "ne:latitude":"-16.81880000000",
+    "ne:longitude":"59.49630000000",
+    "ne:mapcolor13":7,
+    "ne:mapcolor9":5,
+    "ne:name":"Cargados Carajos Shoals",
+    "ne:name_alt":"Saint Brandon Rocks",
+    "ne:name_len":23,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"Cargados Carajos Shoals",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MUS",
+    "ne:sub_code":"",
+    "ne:type":"Dependency",
+    "ne:type_en":"Dependency",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Cargados_Carajos",
+    "ne:woe_id":2346238,
+    "ne:woe_label":"",
+    "ne:woe_name":"Cargados Carajos",
+    "qs:a0":"Mauritius",
+    "qs:a0_lc":"MU",
+    "qs:a1":"Cargados Carajos Shoals",
+    "qs:a1_lc":"MUS-5182",
+    "qs:adm0":"Mauritius",
+    "qs:adm0_a3":"MUS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Dependency",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:area_km":"1",
+    "statoids:area_mi":"0",
+    "statoids:as_of_date":"2011-07-03",
+    "statoids:capital":"Port Louis",
+    "statoids:country":"MU",
+    "statoids:gec":"MP22",
+    "statoids:hasc":"MU.CC",
+    "statoids:iso":"CC",
+    "statoids:name":"Cargados Carajos",
+    "statoids:population":"",
+    "statoids:timezone":"+4",
+    "statoids:type":"dependency",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102193527,
+        85632357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MP22",
+        "gn:id":1106583,
+        "gp:id":2346238,
+        "hasc:id":"MU.CC",
+        "iso:id":"MU-CC",
+        "qs:id":1311327
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"a761267dc3a5d8aabad0339fd654dc5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "region_id":85674935
+        }
+    ],
+    "wof:id":85674935,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "fra"
+    ],
+    "wof:lastmodified":1553550464,
+    "wof:name":"Cargados Carajos Shoals",
+    "wof:parent_id":85632357,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"dependency",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:shortcode":"CC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.49203535204992,
+    -16.82089609178115,
+    59.69703209735349,
+    -16.42367929466366
+],
+  "geometry": {"coordinates":[[[[59.49830162931681,-16.81934986760228],[59.49203535204992,-16.82089609178115],[59.49675540513789,-16.81698984150796],[59.49830162931681,-16.81934986760228]]],[[[59.51099694135581,-16.81698984150796],[59.50749759204029,-16.81780364342336],[59.50888105601598,-16.81471119596489],[59.51099694135581,-16.81698984150796]]],[[[59.69621829543803,-16.60019296663205],[59.69629967508996,-16.60092538889552],[59.69678795749832,-16.60068124814103],[59.69703209735349,-16.60247161307444],[59.6958113944803,-16.60304127333603],[59.69540449352263,-16.60247161307444],[59.69532311297132,-16.60255299272637],[59.69426517030143,-16.60108814909876],[59.69621829543803,-16.60019296663205]]],[[[59.61589603037754,-16.42571379945224],[59.61345462283265,-16.42587655965548],[59.61296634222299,-16.42376067431564],[59.61548912941981,-16.42367929466366],[59.61589603037754,-16.42571379945224]]]],"type":"MultiPolygon"}
+}

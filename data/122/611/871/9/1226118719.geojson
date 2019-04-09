@@ -1,0 +1,65 @@
+{
+  "id": 1226118719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.46528,-20.33222,57.46528,-20.33222",
+    "geom:latitude":-20.33222,
+    "geom:longitude":57.46528,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Camp Mapou",
+    "gn:country_code":"MU",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106738,
+    "gn:latitude":-20.33222,
+    "gn:longitude":57.46528,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Camp Mapou",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106738
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"f333fc7020b82dc3c4366104e6b1cbac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1226118719,
+            "region_id":85674983
+        }
+    ],
+    "wof:id":1226118719,
+    "wof:lastmodified":1536617646,
+    "wof:name":"Camp Mapou",
+    "wof:parent_id":85674983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.46528000000001,
+    -20.33222,
+    57.46528000000001,
+    -20.33222
+],
+  "geometry": {"coordinates":[57.46528000000001,-20.33222],"type":"Point"}
+}

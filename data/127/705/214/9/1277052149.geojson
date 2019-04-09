@@ -1,0 +1,65 @@
+{
+  "id": 1277052149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.46639,-20.215,57.46639,-20.215",
+    "geom:latitude":-20.215,
+    "geom:longitude":57.46639,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Vuillemain",
+    "gn:country_code":"MU",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106800,
+    "gn:latitude":-20.215,
+    "gn:longitude":57.46639,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Vuillemain",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106800
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"09026e1d44e31fb5f871a2ec6a66e860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1277052149,
+            "region_id":85674961
+        }
+    ],
+    "wof:id":1277052149,
+    "wof:lastmodified":1536809784,
+    "wof:name":"Vuillemain",
+    "wof:parent_id":85674961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.46639,
+    -20.215,
+    57.46639,
+    -20.215
+],
+  "geometry": {"coordinates":[57.46639,-20.215],"type":"Point"}
+}

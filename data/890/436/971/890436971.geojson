@@ -1,0 +1,67 @@
+{
+  "id": 890436971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.43,-20.20722,57.43,-20.20722",
+    "geom:latitude":-20.20722,
+    "geom:longitude":57.43,
+    "gn:country":"MU",
+    "gn:fcode":"PPL",
+    "gn:pop":3361,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Gros Cailloux",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":303,
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106763,
+        "gp:id":1377240,
+        "qs:id":1029743,
+        "wd:id":"Q873740",
+        "wk:page":"Rivi\u00e8re Noire District"
+    },
+    "wof:country":"MU",
+    "wof:created":1469052133,
+    "wof:geomhash":"46529afbc11fe12b2a914b308b99f2de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":890436971,
+            "region_id":85674983
+        }
+    ],
+    "wof:id":890436971,
+    "wof:lastmodified":1527735402,
+    "wof:name":"Gros Cailloux",
+    "wof:parent_id":85674983,
+    "wof:placetype":"locality",
+    "wof:population":3361,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.43,
+    -20.20722,
+    57.43,
+    -20.20722
+],
+  "geometry": {"coordinates":[57.43,-20.20722],"type":"Point"}
+}

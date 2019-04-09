@@ -1,0 +1,65 @@
+{
+  "id": 1243346237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.52278,-20.21417,57.52278,-20.21417",
+    "geom:latitude":-20.21417,
+    "geom:longitude":57.52278,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"L'Agrement",
+    "gn:country_code":"MU",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934392,
+    "gn:latitude":-20.21417,
+    "gn:longitude":57.52278,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"L\u2019Agr\u00e9ment",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934392
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"8782a76f402c19749ff8b48f955269c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1243346237,
+            "region_id":85674953
+        }
+    ],
+    "wof:id":1243346237,
+    "wof:lastmodified":1536950338,
+    "wof:name":"L'Agrement",
+    "wof:parent_id":85674953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.52278,
+    -20.21417000000001,
+    57.52278,
+    -20.21417000000001
+],
+  "geometry": {"coordinates":[57.52278,-20.21417000000001],"type":"Point"}
+}

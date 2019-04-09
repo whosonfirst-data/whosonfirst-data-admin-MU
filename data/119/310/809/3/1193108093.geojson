@@ -1,0 +1,65 @@
+{
+  "id": 1193108093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.66333,-20.36778,57.66333,-20.36778",
+    "geom:latitude":-20.36778,
+    "geom:longitude":57.66333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Beau Site",
+    "gn:country_code":"MU",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934755,
+    "gn:latitude":-20.36778,
+    "gn:longitude":57.66333,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Beau Site",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934755
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"7e3bb9d7f717f9c02d6ddf14172beb44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1193108093,
+            "region_id":85674947
+        }
+    ],
+    "wof:id":1193108093,
+    "wof:lastmodified":1536376277,
+    "wof:name":"Beau Site",
+    "wof:parent_id":85674947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.66333,
+    -20.36778,
+    57.66333,
+    -20.36778
+],
+  "geometry": {"coordinates":[57.66333,-20.36778],"type":"Point"}
+}

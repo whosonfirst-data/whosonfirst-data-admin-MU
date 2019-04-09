@@ -1,0 +1,69 @@
+{
+  "id": 1343238589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.735,-20.29778,57.735,-20.29778",
+    "geom:latitude":-20.29778,
+    "geom:longitude":57.735,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bois d'Oiseaux",
+    "gn:country_code":"MU",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934702,
+    "gn:latitude":-20.29778,
+    "gn:longitude":57.735,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bois d\u2019Oiseaux",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bois d\u2019Oiseau",
+        "Bois d\u2019Oiseaux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934702
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"cf36e1d793ebaa0735fdce76e55d987f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1343238589,
+            "region_id":85674943
+        }
+    ],
+    "wof:id":1343238589,
+    "wof:lastmodified":1537665826,
+    "wof:name":"Bois d'Oiseaux",
+    "wof:parent_id":85674943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.735,
+    -20.29778,
+    57.735,
+    -20.29778
+],
+  "geometry": {"coordinates":[57.735,-20.29778],"type":"Point"}
+}

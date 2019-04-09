@@ -1,0 +1,67 @@
+{
+  "id": 890436957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.59083,-20.14889,57.59083,-20.14889",
+    "geom:latitude":-20.14889,
+    "geom:longitude":57.59083,
+    "gn:country":"MU",
+    "gn:fcode":"PPL",
+    "gn:pop":1956,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Congomah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":310,
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106621,
+        "gp:id":1377378,
+        "qs:id":1029734,
+        "wd:id":"Q934126",
+        "wk:page":"Pamplemousses District"
+    },
+    "wof:country":"MU",
+    "wof:created":1469052133,
+    "wof:geomhash":"ec77c7533a17a75da38cfe5d7d6e4545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":890436957,
+            "region_id":85674957
+        }
+    ],
+    "wof:id":890436957,
+    "wof:lastmodified":1527735403,
+    "wof:name":"Congomah",
+    "wof:parent_id":85674957,
+    "wof:placetype":"locality",
+    "wof:population":1956,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.59083,
+    -20.14889,
+    57.59083,
+    -20.14889
+],
+  "geometry": {"coordinates":[57.59083,-20.14889],"type":"Point"}
+}

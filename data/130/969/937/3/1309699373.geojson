@@ -1,0 +1,65 @@
+{
+  "id": 1309699373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.38889,-20.26028,57.38889,-20.26028",
+    "geom:latitude":-20.26028,
+    "geom:longitude":57.38889,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Medine",
+    "gn:country_code":"MU",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934290,
+    "gn:latitude":-20.26028,
+    "gn:longitude":57.38889,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"M\u00e9dine",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934290
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"d737bc707a58370525c88975da69b87c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1309699373,
+            "region_id":85674983
+        }
+    ],
+    "wof:id":1309699373,
+    "wof:lastmodified":1537081442,
+    "wof:name":"Medine",
+    "wof:parent_id":85674983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.38889,
+    -20.26028,
+    57.38889,
+    -20.26028
+],
+  "geometry": {"coordinates":[57.38889,-20.26028],"type":"Point"}
+}

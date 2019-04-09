@@ -1,0 +1,83 @@
+{
+  "id": 421174067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.73056,-20.16306,57.73056,-20.16306",
+    "geom:latitude":-20.16306,
+    "geom:longitude":57.73056,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:pol_x_preferred":[
+        "Rivi\u00e8re du Rempart"
+    ],
+    "name:unk_x_variant":[
+        "Post of Flacq"
+    ],
+    "qs:gn_country":"MU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":934149,
+    "qs:gn_pop":7133,
+    "qs:name":"Poste de Flacq",
+    "qs:name_adm0":"Mauritius",
+    "qs:name_adm1":"Flacq",
+    "qs:photos":1332,
+    "qs:photos_1k":270,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1332,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":316794,
+    "qs:woe_adm0":23424894,
+    "qs:woe_id":1377440,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934149,
+        "gp:id":1377440,
+        "qs:id":316794
+    },
+    "wof:country":"MU",
+    "wof:created":1459009018,
+    "wof:geomhash":"44446fdfbf92694433a548e0fc6c8edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":421174067,
+            "region_id":85674943
+        }
+    ],
+    "wof:id":421174067,
+    "wof:lastmodified":1505340619,
+    "wof:name":"Poste de Flacq",
+    "wof:parent_id":85674943,
+    "wof:placetype":"locality",
+    "wof:population":7133,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.73056,
+    -20.16306,
+    57.73056,
+    -20.16306
+],
+  "geometry": {"coordinates":[57.73056,-20.16306],"type":"Point"}
+}

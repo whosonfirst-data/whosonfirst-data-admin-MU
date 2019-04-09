@@ -1,0 +1,68 @@
+{
+  "id": 1226317189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.38833,-20.49639,57.38833,-20.49639",
+    "geom:latitude":-20.49639,
+    "geom:longitude":57.38833,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Saint Martin",
+    "gn:country_code":"MU",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934037,
+    "gn:latitude":-20.49639,
+    "gn:longitude":57.38833,
+    "gn:modification_date":"2013-09-07",
+    "gn:name":"Saint Martin",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d-\u041c\u0430\u0440\u0442\u0435\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934037
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"e3242a644e83c9222c197451cc7165e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1226317189,
+            "region_id":85674983
+        }
+    ],
+    "wof:id":1226317189,
+    "wof:lastmodified":1537665823,
+    "wof:name":"Saint Martin",
+    "wof:parent_id":85674983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.38833,
+    -20.49639,
+    57.38833,
+    -20.49639
+],
+  "geometry": {"coordinates":[57.38833,-20.49639],"type":"Point"}
+}

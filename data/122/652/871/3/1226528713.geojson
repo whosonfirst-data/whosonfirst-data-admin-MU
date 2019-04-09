@@ -1,0 +1,65 @@
+{
+  "id": 1226528713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.70861,-20.17778,57.70861,-20.17778",
+    "geom:latitude":-20.17778,
+    "geom:longitude":57.70861,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Constance",
+    "gn:country_code":"MU",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934590,
+    "gn:latitude":-20.17778,
+    "gn:longitude":57.70861,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Constance",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934590
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"ae4a5facaf9dd8bba06d357c8f0eea8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1226528713,
+            "region_id":85674943
+        }
+    ],
+    "wof:id":1226528713,
+    "wof:lastmodified":1537021662,
+    "wof:name":"Constance",
+    "wof:parent_id":85674943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.70861,
+    -20.17778,
+    57.70861,
+    -20.17778
+],
+  "geometry": {"coordinates":[57.70861,-20.17778],"type":"Point"}
+}

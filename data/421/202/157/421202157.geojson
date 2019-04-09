@@ -1,0 +1,123 @@
+{
+  "id": 421202157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.51667,-20.51667,57.51667,-20.51667",
+    "geom:latitude":-20.51667,
+    "geom:longitude":57.51667,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8607\u4e9e\u514b"
+    ],
+    "name:dut_x_preferred":[
+        "Souillac"
+    ],
+    "name:eng_x_preferred":[
+        "Souillac"
+    ],
+    "name:fre_x_preferred":[
+        "Souillac"
+    ],
+    "name:ger_x_preferred":[
+        "Souillac"
+    ],
+    "name:ita_x_preferred":[
+        "Souillac"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30a4\u30e4\u30c3\u30af"
+    ],
+    "name:lit_x_preferred":[
+        "Sujakas"
+    ],
+    "name:pol_x_preferred":[
+        "Souillac"
+    ],
+    "name:por_x_preferred":[
+        "Souillac"
+    ],
+    "name:slo_x_preferred":[
+        "Souillac"
+    ],
+    "name:spa_x_preferred":[
+        "Souillac"
+    ],
+    "name:tur_x_preferred":[
+        "Souillac"
+    ],
+    "name:unk_x_variant":[
+        "Port Souillac"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8607\u4e9e\u514b"
+    ],
+    "name:yue_x_preferred":[
+        "\u8607\u4e9e\u514b"
+    ],
+    "qs:gn_country":"MU",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":933995,
+    "qs:gn_pop":4392,
+    "qs:name":"Souillac",
+    "qs:name_adm0":"Mauritius",
+    "qs:name_adm1":"Savanne",
+    "qs:photos":1342,
+    "qs:photos_1k":272,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1342,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":219473,
+    "qs:woe_adm0":23424894,
+    "qs:woe_id":1377481,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        85632357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933995,
+        "gp:id":1377481,
+        "qs:id":219473,
+        "wd:id":"Q2215428",
+        "wk:page":"Souillac, Mauritius"
+    },
+    "wof:country":"MU",
+    "wof:created":1459010107,
+    "wof:geomhash":"a4d2c7469d13b60e2af8bf594bd6478d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632357,
+            "locality_id":421202157
+        }
+    ],
+    "wof:id":421202157,
+    "wof:lastmodified":1553816388,
+    "wof:name":"Souillac",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":4392,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.51667,
+    -20.51667,
+    57.51667,
+    -20.51667
+],
+  "geometry": {"coordinates":[57.51667,-20.51667],"type":"Point"}
+}

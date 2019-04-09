@@ -1,0 +1,65 @@
+{
+  "id": 1242635613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.44167,-19.7,63.44167,-19.7",
+    "geom:latitude":-19.7,
+    "geom:longitude":63.44167,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Citronelle",
+    "gn:country_code":"MU",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1547494,
+    "gn:latitude":-19.7,
+    "gn:longitude":63.44167,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Citronelle",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1547494
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"361d587a09dd7c377a4e9ea5507605d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1242635613,
+            "region_id":85674989
+        }
+    ],
+    "wof:id":1242635613,
+    "wof:lastmodified":1536979751,
+    "wof:name":"Citronelle",
+    "wof:parent_id":85674989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.44167,
+    -19.7,
+    63.44167,
+    -19.7
+],
+  "geometry": {"coordinates":[63.44167,-19.7],"type":"Point"}
+}

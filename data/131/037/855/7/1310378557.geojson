@@ -1,0 +1,65 @@
+{
+  "id": 1310378557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.56536,-20.25664,57.56536,-20.25664",
+    "geom:latitude":-20.25664,
+    "geom:longitude":57.56536,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Valetta",
+    "gn:country_code":"MU",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933937,
+    "gn:latitude":-20.25664,
+    "gn:longitude":57.56536,
+    "gn:modification_date":"2016-07-31",
+    "gn:name":"Valetta",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933937
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"896ad06fd5823265f2d00010f7990a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1310378557,
+            "region_id":85674953
+        }
+    ],
+    "wof:id":1310378557,
+    "wof:lastmodified":1537096890,
+    "wof:name":"Valetta",
+    "wof:parent_id":85674953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.56536,
+    -20.25664,
+    57.56536,
+    -20.25664
+],
+  "geometry": {"coordinates":[57.56536,-20.25664],"type":"Point"}
+}

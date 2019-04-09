@@ -1,0 +1,190 @@
+{
+  "id": 85674975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001514,
+    "geom:area_square_m":17562493.458044,
+    "geom:bbox":"57.4569629393,-20.2908641675,57.5111929796,-20.2485126346",
+    "geom:latitude":-20.268985,
+    "geom:longitude":57.48044,
+    "gn:population":80961,
+    "iso:country":"MU",
+    "label:eng_x_preferred_longname":[
+        "Quatre Bornes City"
+    ],
+    "lbl:latitude":-20.268215,
+    "lbl:longitude":57.48044,
+    "mps:latitude":-20.268215,
+    "mps:longitude":57.48044,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:deu_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:eng_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:fra_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30c8\u30eb\u30fb\u30dc\u30eb\u30cc"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\uc544\ud2b8\ub808 \ubcf4\ub974\ub124"
+    ],
+    "name:nld_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:pol_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:por_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u0440-\u0411\u043e\u0440\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0442\u0440 \u0411\u043e\u043d\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u06cc\u062a\u062e \u0628\u0648\u0631\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u7279\u52d2\u535a\u723e\u7d0d"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MUS",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"MUS-5191",
+    "ne:adm1_code":"MUS-5191",
+    "ne:admin":"Mauritius",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MU.",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5191",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Mauritius",
+    "ne:gn_a1_code":"MU.",
+    "ne:gn_id":"-99",
+    "ne:gn_level":"0",
+    "ne:gn_name":"",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MUS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MU-",
+    "ne:iso_a2":"MU",
+    "ne:labelrank":"20",
+    "ne:latitude":"-20.26880000000",
+    "ne:longitude":"57.48010000000",
+    "ne:mapcolor13":7,
+    "ne:mapcolor9":5,
+    "ne:name":"Quatre Bornes",
+    "ne:name_alt":"",
+    "ne:name_len":13,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"Plaines Wilhems",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MUS",
+    "ne:sub_code":"",
+    "ne:type":"City",
+    "ne:type_en":"City",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Quatre_Bornes",
+    "ne:woe_id":1377444,
+    "ne:woe_label":"",
+    "ne:woe_name":"Quatre Bornes",
+    "qs:a0":"Mauritius",
+    "qs:a0_lc":"MU",
+    "qs:a1":"Quatre Bornes",
+    "qs:a1_lc":"MUS-5191",
+    "qs:adm0":"Mauritius",
+    "qs:adm0_a3":"MUS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"City",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "unlc:subdivision":"MU-QB",
+    "wd:wordcount":466,
+    "wof:belongsto":[
+        102193527,
+        85632357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":934131,
+        "gp:id":1377444,
+        "hasc:id":"MU.",
+        "qs:id":1040807,
+        "unlc:id":"MU-QB",
+        "wd:id":"Q1341194",
+        "wk:page":"Quatre Bornes"
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"35fb227a9e5fa39969b8de8620940886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "region_id":85674975
+        }
+    ],
+    "wof:id":85674975,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "fra"
+    ],
+    "wof:lastmodified":1553550466,
+    "wof:name":"Quatre Bornes",
+    "wof:parent_id":85632357,
+    "wof:placetype":"region",
+    "wof:population":80961,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:subdivision":"MU-QB",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.45696293928825,
+    -20.29086416754723,
+    57.5111929795724,
+    -20.24851263455042
+],
+  "geometry": {"coordinates":[[[57.5111929795724,-20.27662721247583],[57.45920687639631,-20.29086416754723],[57.45696293928825,-20.256073615405],[57.49479280874118,-20.24851263455042],[57.5111929795724,-20.27662721247583]]],"type":"Polygon"}
+}

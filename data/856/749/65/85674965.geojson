@@ -1,0 +1,250 @@
+{
+  "id": 85674965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003418,
+    "geom:area_square_m":39677777.80682,
+    "geom:bbox":"57.4654067216,-20.2019590103,57.5503087779,-20.122213806",
+    "geom:latitude":-20.164729,
+    "geom:longitude":57.519331,
+    "gn:population":133789,
+    "iso:country":"MU",
+    "label:eng_x_preferred_longname":[
+        "Port Louis District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-20.171481,
+    "lbl:longitude":57.529301,
+    "mps:latitude":-20.171481,
+    "mps:longitude":57.529301,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:chi_x_preferred":[
+        "\u8def\u6613\u6e2f\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Port Louis District"
+    ],
+    "name:dut_x_preferred":[
+        "Port Louis"
+    ],
+    "name:eng_x_preferred":[
+        "Port Louis"
+    ],
+    "name:eng_x_variant":[
+        "Pt Louis",
+        "Pt. Louis",
+        "Port Louis District"
+    ],
+    "name:fre_x_preferred":[
+        "Port Louis"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10dd\u10e0\u10e2-\u10da\u10e3\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Port Louis"
+    ],
+    "name:glg_x_preferred":[
+        "Port Louis"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Port Louis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30c8\u30eb\u30a4\u30b9\u770c"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ud2b8\ub8e8\uc774\uc2a4 \uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Port Luiso rajonas"
+    ],
+    "name:nob_x_preferred":[
+        "Port Louis"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u067e\u0648\u0631\u062a \u0644\u0648\u0626\u06cc\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Port Louis"
+    ],
+    "name:por_x_preferred":[
+        "Port Louis"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Port Louis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041b\u0443\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Port Louis"
+    ],
+    "name:swe_x_preferred":[
+        "Port Louis"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0bb2\u0bc2\u0baf\u0bbf\u0bb8\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tur_x_preferred":[
+        "Port Louis il\u00e7esi"
+    ],
+    "name:unk_x_variant":[
+        "District of Port Louis"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0631\u0679 \u0644\u0648\u0626\u0633 \u0636\u0644\u0639"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8def\u6613\u6e2f\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MUS",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"MUS-5189",
+    "ne:adm1_code":"MUS-5189",
+    "ne:admin":"Mauritius",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MU.",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5189",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Mauritius",
+    "ne:gn_a1_code":"MU.18",
+    "ne:gn_id":"934153",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Port Louis District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MUS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MU-",
+    "ne:iso_a2":"MU",
+    "ne:labelrank":"20",
+    "ne:latitude":"-20.16670000000",
+    "ne:longitude":"57.52960000000",
+    "ne:mapcolor13":7,
+    "ne:mapcolor9":5,
+    "ne:name":"Port Louis",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"Port Louis",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MUS",
+    "ne:sub_code":"",
+    "ne:type":"City",
+    "ne:type_en":"City",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Port_Louis_District",
+    "ne:woe_id":2346234,
+    "ne:woe_label":"Port Louis, MU, Mauritius",
+    "ne:woe_name":"Port Louis",
+    "qs:a0":"Mauritius",
+    "qs:a0_lc":"MU",
+    "qs:a1":"Port Louis",
+    "qs:a1_lc":"MUS-5189",
+    "qs:adm0":"Mauritius",
+    "qs:adm0_a3":"MUS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"City",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-07-03",
+    "statoids:area_km":"44",
+    "statoids:area_mi":"17",
+    "statoids:as_of_date":"2011-07-03",
+    "statoids:capital":"Port Louis",
+    "statoids:country":"MU",
+    "statoids:gec":"MP18",
+    "statoids:hasc":"MU.PL",
+    "statoids:iso":"PL",
+    "statoids:name":"Port Louis",
+    "statoids:population":"118431",
+    "statoids:timezone":"+4",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102193527,
+        85632357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MP18",
+        "gn:id":934153,
+        "gp:id":2346234,
+        "hasc:id":"MU.PL",
+        "iso:id":"MU-PL",
+        "qs:id":1083850,
+        "wd:id":"Q960645",
+        "wk:page":"Port Louis District"
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"da41c7c5f3da0f9c1c77f49490c04c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "region_id":85674965
+        }
+    ],
+    "wof:id":85674965,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "fra"
+    ],
+    "wof:lastmodified":1553550466,
+    "wof:name":"Port Louis",
+    "wof:parent_id":85632357,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":118431,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:shortcode":"PL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.46540672164292,
+    -20.20195901030002,
+    57.5503087779278,
+    -20.12221380602227
+],
+  "geometry": {"coordinates":[[[57.54626170911064,-20.20195901030002],[57.53849622961735,-20.19953229857668],[57.51809273838921,-20.18986748689497],[57.50520632311338,-20.18449814667207],[57.48587669974995,-20.19094135475967],[57.47084254874466,-20.18879361903026],[57.46540672164292,-20.16753344081559],[57.47767289968465,-20.16587513952601],[57.49125862958215,-20.16819465475947],[57.50153076603209,-20.17150824730771],[57.50981474785237,-20.1662064992305],[57.51246562189101,-20.15725979890055],[57.52207503983129,-20.1486444582751],[57.51942416579266,-20.13505872837754],[57.51279698069618,-20.13373329135828],[57.50583843679448,-20.13903504033482],[57.49954261050311,-20.13240785433896],[57.49925787884808,-20.12315458951264],[57.52131434288265,-20.12650927748115],[57.53957009838138,-20.12221380602227],[57.54708717343436,-20.1351002212981],[57.5503087779278,-20.17590720375438],[57.54626170911064,-20.20195901030002]]],"type":"Polygon"}
+}

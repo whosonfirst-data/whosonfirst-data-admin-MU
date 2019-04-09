@@ -1,0 +1,65 @@
+{
+  "id": 1259369987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.35444,-20.44778,57.35444,-20.44778",
+    "geom:latitude":-20.44778,
+    "geom:longitude":57.35444,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Moka",
+    "gn:country_code":"MU",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":934276,
+    "gn:latitude":-20.44778,
+    "gn:longitude":57.35444,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Moka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934276
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"7c3f7ff0d43fa671c5654011602b5879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1259369987,
+            "region_id":85674983
+        }
+    ],
+    "wof:id":1259369987,
+    "wof:lastmodified":1537020806,
+    "wof:name":"Moka",
+    "wof:parent_id":85674983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.35444,
+    -20.44778,
+    57.35444,
+    -20.44778
+],
+  "geometry": {"coordinates":[57.35444,-20.44778],"type":"Point"}
+}

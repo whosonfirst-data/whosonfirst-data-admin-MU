@@ -1,0 +1,65 @@
+{
+  "id": 1344221845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.37306,-20.47944,57.37306,-20.47944",
+    "geom:latitude":-20.47944,
+    "geom:longitude":57.37306,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Choisy",
+    "gn:country_code":"MU",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934610,
+    "gn:latitude":-20.47944,
+    "gn:longitude":57.37306,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Choisy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934610
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"27881190db8797ee5a959da12fe25bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1344221845,
+            "region_id":85674983
+        }
+    ],
+    "wof:id":1344221845,
+    "wof:lastmodified":1536642038,
+    "wof:name":"Choisy",
+    "wof:parent_id":85674983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.37306,
+    -20.47944,
+    57.37306,
+    -20.47944
+],
+  "geometry": {"coordinates":[57.37306,-20.47944],"type":"Point"}
+}

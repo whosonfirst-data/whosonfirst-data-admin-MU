@@ -1,0 +1,223 @@
+{
+  "id": 85674925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001158,
+    "geom:area_square_m":14080004.522058,
+    "geom:bbox":"56.5241805355,-10.4065080706,56.5693465499,-10.3239071591",
+    "geom:latitude":-10.362172,
+    "geom:longitude":56.545544,
+    "gn:population":289,
+    "iso:country":"MU",
+    "label:eng_x_preferred_longname":[
+        "Agal\u00e9ga Dependency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "dependency"
+    ],
+    "lbl:latitude":-10.363508,
+    "lbl:longitude":56.545202,
+    "mps:latitude":-10.363508,
+    "mps:longitude":56.545202,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Islles Agalega"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0440\u0445\u0456\u043f\u0435\u043b\u0430\u0433 \u0410\u0433\u0430\u043b\u0435\u0433\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Agalega"
+    ],
+    "name:deu_x_preferred":[
+        "Agalega-Inseln"
+    ],
+    "name:eng_x_preferred":[
+        "Agalega Islands"
+    ],
+    "name:eng_x_variant":[
+        "Agalega"
+    ],
+    "name:est_x_preferred":[
+        "Agalega"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u0627\u06cc\u0631 \u0622\u06af\u0627\u0644\u06af\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Agal\u00e9ga"
+    ],
+    "name:fra_x_variant":[
+        "\u00eeles Agal\u00e9ga"
+    ],
+    "name:glg_x_preferred":[
+        "Agalega"
+    ],
+    "name:ita_x_preferred":[
+        "Agalega"
+    ],
+    "name:nno_x_preferred":[
+        "Agalega\u00f8yane"
+    ],
+    "name:nob_x_preferred":[
+        "Agalega\u00f8yene"
+    ],
+    "name:spa_x_preferred":[
+        "Islas Agalega"
+    ],
+    "name:unk_x_variant":[
+        "Agalega Islands"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MUS",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"8",
+    "ne:adm1_cod_1":"MUS-5180",
+    "ne:adm1_code":"MUS-5180",
+    "ne:admin":"Mauritius",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MU.",
+    "ne:code_local":"",
+    "ne:datarank":"11",
+    "ne:diss_me":"5180",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Mauritius",
+    "ne:gn_a1_code":"MU.21",
+    "ne:gn_id":"448254",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Agalega Islands",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MP21",
+    "ne:gns_id":"9149172",
+    "ne:gns_lang":"por",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Agalega Islands",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MUS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MU-",
+    "ne:iso_a2":"MU",
+    "ne:labelrank":"20",
+    "ne:latitude":"-10.35120000000",
+    "ne:longitude":"56.53720000000",
+    "ne:mapcolor13":7,
+    "ne:mapcolor9":5,
+    "ne:name":"Agal\u00e9ga",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"Agal\u00e9ga",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"11",
+    "ne:sov_a3":"MUS",
+    "ne:sub_code":"",
+    "ne:type":"Dependency",
+    "ne:type_en":"Dependency",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Agal%C3%A9ga",
+    "ne:woe_id":2346237,
+    "ne:woe_label":"",
+    "ne:woe_name":"Agalega Islands",
+    "qs:a0":"Mauritius",
+    "qs:a0_lc":"MU",
+    "qs:a1":"Agal\u00e9ga",
+    "qs:a1_lc":"MUS-5180",
+    "qs:adm0":"Mauritius",
+    "qs:adm0_a3":"MUS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Dependency",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-07-03",
+    "statoids:area_km":"70",
+    "statoids:area_mi":"27",
+    "statoids:as_of_date":"2011-07-03",
+    "statoids:capital":"Port Louis",
+    "statoids:country":"MU",
+    "statoids:gec":"MP21",
+    "statoids:hasc":"MU.AG",
+    "statoids:iso":"AG",
+    "statoids:name":"Agalega Islands",
+    "statoids:population":"274",
+    "statoids:timezone":"+4",
+    "statoids:type":"dependency",
+    "unlc:subdivision":"MU-AG",
+    "wd:wordcount":1250,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102193527,
+        85632357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MP21",
+        "gn:id":448254,
+        "gp:id":2346237,
+        "hasc:id":"MU.AG",
+        "iso:id":"MU-AG",
+        "qs:id":1311326,
+        "unlc:id":"MU-AG",
+        "wd:id":"Q196042",
+        "wk:page":"Agal\u00e9ga"
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"eb69a8c350fef3f0ef574b822b7a3e14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "region_id":85674925
+        }
+    ],
+    "wof:id":85674925,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "fra"
+    ],
+    "wof:lastmodified":1553550464,
+    "wof:name":"Agal\u00e9ga",
+    "wof:parent_id":85632357,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"dependency",
+    "wof:population":274,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:shortcode":"AG",
+    "wof:subdivision":"MU-AG",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.52418053550338,
+    -10.40650807059092,
+    56.5693465499034,
+    -10.32390715908809
+],
+  "geometry": {"coordinates":[[[56.52418053550338,-10.3300106743531],[56.52556399768042,-10.3273251278523],[56.52767988391957,-10.32537200271571],[56.53101647213254,-10.32415129984258],[56.53565514376993,-10.32390715908809],[56.54281660170489,-10.34644947646211],[56.56861412943857,-10.38640715896315],[56.5693465499034,-10.40650807059092],[56.54851321691149,-10.38201262808025],[56.52979576925941,-10.35295989358417],[56.5245874364611,-10.34002044079068],[56.52418053550338,-10.3300106743531]]],"type":"Polygon"}
+}

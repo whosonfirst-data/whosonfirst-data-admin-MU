@@ -1,0 +1,65 @@
+{
+  "id": 1226400659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.36111,-19.72917,63.36111,-19.72917",
+    "geom:latitude":-19.72917,
+    "geom:longitude":63.36111,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Baie Topaze",
+    "gn:country_code":"MU",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1547520,
+    "gn:latitude":-19.72917,
+    "gn:longitude":63.36111,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Baie Topaze",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1547520
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"01a1c3561ba5fa296bc62c9c6d2365d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1226400659,
+            "region_id":85674989
+        }
+    ],
+    "wof:id":1226400659,
+    "wof:lastmodified":1536710887,
+    "wof:name":"Baie Topaze",
+    "wof:parent_id":85674989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.36111,
+    -19.72917,
+    63.36111,
+    -19.72917
+],
+  "geometry": {"coordinates":[63.36111,-19.72917],"type":"Point"}
+}

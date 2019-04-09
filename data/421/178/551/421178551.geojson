@@ -1,0 +1,122 @@
+{
+  "id": 421178551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.49583,-20.21889,57.49583,-20.21889",
+    "geom:latitude":-20.21889,
+    "geom:longitude":57.49583,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u83ab\u5361\u5340"
+    ],
+    "name:dut_x_preferred":[
+        "Moka"
+    ],
+    "name:eng_x_preferred":[
+        "Moka"
+    ],
+    "name:fra_x_preferred":[
+        "Moka"
+    ],
+    "name:fre_x_preferred":[
+        "Moka"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0915\u093e"
+    ],
+    "name:ita_x_preferred":[
+        "Moka"
+    ],
+    "name:pol_x_preferred":[
+        "Moka"
+    ],
+    "name:por_x_preferred":[
+        "Moka"
+    ],
+    "name:spa_x_preferred":[
+        "Moka"
+    ],
+    "name:swe_x_preferred":[
+        "Moka"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bcb\u0b95\u0bcd\u0b95\u0bbe"
+    ],
+    "name:tur_x_preferred":[
+        "Moka"
+    ],
+    "name:unk_x_variant":[
+        "Moka Village"
+    ],
+    "qs:gn_country":"MU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":934277,
+    "qs:gn_pop":8842,
+    "qs:name":"Moka",
+    "qs:name_adm0":"Mauritius",
+    "qs:name_adm1":"Moka",
+    "qs:photos":420,
+    "qs:photos_1k":85,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":420,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":130163,
+    "qs:woe_adm0":23424894,
+    "qs:woe_id":1377392,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":474,
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934277,
+        "gp:id":1377392,
+        "qs:id":130163,
+        "wd:id":"Q282908",
+        "wk:page":"Moka"
+    },
+    "wof:country":"MU",
+    "wof:created":1459009185,
+    "wof:geomhash":"7e0ed87dccf982117d49328169f2cf3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":421178551,
+            "region_id":85674953
+        }
+    ],
+    "wof:id":421178551,
+    "wof:lastmodified":1553816368,
+    "wof:name":"Moka",
+    "wof:parent_id":85674953,
+    "wof:placetype":"locality",
+    "wof:population":8842,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.49583,
+    -20.21889,
+    57.49583,
+    -20.21889
+],
+  "geometry": {"coordinates":[57.49583,-20.21889],"type":"Point"}
+}

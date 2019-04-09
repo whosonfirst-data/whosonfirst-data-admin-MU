@@ -1,0 +1,65 @@
+{
+  "id": 1226826251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.41667,-20.31667,57.41667,-20.31667",
+    "geom:latitude":-20.31667,
+    "geom:longitude":57.41667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Suase",
+    "gn:country_code":"MU",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":933991,
+    "gn:latitude":-20.31667,
+    "gn:longitude":57.41667,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Suase",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933991
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"838930cfa4ed98247e6b9bf91a990949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1226826251,
+            "region_id":85674983
+        }
+    ],
+    "wof:id":1226826251,
+    "wof:lastmodified":1537093244,
+    "wof:name":"Suase",
+    "wof:parent_id":85674983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.41667,
+    -20.31667,
+    57.41667,
+    -20.31667
+],
+  "geometry": {"coordinates":[57.41667,-20.31667],"type":"Point"}
+}

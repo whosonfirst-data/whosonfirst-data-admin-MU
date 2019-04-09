@@ -1,0 +1,71 @@
+{
+  "id": 1343645021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.69655,-20.39009,57.69655,-20.39009",
+    "geom:latitude":-20.39009,
+    "geom:longitude":57.69655,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Riviere des Creoles",
+    "gn:cc2":"MU",
+    "gn:country_code":"MU",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":934096,
+    "gn:latitude":-20.39009,
+    "gn:longitude":57.69655,
+    "gn:modification_date":"2018-03-21",
+    "gn:name":"Rivi\u00e8re des Creoles",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rivi\u00e8re Cr\u00e9oles",
+        "Rivi\u00e8re des Creoles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934096,
+        "wk:page":"Rivi%C3%A8re_des_Cr%C3%A9oles"
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"526c8a533eb6e3f12d71291c31a46557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1343645021,
+            "region_id":85674947
+        }
+    ],
+    "wof:id":1343645021,
+    "wof:lastmodified":1537665823,
+    "wof:name":"Riviere des Creoles",
+    "wof:parent_id":85674947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.69655,
+    -20.39009,
+    57.69655,
+    -20.39009
+],
+  "geometry": {"coordinates":[57.69655,-20.39009],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 421202153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.5725,-20.065,57.5725,-20.065",
+    "geom:latitude":-20.065,
+    "geom:longitude":57.5725,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Plaines des Papayes"
+    ],
+    "qs:gn_country":"MU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":934170,
+    "qs:gn_pop":7617,
+    "qs:name":"Plaine des Papayes",
+    "qs:name_adm0":"Mauritius",
+    "qs:name_adm1":"Pamplemousses",
+    "qs:photos":811,
+    "qs:photos_1k":164,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":811,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":219464,
+    "qs:woe_adm0":23424894,
+    "qs:woe_id":1377428,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934170,
+        "gp:id":1377428,
+        "qs:id":219464
+    },
+    "wof:country":"MU",
+    "wof:created":1459010107,
+    "wof:geomhash":"6014d94d3bb7d016257151105477c5a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":421202153,
+            "region_id":85674957
+        }
+    ],
+    "wof:id":421202153,
+    "wof:lastmodified":1505340775,
+    "wof:name":"Plaine des Papayes",
+    "wof:parent_id":85674957,
+    "wof:placetype":"locality",
+    "wof:population":7617,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.5725,
+    -20.065,
+    57.5725,
+    -20.065
+],
+  "geometry": {"coordinates":[57.5725,-20.065],"type":"Point"}
+}

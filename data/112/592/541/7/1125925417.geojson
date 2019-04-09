@@ -1,0 +1,138 @@
+{
+  "id": 1125925417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.4791,-20.26381,57.4791,-20.26381",
+    "geom:latitude":-20.26381,
+    "geom:longitude":57.4791,
+    "gn:gn_country":"MU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":80961,
+    "iso:country":"MU",
+    "lbl:latitude":-20.26381,
+    "lbl:longitude":57.4791,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u7279\u52d2\u535a\u723e\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:eng_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:fre_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:ger_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:ita_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30c8\u30eb\u30fb\u30dc\u30eb\u30cc"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\uc544\ud2b8\ub808 \ubcf4\ub974\ub124"
+    ],
+    "name:pol_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:por_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u0440\u0435-\u0411\u043e\u0440\u043d\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0442\u0440 \u0411\u043e\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u06cc\u062a\u062e \u0628\u0648\u0631\u0646"
+    ],
+    "qs_pg:aaroncc":"MU",
+    "qs_pg:gn_country":"MU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":934131,
+    "qs_pg:gn_pop":80961,
+    "qs_pg:name":"Quatre Bornes",
+    "qs_pg:name_adm0":"Mauritius",
+    "qs_pg:name_adm1":"Plaines Wilhems",
+    "qs_pg:photos":611,
+    "qs_pg:photos_1k":124,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":611,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":1040807,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424894,
+    "qs_pg:woe_id":1377444,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "woe:adm0_id":23424894,
+    "woe:name_adm0":"Mauritius",
+    "woe:name_adm1":"Plaines Wilhems",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934131,
+        "gp:id":1377444,
+        "qs_pg:id":1040807,
+        "wd:id":"Q1341194"
+    },
+    "wof:country":"MU",
+    "wof:created":1497296623,
+    "wof:geomhash":"51725b573d5bd804fb1299b8213593e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1125925417,
+            "region_id":85674975
+        }
+    ],
+    "wof:id":1125925417,
+    "wof:lastmodified":1553816634,
+    "wof:name":"Quatre Bornes",
+    "wof:parent_id":85674975,
+    "wof:placetype":"locality",
+    "wof:population":80961,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.4791,
+    -20.26381,
+    57.4791,
+    -20.26381
+],
+  "geometry": {"coordinates":[57.4791,-20.26381],"type":"Point"}
+}

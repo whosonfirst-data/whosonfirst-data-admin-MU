@@ -1,0 +1,72 @@
+{
+  "id": 421166463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"57.47,-20.24194,57.47,-20.24194",
+    "geom:latitude":-20.24194,
+    "geom:longitude":57.47,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"MU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":934069,
+    "qs:gn_pop":0,
+    "qs:name":"Rose Hill",
+    "qs:name_adm0":"Mauritius",
+    "qs:name_adm1":"Plaines Wilhems",
+    "qs:photos":85,
+    "qs:photos_1k":17,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":85,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":266866,
+    "qs:woe_adm0":23424894,
+    "qs:woe_id":1377467,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934069,
+        "gp:id":1377467,
+        "qs:id":266866
+    },
+    "wof:country":"MU",
+    "wof:created":1459008691,
+    "wof:geomhash":"68c2c685eaa73fe5cf5b1a115464dcbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":421166463,
+            "region_id":85674929
+        }
+    ],
+    "wof:id":421166463,
+    "wof:lastmodified":1466635823,
+    "wof:name":"Rose Hill",
+    "wof:parent_id":85674929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.47,
+    -20.24194,
+    57.47,
+    -20.24194
+],
+  "geometry": {"coordinates":[57.47,-20.24194],"type":"Point"}
+}

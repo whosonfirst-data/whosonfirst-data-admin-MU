@@ -1,0 +1,65 @@
+{
+  "id": 1259669959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.66667,-20.18111,57.66667,-20.18111",
+    "geom:latitude":-20.18111,
+    "geom:longitude":57.66667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Grand dans Fond",
+    "gn:country_code":"MU",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106673,
+    "gn:latitude":-20.18111,
+    "gn:longitude":57.66667,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Grand dans Fond",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106673
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"3a32e97862a42bfe519cf3cb30c13843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1259669959,
+            "region_id":85674943
+        }
+    ],
+    "wof:id":1259669959,
+    "wof:lastmodified":1537083355,
+    "wof:name":"Grand dans Fond",
+    "wof:parent_id":85674943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.66667,
+    -20.18111,
+    57.66667,
+    -20.18111
+],
+  "geometry": {"coordinates":[57.66667,-20.18111],"type":"Point"}
+}

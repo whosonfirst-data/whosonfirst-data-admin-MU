@@ -1,0 +1,67 @@
+{
+  "id": 1309687381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.58556,-19.99056,57.58556,-19.99056",
+    "geom:latitude":-19.99056,
+    "geom:longitude":57.58556,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Pereybere",
+    "gn:country_code":"MU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106611,
+    "gn:latitude":-19.99056,
+    "gn:longitude":57.58556,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Pereyb\u00e8r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pereyb\u00e8r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106611
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"34f4ac1a7e30d5d6046d17fe7e48da52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1309687381,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309687381,
+    "wof:lastmodified":1537665827,
+    "wof:name":"Pereybere",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.58556,
+    -19.99056,
+    57.58556,
+    -19.99056
+],
+  "geometry": {"coordinates":[57.58556,-19.99056],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 890445259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.52444,-20.12611,57.52444,-20.12611",
+    "geom:latitude":-20.12611,
+    "geom:longitude":57.52444,
+    "gn:country":"MU",
+    "gn:fcode":"PPL",
+    "gn:pop":9566,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Terre Rouge",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933974,
+        "gp:id":1377416,
+        "qs:id":1029435
+    },
+    "wof:country":"MU",
+    "wof:created":1469052503,
+    "wof:geomhash":"efcff6180810491bd027896669cfd74a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":890445259,
+            "region_id":85674965
+        }
+    ],
+    "wof:id":890445259,
+    "wof:lastmodified":1505343604,
+    "wof:name":"Terre Rouge",
+    "wof:parent_id":85674965,
+    "wof:placetype":"locality",
+    "wof:population":9566,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.52444,
+    -20.12611,
+    57.52444,
+    -20.12611
+],
+  "geometry": {"coordinates":[57.52444,-20.12611],"type":"Point"}
+}

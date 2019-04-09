@@ -1,0 +1,64 @@
+{
+  "id": 890438073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.64472,-20.01861,57.64472,-20.01861",
+    "geom:latitude":-20.01861,
+    "geom:longitude":57.64472,
+    "gn:country":"MU",
+    "gn:fcode":"PPL",
+    "gn:pop":3199,
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Roche Terre",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":934076,
+        "gp:id":1377484,
+        "qs:id":83992
+    },
+    "wof:country":"MU",
+    "wof:created":1469052178,
+    "wof:geomhash":"752c0497f8acca98d5da5232d8c07230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":890438073,
+            "region_id":85674979
+        }
+    ],
+    "wof:id":890438073,
+    "wof:lastmodified":1505343563,
+    "wof:name":"Roche Terre",
+    "wof:parent_id":85674979,
+    "wof:placetype":"locality",
+    "wof:population":3199,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.64472,
+    -20.01861,
+    57.64472,
+    -20.01861
+],
+  "geometry": {"coordinates":[57.64472,-20.01861],"type":"Point"}
+}

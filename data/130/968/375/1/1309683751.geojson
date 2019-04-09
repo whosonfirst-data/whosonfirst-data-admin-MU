@@ -1,0 +1,65 @@
+{
+  "id": 1309683751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.47556,-20.28778,57.47556,-20.28778",
+    "geom:latitude":-20.28778,
+    "geom:longitude":57.47556,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Bonne Terre",
+    "gn:country_code":"MU",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106794,
+    "gn:latitude":-20.28778,
+    "gn:longitude":57.47556,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Bonne Terre",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106794
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"223dc3c0929a5586aa1e307fe46a32ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1309683751,
+            "region_id":85674997
+        }
+    ],
+    "wof:id":1309683751,
+    "wof:lastmodified":1536607368,
+    "wof:name":"Bonne Terre",
+    "wof:parent_id":85674997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.47556,
+    -20.28778,
+    57.47556,
+    -20.28778
+],
+  "geometry": {"coordinates":[57.47556,-20.28778],"type":"Point"}
+}

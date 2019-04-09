@@ -1,0 +1,65 @@
+{
+  "id": 1293453289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.50944,-20.30028,57.50944,-20.30028",
+    "geom:latitude":-20.30028,
+    "geom:longitude":57.50944,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Engrais Martial",
+    "gn:country_code":"MU",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106729,
+    "gn:latitude":-20.30028,
+    "gn:longitude":57.50944,
+    "gn:modification_date":"2004-01-05",
+    "gn:name":"Engrais Martial",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mauritius",
+    "iso:country":"MU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632357,
+        85674997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106729
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"d1671892302c076837c950dff9d6c25d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":1293453289,
+            "region_id":85674997
+        }
+    ],
+    "wof:id":1293453289,
+    "wof:lastmodified":1536835472,
+    "wof:name":"Engrais Martial",
+    "wof:parent_id":85674997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.50944000000001,
+    -20.30028,
+    57.50944000000001,
+    -20.30028
+],
+  "geometry": {"coordinates":[57.50944000000001,-20.30028],"type":"Point"}
+}
