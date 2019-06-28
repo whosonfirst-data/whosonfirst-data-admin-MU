@@ -46,9 +46,6 @@
     "name:che_x_preferred":[
         "\u041f\u043e\u0440\u0442-\u041b\u0443\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u8def\u6613\u6e2f\u5340"
-    ],
     "name:chv_x_preferred":[
         "\u041f\u043e\u0440\u0442 \u041b\u0443\u0438"
     ],
@@ -59,9 +56,6 @@
         "Port Louis"
     ],
     "name:deu_x_preferred":[
-        "Port Louis"
-    ],
-    "name:dut_x_preferred":[
         "Port Louis"
     ],
     "name:ell_x_preferred":[
@@ -92,19 +86,16 @@
     "name:fas_x_preferred":[
         "\u067e\u0648\u0631\u062a\u200c\u0644\u0648\u0626\u06cc\u0633"
     ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u067e\u0648\u0631\u062a \u0644\u0648\u0626\u06cc\u0633"
+    ],
     "name:fin_x_preferred":[
         "Port Louis"
     ],
     "name:fra_x_preferred":[
         "Port-Louis"
     ],
-    "name:fre_x_preferred":[
-        "Port Louis"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10e0\u10e2-\u10da\u10e3\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Port Louis"
     ],
     "name:glg_x_preferred":[
@@ -136,6 +127,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10e0\u10e2-\u10da\u10e3\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10de\u10dd\u10e0\u10e2-\u10da\u10e3\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041f\u043e\u0440\u0442-\u041b\u0443\u0438"
@@ -182,9 +176,6 @@
     "name:pan_x_preferred":[
         "\u0a2a\u0a4b\u0a30\u0a1f \u0a32\u0a42\u0a08"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u067e\u0648\u0631\u062a \u0644\u0648\u0626\u06cc\u0633"
-    ],
     "name:pms_x_preferred":[
         "Port Luis"
     ],
@@ -197,7 +188,7 @@
     "name:por_x_preferred":[
         "Port Louis"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Port Louis"
     ],
     "name:rus_x_preferred":[
@@ -264,7 +255,8 @@
         "\u8def\u6613\u58eb\u6e2f"
     ],
     "name:zho_x_variant":[
-        "\u8def\u6613\u6e2f"
+        "\u8def\u6613\u6e2f",
+        "\u8def\u6613\u6e2f\u5340"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Mauritius",
@@ -466,7 +458,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1553559974,
+    "wof:lastmodified":1561749149,
     "wof:megacity":0,
     "wof:name":"Port Louis city",
     "wof:parent_id":85632357,

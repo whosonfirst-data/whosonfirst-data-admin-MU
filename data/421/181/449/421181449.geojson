@@ -16,19 +16,10 @@
     "name:deu_x_preferred":[
         "Mah\u00e9bourg"
     ],
-    "name:dut_x_preferred":[
-        "Mah\u00e9bourg"
-    ],
     "name:eng_x_preferred":[
         "Mah\u00e9bourg"
     ],
     "name:fra_x_preferred":[
-        "Mah\u00e9bourg"
-    ],
-    "name:fre_x_preferred":[
-        "Mah\u00e9bourg"
-    ],
-    "name:ger_x_preferred":[
         "Mah\u00e9bourg"
     ],
     "name:ita_x_preferred":[
@@ -39,6 +30,9 @@
     ],
     "name:lit_x_preferred":[
         "Majeburas"
+    ],
+    "name:nld_x_preferred":[
+        "Mah\u00e9bourg"
     ],
     "name:pol_x_preferred":[
         "Mah\u00e9bourg"
@@ -107,7 +101,7 @@
         }
     ],
     "wof:id":421181449,
-    "wof:lastmodified":1527716322,
+    "wof:lastmodified":1561749150,
     "wof:name":"Mahebourg",
     "wof:parent_id":85674947,
     "wof:placetype":"locality",
