@@ -34,32 +34,26 @@
     "name:cat_x_preferred":[
         "Savanne"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u51e1\u7d0d\u5340"
-    ],
     "name:dan_x_preferred":[
         "Savanne District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Savanne"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b2\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Savanne"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0633\u0627\u0648\u0627\u0646\u0647"
+    ],
     "name:fin_x_preferred":[
         "Savannen kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Savanne"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10d5\u10d0\u10dc\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Savanne"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03b2\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ab5\u0abe\u0aa8\u0ac7 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -79,6 +73,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cb5\u0ca8\u0ccd\u0ca8\u0cc6 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d5\u10d0\u10dc\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc0ac\ubc18 \uad6c"
     ],
@@ -91,8 +88,11 @@
     "name:mar_x_preferred":[
         "\u0938\u0935\u093e\u0928\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Savanne District"
+    ],
+    "name:nld_x_preferred":[
+        "Savanne"
     ],
     "name:nno_x_preferred":[
         "Savanne p\u00e5 Mauritius"
@@ -100,16 +100,13 @@
     "name:nob_x_preferred":[
         "Savanne"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0633\u0627\u0648\u0627\u0646\u0647"
-    ],
     "name:pol_x_preferred":[
         "Savanne"
     ],
     "name:por_x_preferred":[
         "Savanne"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Savanne"
     ],
     "name:rus_x_preferred":[
@@ -147,6 +144,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Savanne"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u51e1\u7d0d\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MUS",
@@ -271,7 +271,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1553550466,
+    "wof:lastmodified":1561749148,
     "wof:name":"Savanne",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

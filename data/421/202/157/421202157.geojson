@@ -13,19 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8607\u4e9e\u514b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Souillac"
     ],
     "name:eng_x_preferred":[
         "Souillac"
     ],
-    "name:fre_x_preferred":[
-        "Souillac"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Souillac"
     ],
     "name:ita_x_preferred":[
@@ -37,13 +31,16 @@
     "name:lit_x_preferred":[
         "Sujakas"
     ],
+    "name:nld_x_preferred":[
+        "Souillac"
+    ],
     "name:pol_x_preferred":[
         "Souillac"
     ],
     "name:por_x_preferred":[
         "Souillac"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Souillac"
     ],
     "name:spa_x_preferred":[
@@ -59,6 +56,9 @@
         "\u8607\u4e9e\u514b"
     ],
     "name:yue_x_preferred":[
+        "\u8607\u4e9e\u514b"
+    ],
+    "name:zho_x_preferred":[
         "\u8607\u4e9e\u514b"
     ],
     "qs:gn_country":"MU",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":421202157,
-    "wof:lastmodified":1553816388,
+    "wof:lastmodified":1561749150,
     "wof:name":"Souillac",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

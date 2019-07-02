@@ -15,9 +15,6 @@
     "iso:country":"MU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Bel Air Rivi\u00e8re S\u00e8che"
-    ],
     "name:eng_x_preferred":[
         "Bel Air Rivi\u00e8re S\u00e8che"
     ],
@@ -26,6 +23,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30eb\u30fb\u30a8\u30a2\u30fb\u30ea\u30d3\u30a8\u30fc\u30eb\u30fb\u30bb\u30b7\u30a7"
+    ],
+    "name:nld_x_preferred":[
+        "Bel Air Rivi\u00e8re S\u00e8che"
     ],
     "name:pol_x_preferred":[
         "Bel Air"
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":890441293,
-    "wof:lastmodified":1553816399,
+    "wof:lastmodified":1561749150,
     "wof:name":"Bel Air",
     "wof:parent_id":85674943,
     "wof:placetype":"locality",

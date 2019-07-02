@@ -18,23 +18,23 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043f\u043e\u0443"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u666e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mapou"
     ],
     "name:eng_x_preferred":[
         "Mapou"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mapou"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Mapou"
     ],
     "name:swe_x_preferred":[
         "Mapou"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u666e"
     ],
     "qs:name":"Mapou",
     "qs:photos_9r":0,
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":890436973,
-    "wof:lastmodified":1527735406,
+    "wof:lastmodified":1561749151,
     "wof:name":"Mapou",
     "wof:parent_id":85674957,
     "wof:placetype":"locality",

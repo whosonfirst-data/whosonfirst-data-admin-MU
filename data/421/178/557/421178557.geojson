@@ -13,13 +13,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5f17\u62c9\u514b\u4e2d\u5fc3\u6751"
-    ],
     "name:deu_x_preferred":[
-        "Centre de Flacq"
-    ],
-    "name:dut_x_preferred":[
         "Centre de Flacq"
     ],
     "name:eng_x_preferred":[
@@ -28,11 +22,8 @@
     "name:fra_x_preferred":[
         "Centre de Flacq"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "centre de Flacq"
-    ],
-    "name:ger_x_preferred":[
-        "Centre de Flacq"
     ],
     "name:ita_x_preferred":[
         "Centre de Flacq"
@@ -47,9 +38,6 @@
         "Centre de Flacq"
     ],
     "name:ron_x_preferred":[
-        "Centre de Flacq"
-    ],
-    "name:rum_x_preferred":[
         "Centre de Flacq"
     ],
     "name:swe_x_preferred":[
@@ -118,7 +106,7 @@
         }
     ],
     "wof:id":421178557,
-    "wof:lastmodified":1527717718,
+    "wof:lastmodified":1561749150,
     "wof:name":"Centre de Flacq",
     "wof:parent_id":85674943,
     "wof:placetype":"locality",

@@ -13,25 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u7279\u91cc\u5967\u840a"
-    ],
     "name:deu_x_preferred":[
-        "Triolet"
-    ],
-    "name:dut_x_preferred":[
         "Triolet"
     ],
     "name:eng_x_preferred":[
         "Triolet"
     ],
     "name:fra_x_preferred":[
-        "Triolet"
-    ],
-    "name:fre_x_preferred":[
-        "Triolet"
-    ],
-    "name:ger_x_preferred":[
         "Triolet"
     ],
     "name:jpn_x_preferred":[
@@ -116,7 +104,7 @@
         }
     ],
     "wof:id":421179631,
-    "wof:lastmodified":1527717715,
+    "wof:lastmodified":1561749150,
     "wof:name":"Triolet",
     "wof:parent_id":85674957,
     "wof:placetype":"locality",

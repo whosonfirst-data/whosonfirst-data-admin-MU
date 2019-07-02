@@ -31,32 +31,26 @@
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09aa\u09cb\u09b0\u09cd\u099f \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5927\u6e2f\u5340"
-    ],
     "name:dan_x_preferred":[
         "Grand Port District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Grand Port"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03b1\u03bd\u03c4 \u03a0\u03bf\u03c1\u03c4"
     ],
     "name:eng_x_preferred":[
         "Grand Port"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06af\u0631\u0646\u062f \u067e\u0648\u0631\u062a"
+    ],
     "name:fin_x_preferred":[
         "Grand Portin kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Grand Port"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e0\u10d0\u10dc\u10d3-\u10de\u10dd\u10e0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Grand Port"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03c1\u03b1\u03bd\u03c4 \u03a0\u03bf\u03c1\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0aa1 \u0aaa\u0acb\u0ab0\u0acd\u0a9f \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -76,6 +70,9 @@
     "name:kan_x_preferred":[
         "\u0c97\u0ccd\u0cb0\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd \u0caa\u0ccb\u0cb0\u0ccd\u0c9f\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e0\u10d0\u10dc\u10d3-\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uadf8\ub791\ud3ec\ub974 \uad6c"
     ],
@@ -88,8 +85,11 @@
     "name:mar_x_preferred":[
         "\u0917\u094d\u0930\u0901\u0921 \u092a\u094b\u0930\u094d\u091f \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Grand Port District"
+    ],
+    "name:nld_x_preferred":[
+        "Grand Port"
     ],
     "name:nno_x_preferred":[
         "Grand Port"
@@ -97,16 +97,13 @@
     "name:nob_x_preferred":[
         "Grand Port"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u06af\u0631\u0646\u062f \u067e\u0648\u0631\u062a"
-    ],
     "name:pol_x_preferred":[
         "Grand Port"
     ],
     "name:por_x_preferred":[
         "Grand Port"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Grand Port"
     ],
     "name:rus_x_preferred":[
@@ -147,6 +144,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Grand Port"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6e2f\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MUS",
@@ -271,7 +271,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1553550465,
+    "wof:lastmodified":1561749149,
     "wof:name":"Grand Port",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

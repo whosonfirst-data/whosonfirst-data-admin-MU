@@ -18,20 +18,17 @@
     "name:deu_x_preferred":[
         "Plaine Magnien"
     ],
-    "name:dut_x_preferred":[
-        "Plaine Magnien"
-    ],
     "name:eng_x_preferred":[
         "Plaine Magnien"
     ],
     "name:fra_x_preferred":[
         "Plaine Magnien"
     ],
-    "name:fre_x_preferred":[
-        "Plaine Magnien"
-    ],
     "name:jpn_x_preferred":[
         "\u30d7\u30ec\u30f3\u30cc\u30fb\u30de\u30cb\u30a7\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Plaine Magnien"
     ],
     "name:pol_x_preferred":[
         "Plaine Magnien"
@@ -73,7 +70,7 @@
         }
     ],
     "wof:id":890452371,
-    "wof:lastmodified":1527734186,
+    "wof:lastmodified":1561749151,
     "wof:name":"Plaine Magnien",
     "wof:parent_id":85674947,
     "wof:placetype":"locality",

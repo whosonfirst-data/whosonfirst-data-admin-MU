@@ -142,9 +142,6 @@
     "name:cym_x_variant":[
         "Mauritius"
     ],
-    "name:cze_x_preferred":[
-        "Mauricius"
-    ],
     "name:dan_x_preferred":[
         "Mauritius"
     ],
@@ -218,8 +215,7 @@
         "Maurice"
     ],
     "name:fra_x_variant":[
-        "\u00cele Maurice",
-        "Maurice"
+        "\u00cele Maurice"
     ],
     "name:frp_x_preferred":[
         "M\u00f4ris (payis)",
@@ -747,7 +743,6 @@
         "\u6bdb\u91cc\u6c42\u65af"
     ],
     "name:zho_x_variant":[
-        "\u6bdb\u91cc\u6c42\u65af",
         "\u6a21\u91cc\u897f\u65af"
     ],
     "name:zho_yue_x_preferred":[
@@ -909,7 +904,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1544059328,
+    "wof:lastmodified":1561749148,
     "wof:name":"Mauritius",
     "wof:parent_id":102193527,
     "wof:placetype":"country",
