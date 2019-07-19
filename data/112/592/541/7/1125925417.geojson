@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Quatre Bornes"
     ],
+    "name:ceb_x_preferred":[
+        "Quatre Bornes"
+    ],
     "name:deu_x_preferred":[
         "Quatre Bornes"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1125925417,
-    "wof:lastmodified":1561749152,
+    "wof:lastmodified":1563571305,
     "wof:name":"Quatre Bornes",
     "wof:parent_id":85674975,
     "wof:placetype":"locality",

@@ -52,6 +52,9 @@
     "name:ast_x_preferred":[
         "Mauriciu"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u0648\u0631\u06cc\u062a\u06cc\u0648\u0633"
+    ],
     "name:aze_x_preferred":[
         "Mavriki"
     ],
@@ -78,6 +81,12 @@
     ],
     "name:ben_x_variant":[
         "\u09ae\u0989\u09b0\u09bf\u09b6\u09be\u09b8"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0645\u0648\u0631\u06cc\u0633"
+    ],
+    "name:bho_x_preferred":[
+        "\u092e\u0949\u0930\u093f\u0936\u0938"
     ],
     "name:bjn_x_preferred":[
         "Mauritius"
@@ -118,6 +127,9 @@
     "name:ceb_x_preferred":[
         "Maurisyo"
     ],
+    "name:ceb_x_variant":[
+        "Mauritius"
+    ],
     "name:ces_x_preferred":[
         "Mauricius"
     ],
@@ -151,8 +163,14 @@
     "name:diq_x_preferred":[
         "Mauritius"
     ],
+    "name:diq_x_variant":[
+        "Maurityus"
+    ],
     "name:div_x_preferred":[
         "\u0789\u07ae\u0783\u07a8\u079d\u07a6\u0790\u07b0"
+    ],
+    "name:dty_x_preferred":[
+        "\u092e\u094b\u0930\u093f\u0938\u0938"
     ],
     "name:dzo_x_preferred":[
         "\u0f58\u0f7c\u0f0b\u0f62\u0f72\u0f0b\u0f64\u0f72\u0f61\u0f66\u0f72"
@@ -221,6 +239,9 @@
         "M\u00f4ris (payis)",
         "M\u00f4ris"
     ],
+    "name:frr_x_preferred":[
+        "Mauritsius"
+    ],
     "name:fry_x_preferred":[
         "Mauritsius"
     ],
@@ -248,6 +269,12 @@
     "name:glv_x_preferred":[
         "Ellan Wirrish"
     ],
+    "name:grn_x_preferred":[
+        "Maur\u00edsio"
+    ],
+    "name:gsw_x_preferred":[
+        "Mauritius"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0ab0\u0abf\u0ab6\u0abf\u0aaf\u0ab8"
     ],
@@ -259,6 +286,9 @@
     ],
     "name:hau_x_preferred":[
         "Moritus"
+    ],
+    "name:hau_x_variant":[
+        "Moris"
     ],
     "name:haw_x_preferred":[
         "Mauritiusa"
@@ -386,6 +416,9 @@
     "name:lav_x_preferred":[
         "Maur\u012bcija"
     ],
+    "name:lfn_x_preferred":[
+        "Mauris"
+    ],
     "name:lij_x_preferred":[
         "Mauritius"
     ],
@@ -419,6 +452,9 @@
     "name:lug_x_variant":[
         "Mawulisyasi"
     ],
+    "name:lzh_x_preferred":[
+        "\u6a21\u91cc\u897f\u65af"
+    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d57\u0d31\u0d40\u0d37\u0d4d\u0d2f\u0d38\u0d4d"
     ],
@@ -430,6 +466,9 @@
     ],
     "name:mar_x_variant":[
         "\u092e\u0949\u0930\u093f\u0936\u093f\u0905\u0938"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041c\u0430\u0432\u0440\u0438\u043a\u0438\u0439"
     ],
     "name:min_x_preferred":[
         "Mauritius"
@@ -446,6 +485,9 @@
     "name:mlt_x_preferred":[
         "Mawrizju"
     ],
+    "name:mlt_x_variant":[
+        "Mawrizji"
+    ],
     "name:mrj_x_preferred":[
         "\u041c\u0430\u0432\u0440\u0438\u043a\u0438\u0439"
     ],
@@ -454,6 +496,15 @@
     ],
     "name:mya_x_preferred":[
         "\u1019\u1031\u102c\u101b\u1005\u103a\u101b\u103e\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0648\u0631\u06cc\u0633"
+    ],
+    "name:nah_x_preferred":[
+        "Mauricio"
+    ],
+    "name:nan_x_preferred":[
+        "Mauritius"
     ],
     "name:nde_x_preferred":[
         "Mauritius"
@@ -492,6 +543,9 @@
     "name:oci_x_preferred":[
         "Maurici"
     ],
+    "name:olo_x_preferred":[
+        "Mavriki"
+    ],
     "name:ori_x_preferred":[
         "\u0b2e\u0b30\u0b3f\u0b38\u0b38"
     ],
@@ -509,6 +563,12 @@
     ],
     "name:pan_x_preferred":[
         "\u0a2e\u0a3e\u0a30\u0a40\u0a38\u0a3c\u0a38"
+    ],
+    "name:pih_x_preferred":[
+        "Mauritius"
+    ],
+    "name:pli_x_preferred":[
+        "\u092e\u093e\u0930\u093f\u0936\u0938"
     ],
     "name:pms_x_preferred":[
         "Mauritius"
@@ -567,6 +627,9 @@
     ],
     "name:sco_x_preferred":[
         "Mauritius"
+    ],
+    "name:sgs_x_preferred":[
+        "Maurik\u0117jos"
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0dd4\u0dbb\u0dd4\u0dc3\u0dd2 \u0dc3\u0db8\u0dd4\u0dc4\u0dcf\u0dab\u0dca\u0da9\u0dd4\u0dc0"
@@ -673,6 +736,9 @@
     "name:tur_x_preferred":[
         "Mauritius"
     ],
+    "name:udm_x_preferred":[
+        "\u041c\u0430\u0432\u0440\u0438\u043a\u0438\u0439"
+    ],
     "name:uig_x_preferred":[
         "\u0645\u0627\u06cb\u0631\u0649\u062a\u0649\u0626\u06c7\u0633"
     ],
@@ -715,11 +781,17 @@
     "name:vol_x_preferred":[
         "Morise\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Mauritius"
+    ],
     "name:war_x_preferred":[
         "Mauritius"
     ],
     "name:wol_x_preferred":[
         "M\u00f3oris"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6bdb\u91cc\u6c42\u65af"
     ],
     "name:xal_x_preferred":[
         "\u041c\u043e\u0440\u0438\u0441\u0438\u043d \u041e\u0440\u043d"
@@ -735,6 +807,12 @@
     ],
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Maritiusi"
+    ],
+    "name:yue_x_preferred":[
+        "\u6bdb\u5398\u58eb"
+    ],
+    "name:zha_x_preferred":[
+        "Mauritius"
     ],
     "name:zho_min_nan_x_preferred":[
         "Mauritius"
@@ -904,7 +982,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1561749148,
+    "wof:lastmodified":1563571212,
     "wof:name":"Mauritius",
     "wof:parent_id":102193527,
     "wof:placetype":"country",

@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0427\u0430\u043c\u0430\u0440\u0435\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Chamarel"
+    ],
     "name:deu_x_preferred":[
         "Chamarel"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890455187,
-    "wof:lastmodified":1561749151,
+    "wof:lastmodified":1563571276,
     "wof:name":"Chamarel",
     "wof:parent_id":85674983,
     "wof:placetype":"locality",

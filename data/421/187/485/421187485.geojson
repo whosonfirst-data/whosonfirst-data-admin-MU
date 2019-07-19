@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"57.54611,-20.045,57.54611,-20.045",
     "geom:latitude":-20.045,
     "geom:longitude":57.54611,
@@ -14,6 +15,12 @@
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Trou-aux-Biches"
+    ],
+    "name:eng_x_preferred":[
+        "Trou-aux-Biches"
+    ],
+    "name:fra_x_preferred":[
+        "Trou aux Biches"
     ],
     "qs:gn_country":"MU",
     "qs:gn_fcode":"PPL",
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":421187485,
-    "wof:lastmodified":1527716244,
+    "wof:lastmodified":1563571269,
     "wof:name":"Trou aux Biches",
     "wof:parent_id":85674957,
     "wof:placetype":"locality",

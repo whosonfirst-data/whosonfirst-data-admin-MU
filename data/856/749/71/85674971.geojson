@@ -55,6 +55,9 @@
     "name:dan_x_preferred":[
         "Port Louis"
     ],
+    "name:dan_x_variant":[
+        "Port Louis District"
+    ],
     "name:deu_x_preferred":[
         "Port Louis"
     ],
@@ -125,6 +128,9 @@
     "name:jpn_x_preferred":[
         "\u30dd\u30fc\u30c8\u30eb\u30a4\u30b9"
     ],
+    "name:jpn_x_variant":[
+        "\u30dd\u30fc\u30c8\u30eb\u30a4\u30b9\u770c"
+    ],
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10e0\u10e2-\u10da\u10e3\u10d8"
     ],
@@ -140,6 +146,9 @@
     "name:kor_x_preferred":[
         "\ud3ec\ud2b8\ub8e8\uc774\uc2a4"
     ],
+    "name:kor_x_variant":[
+        "\ud3ec\ud2b8\ub8e8\uc774\uc2a4 \uad6c"
+    ],
     "name:lat_x_preferred":[
         "Portus Ludovici"
     ],
@@ -148,6 +157,9 @@
     ],
     "name:lit_x_preferred":[
         "Port Luisas"
+    ],
+    "name:lit_x_variant":[
+        "Port Luiso rajonas"
     ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d4b\u0d7c\u0d1f\u0d4d\u0d1f\u0d4d \u0d32\u0d42\u0d2f\u0d3f\u0d38\u0d4d"
@@ -215,6 +227,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0bb2\u0bc2\u0baf\u0bbf\u0bb8\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0bb2\u0bc2\u0baf\u0bbf\u0bb8\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:tgk_x_preferred":[
         "\u041f\u043e\u0440\u0442-\u041b\u0443\u0438"
     ],
@@ -236,6 +251,9 @@
     "name:urd_x_preferred":[
         "\u067e\u0648\u0631\u0679 \u0644\u0648\u0626\u0633"
     ],
+    "name:urd_x_variant":[
+        "\u067e\u0648\u0631\u0679 \u0644\u0648\u0626\u0633 \u0636\u0644\u0639"
+    ],
     "name:uzb_x_preferred":[
         "Port-lui"
     ],
@@ -250,6 +268,9 @@
     ],
     "name:yue_x_preferred":[
         "\u8def\u6613\u6e2f"
+    ],
+    "name:yue_x_variant":[
+        "\u8def\u6613\u6e2f\u5340"
     ],
     "name:zho_x_preferred":[
         "\u8def\u6613\u58eb\u6e2f"
@@ -458,7 +479,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1561749149,
+    "wof:lastmodified":1563571225,
     "wof:megacity":0,
     "wof:name":"Port Louis city",
     "wof:parent_id":85632357,

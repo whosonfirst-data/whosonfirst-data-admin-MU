@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Souillac"
+    ],
     "name:deu_x_preferred":[
         "Souillac"
     ],
@@ -44,6 +47,9 @@
         "Souillac"
     ],
     "name:spa_x_preferred":[
+        "Souillac"
+    ],
+    "name:swe_x_preferred":[
         "Souillac"
     ],
     "name:tur_x_preferred":[
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421202157,
-    "wof:lastmodified":1561749150,
+    "wof:lastmodified":1563571267,
     "wof:name":"Souillac",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

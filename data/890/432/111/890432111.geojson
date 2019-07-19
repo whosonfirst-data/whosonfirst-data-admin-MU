@@ -15,6 +15,9 @@
     "iso:country":"MU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Quartier Militaire"
+    ],
     "name:deu_x_preferred":[
         "Quartier Militaire"
     ],
@@ -28,6 +31,9 @@
         "Quartier Militaire"
     ],
     "name:ron_x_preferred":[
+        "Quartier Militaire"
+    ],
+    "name:swe_x_preferred":[
         "Quartier Militaire"
     ],
     "name:wuu_x_preferred":[
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":890432111,
-    "wof:lastmodified":1561749152,
+    "wof:lastmodified":1563571300,
     "wof:name":"Quartier Militaire",
     "wof:parent_id":85674953,
     "wof:placetype":"locality",

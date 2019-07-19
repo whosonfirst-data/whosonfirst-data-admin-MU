@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Mah\u00e9bourg"
+    ],
     "name:deu_x_preferred":[
         "Mah\u00e9bourg"
     ],
@@ -40,8 +43,14 @@
     "name:por_x_preferred":[
         "Mah\u00e9bourg"
     ],
+    "name:por_x_variant":[
+        "Mahebourg"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u044d\u0431\u0443\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u0445\u0435\u0431\u043e\u0440\u0433"
     ],
     "name:spa_x_preferred":[
         "Mah\u00e9bourg"
@@ -54,6 +63,9 @@
     ],
     "name:unk_x_variant":[
         "Mah\u00e9bourg"
+    ],
+    "name:yue_x_preferred":[
+        "\u99ac\u53ef\u90a6"
     ],
     "qs:gn_country":"MU",
     "qs:gn_fcode":"PPL",
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":421181449,
-    "wof:lastmodified":1561749150,
+    "wof:lastmodified":1563571269,
     "wof:name":"Mahebourg",
     "wof:parent_id":85674947,
     "wof:placetype":"locality",

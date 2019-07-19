@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Chemin Grenier"
+    ],
     "name:eng_x_preferred":[
         "Chemin Grenier"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421170479,
-    "wof:lastmodified":1561749150,
+    "wof:lastmodified":1563571270,
     "wof:name":"Chemin Grenier",
     "wof:parent_id":85674993,
     "wof:placetype":"locality",

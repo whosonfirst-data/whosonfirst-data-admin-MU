@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09aa\u09cb\u09b0\u09cd\u099f \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Grand Port District"
+    ],
     "name:dan_x_preferred":[
         "Grand Port District"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Grand Port"
+    ],
+    "name:eng_x_variant":[
+        "Grand Port District"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u06af\u0631\u0646\u062f \u067e\u0648\u0631\u062a"
@@ -81,6 +87,9 @@
     ],
     "name:lit_x_preferred":[
         "Gran Porto rajonas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d17\u0d4d\u0d30\u0d3e\u0d7b\u0d21\u0d4d \u0d2a\u0d4b\u0d7c\u0d1f\u0d4d\u0d1f\u0d4d \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:mar_x_preferred":[
         "\u0917\u094d\u0930\u0901\u0921 \u092a\u094b\u0930\u094d\u091f \u091c\u093f\u0932\u094d\u0939\u093e"
@@ -144,6 +153,12 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Grand Port"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5927\u6e2f\u5340"
+    ],
+    "name:yue_x_preferred":[
+        "\u5927\u6e2f\u5340"
     ],
     "name:zho_x_preferred":[
         "\u5927\u6e2f\u5340"
@@ -271,7 +286,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1561749149,
+    "wof:lastmodified":1563571226,
     "wof:name":"Grand Port",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

@@ -15,6 +15,9 @@
     "iso:country":"MU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Fond du Sac"
+    ],
     "name:deu_x_preferred":[
         "Fond du Sac"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890443529,
-    "wof:lastmodified":1561749151,
+    "wof:lastmodified":1563571289,
     "wof:name":"Fond du Sac",
     "wof:parent_id":85674957,
     "wof:placetype":"locality",

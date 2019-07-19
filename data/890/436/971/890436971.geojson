@@ -15,6 +15,129 @@
     "iso:country":"MU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0647\u0631 \u0627\u0644\u0623\u0633\u0648\u062f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09bf\u09ad\u09c7\u09b0\u09bf \u09a8\u09af\u09bc\u09b0\u09c7 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Rivi\u00e8re Noire"
+    ],
+    "name:ceb_x_preferred":[
+        "Black River District"
+    ],
+    "name:dan_x_preferred":[
+        "Riviere Noire District"
+    ],
+    "name:deu_x_preferred":[
+        "Black River"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bb\u03b1\u03ba \u03a1\u03af\u03b2\u03b5\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Rivi\u00e8re Noire District"
+    ],
+    "name:fin_x_preferred":[
+        "Rivi\u00e8re Noiren kaupunginosa"
+    ],
+    "name:fra_x_preferred":[
+        "Rivi\u00e8re Noire"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab0\u0abf\u0ab5\u0abf\u0a8f\u0ab0 \u0aa8\u0acb\u0a87\u0ab0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093f\u0935\u0947\u092f\u0930 \u0928\u094b\u092f\u0930 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Rivi\u00e8re Noire"
+    ],
+    "name:jav_x_preferred":[
+        "Black River"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e9\u30c3\u30af\u30ea\u30d0\u30fc\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb0\u0cbf\u0cb5\u0cbf\u0caf\u0cb0\u0ccd \u0ca8\u0cc2\u0cb0\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d8\u10d5\u10d4\u10e0-\u10dc\u10e3\u10d0\u10e0\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ube14\ub799\ub9ac\ubc84 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Blekriveras distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Blek Riverio rajonas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0930\u093f\u0935\u094d\u0939\u093f\u090f\u0930 \u0928\u094b\u092f\u0930 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Riviere Noire District"
+    ],
+    "name:nld_x_preferred":[
+        "Black River"
+    ],
+    "name:nno_x_preferred":[
+        "Black River"
+    ],
+    "name:nob_x_preferred":[
+        "Black River"
+    ],
+    "name:pol_x_preferred":[
+        "Black River"
+    ],
+    "name:por_x_preferred":[
+        "Black River"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Black River"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0432\u044c\u0435\u0440-\u041d\u0443\u0430\u0440"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbb\u0dd2\u0dc0\u0dba\u0dd2\u0dbb\u0dda \u0db1\u0ddc\u0dba\u0dd2\u0dbb\u0dda \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043b\u0435\u043a \u0420\u0438\u0432\u0435\u0440 \u041c\u0430\u0443\u0440\u0438\u0446\u0438\u0458\u0443\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Black River"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c30\u0c3f\u0c35\u0c3f\u0c2f\u0c30\u0c4d \u0c28\u0c4b\u0c2f\u0c30\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e23\u0e34\u0e40\u0e27\u0e35\u0e22\u0e40\u0e23\u0e19\u0e31\u0e27\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Black River B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d \u0420\u0456\u0432'\u0435\u0440-\u041d\u0443\u0430\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0648\u06cc\u0631 \u0646\u0648\u0627\u0631 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Rivi\u00e8re Noire"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9ed1\u6cb3\u5340"
+    ],
+    "name:yue_x_preferred":[
+        "\u9ed1\u6cb3\u5340"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed1\u6cb3\u5340"
+    ],
     "qs:name":"Gros Cailloux",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -46,7 +169,7 @@
         }
     ],
     "wof:id":890436971,
-    "wof:lastmodified":1527735402,
+    "wof:lastmodified":1563571279,
     "wof:name":"Gros Cailloux",
     "wof:parent_id":85674983,
     "wof:placetype":"locality",

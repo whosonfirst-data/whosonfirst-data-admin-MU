@@ -25,29 +25,51 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0623\u063a\u0627\u0644\u064a\u063a\u0627"
+    ],
     "name:ast_x_preferred":[
         "Islles Agalega"
     ],
     "name:bel_x_preferred":[
         "\u0410\u0440\u0445\u0456\u043f\u0435\u043b\u0430\u0433 \u0410\u0433\u0430\u043b\u0435\u0433\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u0997\u09be\u09b2\u09c7\u0997\u09be"
+    ],
     "name:cat_x_preferred":[
         "Agalega"
     ],
+    "name:ceb_x_preferred":[
+        "Agalega Islands"
+    ],
+    "name:ces_x_preferred":[
+        "Agalegsk\u00e9 ostrovy"
+    ],
+    "name:dan_x_preferred":[
+        "Agal\u00e9ga"
+    ],
     "name:deu_x_preferred":[
         "Agalega-Inseln"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03ba\u03b1\u03bb\u03ad\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Agalega Islands"
     ],
     "name:eng_x_variant":[
-        "Agalega"
+        "Agalega",
+        "Agal\u00e9ga"
     ],
     "name:est_x_preferred":[
         "Agalega"
     ],
     "name:fas_x_preferred":[
         "\u062c\u0632\u0627\u06cc\u0631 \u0622\u06af\u0627\u0644\u06af\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Agal\u00e9ga"
     ],
     "name:fra_x_preferred":[
         "Agal\u00e9ga"
@@ -58,8 +80,44 @@
     "name:glg_x_preferred":[
         "Agalega"
     ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0a97\u0abe\u0ab2\u0ac7\u0a97\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u092a\u093e\u0932\u0947\u0917\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Agal\u00e9ga"
+    ],
     "name:ita_x_preferred":[
         "Agalega"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ac\u30ec\u30ac\u8af8\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0c97\u0cbe\u0cb2\u0cc6\u0c97\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d2\u10d0\u10da\u10d4\u10d2\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uac08\ub808\uac00 \uc81c\ub3c4"
+    ],
+    "name:lav_x_preferred":[
+        "Agalega"
+    ],
+    "name:lit_x_preferred":[
+        "Agalega"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0917\u093e\u0932\u0947\u0917\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Agalega"
+    ],
+    "name:nld_x_preferred":[
+        "Agalega-eilanden"
     ],
     "name:nno_x_preferred":[
         "Agalega\u00f8yane"
@@ -67,11 +125,62 @@
     "name:nob_x_preferred":[
         "Agalega\u00f8yene"
     ],
+    "name:pol_x_preferred":[
+        "Wyspy Agalega"
+    ],
+    "name:por_x_preferred":[
+        "Agalega"
+    ],
+    "name:ron_x_preferred":[
+        "Insulele Agalega"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0430\u043b\u0435\u0433\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0d9c\u0dbd\u0dda\u0d9c\u0dcf"
+    ],
     "name:spa_x_preferred":[
         "Islas Agalega"
     ],
+    "name:srp_x_preferred":[
+        "\u0410\u0433\u0430\u043b\u0435\u0433\u0430 \u043e\u0441\u0442\u0440\u0432\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Agalega"
+    ],
+    "name:swe_x_preferred":[
+        "Agalega"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0b95\u0bb2\u0bc7\u0b95\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c17\u0c3e\u0c32\u0c46\u0c17\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e01\u0e32\u0e40\u0e25\u0e01\u0e49\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Agal\u00e9ga Adalar\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0433\u0430\u043b\u0435\u0433\u0430"
+    ],
     "name:unk_x_variant":[
         "Agalega Islands"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u06af\u0627\u0644\u06af\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Agal\u00e9ga"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u52a0\u840a\u52a0\u7fa4\u5cf6"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u52a0\u840a\u52a0\u7fa4\u5cf6"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MUS",
@@ -198,7 +307,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1553550464,
+    "wof:lastmodified":1563571227,
     "wof:name":"Agal\u00e9ga",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

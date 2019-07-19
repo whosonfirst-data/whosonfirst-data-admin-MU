@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Beau Vallon"
     ],
+    "name:ceb_x_preferred":[
+        "Beau Vallon"
+    ],
     "name:deu_x_preferred":[
         "Beau Vallon"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890441295,
-    "wof:lastmodified":1561749150,
+    "wof:lastmodified":1563571274,
     "wof:name":"Beau Vallon",
     "wof:parent_id":85674947,
     "wof:placetype":"locality",

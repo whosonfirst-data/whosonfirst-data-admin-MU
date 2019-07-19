@@ -25,11 +25,20 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u064a\u0628\u064a\u0628"
     ],
+    "name:ceb_x_preferred":[
+        "Curepipe"
+    ],
     "name:deu_x_preferred":[
         "Curepipe"
     ],
     "name:eng_x_preferred":[
         "Curepipe (2)"
+    ],
+    "name:eng_x_variant":[
+        "Curepipe"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u067e\u06cc\u067e"
     ],
     "name:fra_x_preferred":[
         "Curepipe"
@@ -58,6 +67,9 @@
     "name:rus_x_preferred":[
         "\u041a\u044c\u044e\u0440\u043f\u0430\u0439\u043f"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u044e\u0440\u043f\u0438\u043f"
+    ],
     "name:spa_x_preferred":[
         "Curepipe"
     ],
@@ -67,8 +79,14 @@
     "name:swe_x_preferred":[
         "Curepipe"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0443\u0440\u0435\u043f\u0438\u043f\u0435"
+    ],
     "name:tha_x_preferred":[
         "\u0e01\u0e39\u0e23\u0e4c\u0e1b\u0e35\u0e1b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u044c\u044e\u0440\u043f\u0430\u0439\u043f"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0648\u0631\u067e\u06cc\u067e\u06c1"
@@ -184,7 +202,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1553550464,
+    "wof:lastmodified":1563571221,
     "wof:name":"Curepipe",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

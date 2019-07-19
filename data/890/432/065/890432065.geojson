@@ -15,6 +15,9 @@
     "iso:country":"MU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Saint Pierre"
+    ],
     "name:eng_x_preferred":[
         "Saint Pierre"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:pol_x_preferred":[
         "Saint-Pierre"
+    ],
+    "name:swe_x_preferred":[
+        "Saint Pierre"
     ],
     "name:unk_x_variant":[
         "Saint Pierre Village"
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":890432065,
-    "wof:lastmodified":1561749152,
+    "wof:lastmodified":1563571299,
     "wof:name":"Saint Pierre",
     "wof:parent_id":85674953,
     "wof:placetype":"locality",

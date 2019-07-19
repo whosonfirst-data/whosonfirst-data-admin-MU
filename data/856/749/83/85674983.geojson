@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Rivi\u00e8re Noire"
     ],
+    "name:ceb_x_preferred":[
+        "Black River District"
+    ],
     "name:dan_x_preferred":[
         "Riviere Noire District"
     ],
@@ -82,6 +85,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9ac\ube44\uc5d0\ub974\ub204\uc544\ub974 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ube14\ub799\ub9ac\ubc84 \uad6c"
     ],
     "name:lav_x_preferred":[
         "Blekriveras distrikts"
@@ -151,6 +157,12 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Rivi\u00e8re Noire"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9ed1\u6cb3\u5340"
+    ],
+    "name:yue_x_preferred":[
+        "\u9ed1\u6cb3\u5340"
     ],
     "name:zho_x_preferred":[
         "\u9ed1\u6cb3\u5340"
@@ -279,7 +291,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1561749149,
+    "wof:lastmodified":1563571223,
     "wof:name":"Rivi\u00e8re Noire",
     "wof:parent_id":85632357,
     "wof:placetype":"region",
