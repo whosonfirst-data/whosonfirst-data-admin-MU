@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Moka"
     ],
+    "name:ceb_x_preferred":[
+        "Moka District"
+    ],
     "name:dan_x_preferred":[
         "Moka"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Moka"
+    ],
+    "name:eng_x_variant":[
+        "Moka District"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u0645\u0648\u06a9\u0627"
@@ -147,6 +153,12 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Moka"
+    ],
+    "name:wuu_x_preferred":[
+        "\u83ab\u5361\u5340"
+    ],
+    "name:yue_x_preferred":[
+        "\u83ab\u5361\u5340"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u5361\u5340"
@@ -274,7 +286,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1561749148,
+    "wof:lastmodified":1563571220,
     "wof:name":"Moka",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

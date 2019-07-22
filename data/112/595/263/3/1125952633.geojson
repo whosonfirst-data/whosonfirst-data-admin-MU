@@ -59,6 +59,9 @@
     "name:cdo_x_preferred":[
         "Port Louis"
     ],
+    "name:ceb_x_preferred":[
+        "Port Louis District"
+    ],
     "name:ces_x_preferred":[
         "Port Louis"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u067e\u06c6\u0631\u062a \u0644\u0648\u06cc\u0633"
+    ],
+    "name:crh_x_preferred":[
+        "Port Lui"
     ],
     "name:cym_x_preferred":[
         "Port Louis"
@@ -116,6 +122,9 @@
     "name:glg_x_preferred":[
         "Port Louis"
     ],
+    "name:grn_x_preferred":[
+        "Port Louis"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab0\u0acd\u0a9f \u0ab2\u0ac1\u0a87\u0ab8"
     ],
@@ -124,6 +133,9 @@
     ],
     "name:hat_x_preferred":[
         "P\u00f2-Loui"
+    ],
+    "name:hau_x_preferred":[
+        "Port Louis"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05e8 \u05dc\u05d5\u05d0\u05d9"
@@ -185,6 +197,12 @@
     "name:lav_x_preferred":[
         "Portlu\u012b"
     ],
+    "name:lfn_x_preferred":[
+        "Port Louis"
+    ],
+    "name:lij_x_preferred":[
+        "Port Louis"
+    ],
     "name:lit_x_preferred":[
         "Port Luisas"
     ],
@@ -199,6 +217,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092a\u094b\u0930\u094d\u091f \u0932\u0941\u0908\u0938"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041b\u0443\u0438"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u043e\u0440\u0442 \u041b\u0443\u0438\u0441"
@@ -254,6 +275,9 @@
     "name:por_x_preferred":[
         "Port Louis"
     ],
+    "name:pus_x_preferred":[
+        "\u067e\u0648\u0631\u062a \u0644\u0648\u06cc\u0633"
+    ],
     "name:ron_x_preferred":[
         "Port Louis"
     ],
@@ -295,6 +319,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0bb2\u0bc2\u0baf\u0bbf\u0bb8\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041b\u0443\u0438"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c4b\u0c30\u0c4d\u0c1f\u0c4d \u0c32\u0c41\u0c2f\u0c40\u0c38\u0c4d"
@@ -413,7 +440,7 @@
         }
     ],
     "wof:id":1125952633,
-    "wof:lastmodified":1561749152,
+    "wof:lastmodified":1563571307,
     "wof:name":"Port Louis",
     "wof:parent_id":85674971,
     "wof:placetype":"locality",

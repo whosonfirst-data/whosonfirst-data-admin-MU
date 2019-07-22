@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043f\u043e\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Mapou"
+    ],
     "name:deu_x_preferred":[
         "Mapou"
     ],
@@ -32,6 +35,12 @@
     ],
     "name:swe_x_preferred":[
         "Mapou"
+    ],
+    "name:wuu_x_preferred":[
+        "\u99ac\u666e"
+    ],
+    "name:yue_x_preferred":[
+        "\u99ac\u666e"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u666e"
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":890436973,
-    "wof:lastmodified":1561749151,
+    "wof:lastmodified":1563571281,
     "wof:name":"Mapou",
     "wof:parent_id":85674957,
     "wof:placetype":"locality",

@@ -18,6 +18,12 @@
     "name:afr_x_preferred":[
         "Flic-en-Flac"
     ],
+    "name:ceb_x_preferred":[
+        "Flic en Flac"
+    ],
+    "name:deu_x_preferred":[
+        "Flic en Flac"
+    ],
     "name:eng_x_preferred":[
         "Flic en Flac"
     ],
@@ -25,6 +31,18 @@
         "Flic en Flac"
     ],
     "name:nld_x_preferred":[
+        "Flic en Flac"
+    ],
+    "name:oci_x_preferred":[
+        "Flic en Flac"
+    ],
+    "name:pol_x_preferred":[
+        "Flic en Flac"
+    ],
+    "name:por_x_preferred":[
+        "Flic en Flac"
+    ],
+    "name:spa_x_preferred":[
         "Flic en Flac"
     ],
     "name:swe_x_preferred":[
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":890438469,
-    "wof:lastmodified":1561749151,
+    "wof:lastmodified":1563571286,
     "wof:name":"Flic en Flac",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

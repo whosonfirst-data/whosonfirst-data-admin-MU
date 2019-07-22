@@ -12,6 +12,12 @@
     "iso:country":"MU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Aeropuertu Sir Ga\u00ebtan Duval"
+    ],
+    "name:eng_x_preferred":[
+        "Sir Ga\u00ebtan Duval Airport"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0627\u0626\u062a\u0627\u0646 \u062f\u0648\u0648\u0627\u0644"
     ],
@@ -23,6 +29,9 @@
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Rodrigues"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Sir Ga\u00ebtan Duval"
     ],
     "name:rus_x_preferred":[
         "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0438\u043c\u0435\u043d\u0438 \u0441\u044d\u0440\u0430 \u0413\u0430\u044d\u0442\u0430\u043d\u0430 \u0414\u044e\u0432\u0430\u043b\u044f"
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":102544447,
-    "wof:lastmodified":1543792155,
+    "wof:lastmodified":1563571198,
     "wof:name":"Rodrigues Plaine Corail Airport",
     "wof:parent_id":85674989,
     "wof:placetype":"campus",

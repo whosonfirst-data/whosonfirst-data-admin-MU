@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Pamplemousses"
     ],
+    "name:ceb_x_preferred":[
+        "Pamplemousses District"
+    ],
     "name:dan_x_preferred":[
         "Pamplemousses"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Pamplemousses"
+    ],
+    "name:eng_x_variant":[
+        "Pamplemousses District"
     ],
     "name:fao_x_preferred":[
         "Pamplemousses"
@@ -153,6 +159,12 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Pamplemousses"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9f90\u6ce2\u6155\u65af\u5340"
+    ],
+    "name:yue_x_preferred":[
+        "\u9f90\u6ce2\u6155\u65af\u5340"
     ],
     "name:zho_x_preferred":[
         "\u9f90\u6ce2\u6155\u65af\u5340"
@@ -280,7 +292,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1561749148,
+    "wof:lastmodified":1563571214,
     "wof:name":"Pamplemousses",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

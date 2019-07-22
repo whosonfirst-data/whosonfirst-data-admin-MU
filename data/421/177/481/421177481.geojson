@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Tamarin"
+    ],
     "name:eng_x_preferred":[
         "Tamarin"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:swe_x_preferred":[
         "Tamarin"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5854\u99ac\u862d"
     ],
     "name:zho_x_preferred":[
         "\u5854\u9a6c\u5170"
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":421177481,
-    "wof:lastmodified":1561749150,
+    "wof:lastmodified":1563571270,
     "wof:name":"Tamarin",
     "wof:parent_id":85674983,
     "wof:placetype":"locality",

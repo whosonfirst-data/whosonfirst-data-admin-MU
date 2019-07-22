@@ -93,6 +93,9 @@
     "name:tur_x_preferred":[
         "Port Louis il\u00e7esi"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041b\u0443\u0457"
+    ],
     "name:unk_x_variant":[
         "District of Port Louis"
     ],
@@ -100,6 +103,9 @@
         "\u067e\u0648\u0631\u0679 \u0644\u0648\u0626\u0633 \u0636\u0644\u0639"
     ],
     "name:wuu_x_preferred":[
+        "\u8def\u6613\u6e2f\u5340"
+    ],
+    "name:yue_x_preferred":[
         "\u8def\u6613\u6e2f\u5340"
     ],
     "name:zho_x_preferred":[
@@ -226,7 +232,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1561749148,
+    "wof:lastmodified":1563571219,
     "wof:name":"Port Louis",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

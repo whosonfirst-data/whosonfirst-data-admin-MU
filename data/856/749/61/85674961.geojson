@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Plaines Wilhems"
     ],
+    "name:ceb_x_preferred":[
+        "Plaines Wilhems District"
+    ],
     "name:dan_x_preferred":[
         "Plaines Wilhems District"
     ],
@@ -46,6 +49,9 @@
     "name:eng_x_preferred":[
         "Plaines Wilhems"
     ],
+    "name:eng_x_variant":[
+        "Plaines Wilhems District"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u067e\u0644\u0646 \u0648\u06cc\u0644\u0647\u0645"
     ],
@@ -57,6 +63,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab2\u0ac7\u0a87\u0aa8\u0acd\u0ab8 \u0ab5\u0abf\u0ab2\u0ab9\u0ac7\u0aae\u0acd\u0ab8 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05e4\u05dc\u05d9\u05d9\u05e0\u05e1 \u05d5\u05d9\u05dc\u05d4\u05dc\u05de\u05e1"
     ],
     "name:hin_x_preferred":[
         "\u092a\u094d\u0932\u0947\u0928\u094d\u0938 \u0935\u093f\u0932\u094d\u0939\u0947\u092e\u094d\u0938 \u091c\u093f\u0932\u093e"
@@ -147,6 +156,12 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Plaines Wilhems"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5a01\u5ec9\u5e73\u539f\u5340"
+    ],
+    "name:yue_x_preferred":[
+        "\u5a01\u5ec9\u5e73\u539f\u5340"
     ],
     "name:zho_x_preferred":[
         "\u5a01\u5ec9\u5e73\u539f\u5340"
@@ -277,7 +292,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1561749148,
+    "wof:lastmodified":1563571213,
     "wof:name":"Plaines Wilhems",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

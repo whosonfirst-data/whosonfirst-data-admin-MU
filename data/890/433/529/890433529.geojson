@@ -24,6 +24,9 @@
     "name:pol_x_preferred":[
         "Lalmatie"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430\u043b\u043b\u043c\u0430\u0442\u0438"
+    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0644\u0645\u0627\u0679\u06cc"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890433529,
-    "wof:lastmodified":1561749151,
+    "wof:lastmodified":1563571295,
     "wof:name":"Lalmatie",
     "wof:parent_id":85674943,
     "wof:placetype":"locality",
