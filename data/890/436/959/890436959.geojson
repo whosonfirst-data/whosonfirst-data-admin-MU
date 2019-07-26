@@ -15,6 +15,24 @@
     "iso:country":"MU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Amaury"
+    ],
+    "name:deu_x_preferred":[
+        "Amaury"
+    ],
+    "name:fra_x_preferred":[
+        "Amaury"
+    ],
+    "name:por_x_preferred":[
+        "Amaury"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0430\u0443\u0440\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043c\u0430\u0443\u0440\u0438"
+    ],
     "qs:name":"Amaury",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -45,7 +63,7 @@
         }
     ],
     "wof:id":890436959,
-    "wof:lastmodified":1527735403,
+    "wof:lastmodified":1564125537,
     "wof:name":"Amaury",
     "wof:parent_id":85674979,
     "wof:placetype":"locality",

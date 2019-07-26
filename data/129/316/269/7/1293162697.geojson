@@ -25,6 +25,60 @@
     "iso:country":"MU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Fontenelle"
+    ],
+    "name:ceb_x_preferred":[
+        "Fontenelle"
+    ],
+    "name:deu_x_preferred":[
+        "Fontenelle"
+    ],
+    "name:epo_x_preferred":[
+        "Fontenelle"
+    ],
+    "name:fra_x_preferred":[
+        "Fontenelle"
+    ],
+    "name:ita_x_preferred":[
+        "Fontenelle"
+    ],
+    "name:nds_x_preferred":[
+        "Fontenelle"
+    ],
+    "name:nld_x_preferred":[
+        "Fontenelle"
+    ],
+    "name:pms_x_preferred":[
+        "Fontenelle"
+    ],
+    "name:pol_x_preferred":[
+        "Fontenelle"
+    ],
+    "name:por_x_preferred":[
+        "Fontenelle"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u043d\u0442\u0435\u043d\u0435\u043b\u043b"
+    ],
+    "name:sco_x_preferred":[
+        "Fontenelle"
+    ],
+    "name:slk_x_preferred":[
+        "Fontenelle"
+    ],
+    "name:spa_x_preferred":[
+        "Fontenelle"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u043e\u043d\u0442\u043d\u0435\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Fontenelle"
+    ],
+    "name:vol_x_preferred":[
+        "Fontenelle"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102193527,
@@ -46,7 +100,7 @@
         }
     ],
     "wof:id":1293162697,
-    "wof:lastmodified":1536758638,
+    "wof:lastmodified":1564125496,
     "wof:name":"Fontenelle",
     "wof:parent_id":85674993,
     "wof:placetype":"locality",

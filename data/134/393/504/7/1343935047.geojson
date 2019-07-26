@@ -25,6 +25,27 @@
     "iso:country":"MU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Belle Isle"
+    ],
+    "name:deu_x_preferred":[
+        "Belle Isle"
+    ],
+    "name:fra_x_preferred":[
+        "Belle-\u00cele"
+    ],
+    "name:pol_x_preferred":[
+        "Belle Isle"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u044c-\u0418\u043b\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Belle Isle"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u044c-\u0406\u043b\u044c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102193527,
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1343935047,
-    "wof:lastmodified":1537054383,
+    "wof:lastmodified":1564125487,
     "wof:name":"Belle Isle",
     "wof:parent_id":85674983,
     "wof:placetype":"locality",
