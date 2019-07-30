@@ -26,6 +26,15 @@
     "iso:country":"MU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "River des Cr\u00e9oles"
+    ],
+    "name:pol_x_preferred":[
+        "Rivi\u00e8re des Cr\u00e9oles"
+    ],
+    "name:spa_x_preferred":[
+        "Rivi\u00e8re des Cr\u00e9oles"
+    ],
     "name:und_x_variant":[
         "Rivi\u00e8re Cr\u00e9oles",
         "Rivi\u00e8re des Creoles"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343645021,
-    "wof:lastmodified":1537665823,
+    "wof:lastmodified":1564125481,
     "wof:name":"Riviere des Creoles",
     "wof:parent_id":85674947,
     "wof:placetype":"locality",

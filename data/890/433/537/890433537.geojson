@@ -15,8 +15,14 @@
     "iso:country":"MU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Grand Bois"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0430\u043d-\u0411\u0443\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Grand Bois"
     ],
     "qs:name":"Grand Bois",
     "qs:photos_9r":0,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":890433537,
-    "wof:lastmodified":1527792954,
+    "wof:lastmodified":1564125542,
     "wof:name":"Grand Bois",
     "wof:parent_id":85674993,
     "wof:placetype":"locality",

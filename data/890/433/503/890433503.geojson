@@ -15,6 +15,18 @@
     "iso:country":"MU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Petite Rivi\u00e8re"
+    ],
+    "name:deu_x_preferred":[
+        "Petite Rivi\u00e8re"
+    ],
+    "name:gla_x_preferred":[
+        "Petite Rivi\u00e8re"
+    ],
+    "name:nld_x_preferred":[
+        "Petite Rivi\u00e8re"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0442\u0438\u0442-\u0420\u0438\u0432\u044c\u0435\u0440"
     ],
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":890433503,
-    "wof:lastmodified":1505343535,
+    "wof:lastmodified":1564125541,
     "wof:name":"Petite Rivi\u00e8re",
     "wof:parent_id":85674983,
     "wof:placetype":"locality",

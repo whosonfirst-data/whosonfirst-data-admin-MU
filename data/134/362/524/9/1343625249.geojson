@@ -25,6 +25,12 @@
     "iso:country":"MU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Barkly"
+    ],
+    "name:fra_x_preferred":[
+        "Barkly"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102193527,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1343625249,
-    "wof:lastmodified":1537005219,
+    "wof:lastmodified":1564125480,
     "wof:name":"Barkly",
     "wof:parent_id":85674983,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"MU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Belle Vue Maurel"
+    ],
+    "name:ita_x_preferred":[
+        "Belle Vue Maurel"
+    ],
+    "name:spa_x_preferred":[
+        "Belle Vue Maurel"
+    ],
     "name:und_x_variant":[
         "Belle Vue",
         "Belle Vue Maurel"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1243338779,
-    "wof:lastmodified":1537665826,
+    "wof:lastmodified":1564125552,
     "wof:name":"Belle Vue Maurel",
     "wof:parent_id":85674979,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"MU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Paves"
+    ],
+    "name:ita_x_preferred":[
+        "Pavese"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632357
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1209229161,
-    "wof:lastmodified":1536293694,
+    "wof:lastmodified":1564125509,
     "wof:name":"Paves",
     "wof:parent_id":85632357,
     "wof:placetype":"locality",

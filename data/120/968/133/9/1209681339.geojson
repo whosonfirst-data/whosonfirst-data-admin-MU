@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Calodyne"
     ],
+    "name:fra_x_preferred":[
+        "Calodyne"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632357
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1209681339,
-    "wof:lastmodified":1537568541,
+    "wof:lastmodified":1564125509,
     "wof:name":"Calodyne",
     "wof:parent_id":85632357,
     "wof:placetype":"locality",

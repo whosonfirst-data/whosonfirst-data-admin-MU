@@ -25,6 +25,21 @@
     "iso:country":"MU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pellegrin"
+    ],
+    "name:fra_x_preferred":[
+        "Pellegrin"
+    ],
+    "name:ita_x_preferred":[
+        "Pellegrin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043b\u043b\u0435\u0433\u0440\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Pellegrin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102193527,
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1326501607,
-    "wof:lastmodified":1537027078,
+    "wof:lastmodified":1564125475,
     "wof:name":"Pellegrin",
     "wof:parent_id":85674975,
     "wof:placetype":"locality",

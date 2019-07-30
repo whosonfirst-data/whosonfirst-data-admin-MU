@@ -24,6 +24,15 @@
     "iso:country":"MU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Lalmatie"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430\u043b\u043b\u043c\u0430\u0442\u0438"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0644\u0645\u0627\u0679\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102193527,
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":1242985951,
-    "wof:lastmodified":1536971991,
+    "wof:lastmodified":1564125553,
     "wof:name":"Lallmatie",
     "wof:parent_id":85674957,
     "wof:placetype":"locality",

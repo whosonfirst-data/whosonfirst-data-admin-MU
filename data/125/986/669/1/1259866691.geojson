@@ -25,6 +25,48 @@
     "iso:country":"MU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Bambous"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0645\u0628\u0648\u0633"
+    ],
+    "name:ceb_x_preferred":[
+        "Bambous"
+    ],
+    "name:deu_x_preferred":[
+        "Bambous"
+    ],
+    "name:fra_x_preferred":[
+        "Bambous"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0948\u092e\u094d\u092c\u0949\u0938"
+    ],
+    "name:hrv_x_preferred":[
+        "Bambous"
+    ],
+    "name:ita_x_preferred":[
+        "Bambous"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30f3\u30d6\u30fc\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Bambous"
+    ],
+    "name:pol_x_preferred":[
+        "Bambous"
+    ],
+    "name:ron_x_preferred":[
+        "Bambous"
+    ],
+    "name:swe_x_preferred":[
+        "Bambous"
+    ],
+    "name:tur_x_preferred":[
+        "Bambous"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +90,7 @@
         }
     ],
     "wof:id":1259866691,
-    "wof:lastmodified":1537568541,
+    "wof:lastmodified":1564125560,
     "wof:name":"Bambous",
     "wof:parent_id":85674983,
     "wof:placetype":"locality",
