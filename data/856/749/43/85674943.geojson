@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FL"
+    ],
     "lbl:latitude":-20.224491,
     "lbl:longitude":57.721966,
     "mps:latitude":-20.224491,
@@ -281,9 +284,6 @@
         }
     ],
     "wof:id":85674943,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fra"
@@ -292,7 +292,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1563571219,
+    "wof:lastmodified":1565728081,
     "wof:name":"Flacq",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "dependency"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AG"
+    ],
     "lbl:latitude":-10.363508,
     "lbl:longitude":56.545202,
     "mps:latitude":-10.363508,
@@ -296,9 +299,6 @@
         }
     ],
     "wof:id":85674925,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fra"
@@ -307,7 +307,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1563571227,
+    "wof:lastmodified":1565728081,
     "wof:name":"Agal\u00e9ga",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RO"
+    ],
     "lbl:latitude":-19.708218,
     "lbl:longitude":63.411725,
     "mps:latitude":-19.708218,
@@ -322,9 +325,6 @@
         }
     ],
     "wof:id":85674989,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fra"
@@ -333,7 +333,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1563571217,
+    "wof:lastmodified":1565728080,
     "wof:name":"Rodrigues",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

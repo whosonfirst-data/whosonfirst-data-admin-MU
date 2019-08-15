@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Vacoas-Phoenix City"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VP"
+    ],
     "lbl:latitude":-20.300647,
     "lbl:longitude":57.489226,
     "mps:latitude":-20.300647,
@@ -236,9 +239,6 @@
         }
     ],
     "wof:id":85674997,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fra"
@@ -247,13 +247,14 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1563571222,
+    "wof:lastmodified":1565728081,
     "wof:name":"Vacoas-Phoenix",
     "wof:parent_id":85632357,
     "wof:placetype":"region",
     "wof:population":110000,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:shortcode":"VP",
     "wof:subdivision":"MU-VP",
     "wof:superseded_by":[],
     "wof:supersedes":[],

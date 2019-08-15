@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Beau Bassin-Rose Hill City"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BR"
+    ],
     "lbl:latitude":-20.237093,
     "lbl:longitude":57.473246,
     "mps:latitude":-20.237093,
@@ -191,9 +194,6 @@
         }
     ],
     "wof:id":85674929,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fra"
@@ -202,11 +202,12 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1563571216,
+    "wof:lastmodified":1565728080,
     "wof:name":"Beau Bassin-Rose Hill",
     "wof:parent_id":85632357,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:shortcode":"BR",
     "wof:subdivision":"MU-BR",
     "wof:superseded_by":[],
     "wof:supersedes":[],

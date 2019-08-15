@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MO"
+    ],
     "lbl:latitude":-20.244756,
     "lbl:longitude":57.584745,
     "mps:latitude":-20.244756,
@@ -275,9 +278,6 @@
         }
     ],
     "wof:id":85674953,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fra"
@@ -286,7 +286,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1563571220,
+    "wof:lastmodified":1565728081,
     "wof:name":"Moka",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BL"
+    ],
     "lbl:latitude":-20.337795,
     "lbl:longitude":57.407082,
     "mps:latitude":-20.337795,
@@ -280,9 +283,6 @@
         }
     ],
     "wof:id":85674983,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fra"
@@ -291,7 +291,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1563571223,
+    "wof:lastmodified":1565728081,
     "wof:name":"Rivi\u00e8re Noire",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

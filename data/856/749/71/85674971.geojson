@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Port Louis City"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PL"
+    ],
     "lbl:latitude":-20.154478,
     "lbl:longitude":57.497475,
     "mps:latitude":-20.154478,
@@ -67,14 +70,12 @@
     "name:ell_x_variant":[
         "\u03a0\u03bf\u03c1-\u039b\u03bf\u03c5\u03af"
     ],
-    "name:eng_x_colloquial":[
-        ""
-    ],
     "name:eng_x_preferred":[
         "Port Louis"
     ],
     "name:eng_x_variant":[
         "Port Louis Town",
+        "Port Louis city",
         "Pt Louis",
         "Pt Louis Town",
         "Pt. Louis",
@@ -449,10 +450,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "fips:code":"",
         "gn:id":934154,
         "gp:id":1377436,
-        "hasc:id":"MU.",
         "loc:id":"n79090018",
         "qs:id":219476,
         "wd:id":"Q960645",
@@ -479,15 +478,16 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1563571225,
+    "wof:lastmodified":1565900884,
     "wof:megacity":0,
-    "wof:name":"Port Louis city",
+    "wof:name":"Port Louis",
     "wof:parent_id":85632357,
     "wof:placetype":"region",
     "wof:population":155226,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-mu",
     "wof:scale":4,
+    "wof:shortcode":"PL",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

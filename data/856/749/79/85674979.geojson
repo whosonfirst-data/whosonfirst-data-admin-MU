@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RR"
+    ],
     "lbl:latitude":-20.056049,
     "lbl:longitude":57.652046,
     "mps:latitude":-20.056049,
@@ -273,9 +276,6 @@
         }
     ],
     "wof:id":85674979,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fra"
@@ -284,7 +284,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1563571223,
+    "wof:lastmodified":1565728081,
     "wof:name":"Rivi\u00e8re du Rempart",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

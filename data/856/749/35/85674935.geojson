@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "dependency"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CC"
+    ],
     "lbl:latitude":-16.818676,
     "lbl:longitude":59.496433,
     "mps:latitude":-16.818676,
@@ -163,9 +166,6 @@
         }
     ],
     "wof:id":85674935,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fra"
@@ -174,7 +174,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1553550464,
+    "wof:lastmodified":1565728080,
     "wof:name":"Cargados Carajos Shoals",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

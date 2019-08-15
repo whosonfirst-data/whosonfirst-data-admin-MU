@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PL"
+    ],
     "lbl:latitude":-20.171481,
     "lbl:longitude":57.529301,
     "mps:latitude":-20.171481,
@@ -221,9 +224,6 @@
         }
     ],
     "wof:id":85674965,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fra"
@@ -232,7 +232,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1563571219,
+    "wof:lastmodified":1565728081,
     "wof:name":"Port Louis",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

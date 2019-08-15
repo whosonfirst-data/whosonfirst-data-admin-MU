@@ -14,6 +14,9 @@
     "itu:country_code":[
         "230"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MU"
+    ],
     "lbl:latitude":-20.321973,
     "lbl:longitude":57.534935,
     "mps:latitude":-20.321973,
@@ -971,9 +974,6 @@
         }
     ],
     "wof:id":85632357,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fra"
@@ -982,7 +982,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1563571212,
+    "wof:lastmodified":1565728080,
     "wof:name":"Mauritius",
     "wof:parent_id":102193527,
     "wof:placetype":"country",

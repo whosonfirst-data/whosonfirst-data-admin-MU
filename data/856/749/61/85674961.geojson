@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PW"
+    ],
     "lbl:latitude":-20.368607,
     "lbl:longitude":57.530706,
     "mps:latitude":-20.368607,
@@ -281,9 +284,6 @@
         }
     ],
     "wof:id":85674961,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fra"
@@ -292,7 +292,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1563571213,
+    "wof:lastmodified":1565728080,
     "wof:name":"Plaines Wilhems",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Quatre Bornes City"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QB"
+    ],
     "lbl:latitude":-20.268215,
     "lbl:longitude":57.48044,
     "mps:latitude":-20.268215,
@@ -175,9 +178,6 @@
         }
     ],
     "wof:id":85674975,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fra"
@@ -186,13 +186,14 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1563571218,
+    "wof:lastmodified":1565728080,
     "wof:name":"Quatre Bornes",
     "wof:parent_id":85632357,
     "wof:placetype":"region",
     "wof:population":80961,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:shortcode":"QB",
     "wof:subdivision":"MU-QB",
     "wof:superseded_by":[],
     "wof:supersedes":[],

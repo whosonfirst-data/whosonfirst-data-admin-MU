@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Curepipe City"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CU"
+    ],
     "lbl:latitude":-20.321098,
     "lbl:longitude":57.519537,
     "mps:latitude":-20.321098,
@@ -191,9 +194,6 @@
         }
     ],
     "wof:id":85674939,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fra"
@@ -202,11 +202,12 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1563571221,
+    "wof:lastmodified":1565728081,
     "wof:name":"Curepipe",
     "wof:parent_id":85632357,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:shortcode":"CU",
     "wof:subdivision":"MU-CU",
     "wof:superseded_by":[],
     "wof:supersedes":[],
