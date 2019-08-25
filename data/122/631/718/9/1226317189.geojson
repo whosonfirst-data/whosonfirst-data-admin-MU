@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Mauritius",
     "iso:country":"MU",
+    "lbl:bbox":"57.36833,-20.51639,57.40833,-20.47639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sint Maartin"
     ],
@@ -238,7 +242,7 @@
         }
     ],
     "wof:id":1226317189,
-    "wof:lastmodified":1564125575,
+    "wof:lastmodified":1566612141,
     "wof:name":"Saint Martin",
     "wof:parent_id":85674983,
     "wof:placetype":"locality",

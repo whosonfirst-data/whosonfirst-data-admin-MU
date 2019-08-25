@@ -11,10 +11,14 @@
     "geom:longitude":57.55833,
     "gn:country":"MU",
     "gn:fcode":"PPL",
-    "gn:pop":4546,
+    "gn:population":4546,
     "iso:country":"MU",
+    "lbl:bbox":"57.53833,-20.3525,57.57833,-20.3125",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Midlands"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":934282,
         "gp:id":1377308,
-        "qs:id":130164,
+        "qs_pg:id":130164,
         "wd:id":"Q6842481",
         "wk:page":"Midlands"
     },
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890433525,
-    "wof:lastmodified":1561749152,
+    "wof:lastmodified":1566612127,
     "wof:name":"Midlands",
     "wof:parent_id":85674961,
     "wof:placetype":"locality",

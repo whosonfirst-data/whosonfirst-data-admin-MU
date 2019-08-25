@@ -11,11 +11,15 @@
     "geom:longitude":57.65444,
     "gn:country":"MU",
     "gn:fcode":"PPL",
-    "gn:pop":8661,
+    "gn:population":8661,
     "iso:country":"MU",
+    "lbl:bbox":"57.63444,-20.30278,57.67444,-20.26278",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Mont Blanche"
     ],
     "qs:name":"Montagne Blanche",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":934262,
         "gp:id":1377407,
-        "qs:id":130162
+        "qs_pg:id":130162
     },
     "wof:country":"MU",
     "wof:created":1469051890,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890431403,
-    "wof:lastmodified":1505343524,
+    "wof:lastmodified":1566612124,
     "wof:name":"Montagne Blanche",
     "wof:parent_id":85674953,
     "wof:placetype":"locality",

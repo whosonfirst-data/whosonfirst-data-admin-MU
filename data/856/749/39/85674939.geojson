@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":-20.321098,
     "lbl:longitude":57.519537,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-20.321098,
     "mps:longitude":57.519537,
     "mz:hierarchy_label":1,
@@ -167,7 +168,7 @@
     "qs:type":"City",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"MU-CU",
     "wd:wordcount":954,
     "wof:belongsto":[
@@ -180,7 +181,7 @@
         "gn:id":-934166,
         "gp:id":1377308,
         "hasc:id":"MU.",
-        "qs:id":920353,
+        "qs_pg:id":920353,
         "unlc:id":"MU-CU",
         "wd:id":"Q1002525"
     },
@@ -202,7 +203,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1565728081,
+    "wof:lastmodified":1566612096,
     "wof:name":"Curepipe",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

@@ -11,10 +11,14 @@
     "geom:longitude":57.7575,
     "gn:country":"MU",
     "gn:fcode":"PPL",
-    "gn:pop":1540,
+    "gn:population":1540,
     "iso:country":"MU",
+    "lbl:bbox":"57.7375,-20.36278,57.7775,-20.32278",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u063a\u0631\u0627\u0646\u062f \u0628\u0648\u0631\u062a"
     ],
@@ -156,7 +160,7 @@
     "wof:concordances":{
         "gn:id":1106677,
         "gp:id":1377381,
-        "qs:id":1029742,
+        "qs_pg:id":1029742,
         "wd:id":"Q911635",
         "wk:page":"Grand Port District"
     },
@@ -172,7 +176,7 @@
         }
     ],
     "wof:id":890436967,
-    "wof:lastmodified":1563571281,
+    "wof:lastmodified":1566612124,
     "wof:name":"Bambous Virieux",
     "wof:parent_id":85674947,
     "wof:placetype":"locality",

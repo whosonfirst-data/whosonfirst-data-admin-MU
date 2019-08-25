@@ -11,10 +11,14 @@
     "geom:longitude":57.74556,
     "gn:country":"MU",
     "gn:fcode":"PPL",
-    "gn:pop":4401,
+    "gn:population":4401,
     "iso:country":"MU",
+    "lbl:bbox":"57.72556,-20.23583,57.76556,-20.19583",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0644\u0627\u0633\u0643"
     ],
@@ -165,7 +169,7 @@
     "wof:concordances":{
         "gn:id":1106645,
         "gp:id":1377294,
-        "qs:id":1029740,
+        "qs_pg:id":1029740,
         "wd:id":"Q911651",
         "wk:page":"Flacq District"
     },
@@ -181,7 +185,7 @@
         }
     ],
     "wof:id":890436963,
-    "wof:lastmodified":1563571278,
+    "wof:lastmodified":1566612123,
     "wof:name":"Camp Ithier",
     "wof:parent_id":85674943,
     "wof:placetype":"locality",

@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":-20.300647,
     "lbl:longitude":57.489226,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-20.300647,
     "mps:longitude":57.489226,
     "mz:hierarchy_label":1,
@@ -131,9 +132,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043a\u043e\u0430-\u0424\u0435\u043d\u0456\u043a\u0441"
     ],
-    "name:unk_x_variant":[
-        "Vacoa"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u06a9\u0648\u0627\u0633 \u0641\u06cc\u0646\u06a9\u0633"
     ],
@@ -210,7 +208,7 @@
     "qs:type":"City",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "unlc:subdivision":"MU-VP",
     "wd:wordcount":287,
@@ -224,7 +222,7 @@
         "gn:id":933945,
         "gp:id":1377510,
         "hasc:id":"MU.",
-        "qs:id":492847,
+        "qs_pg:id":492847,
         "unlc:id":"MU-VP",
         "wd:id":"Q676724",
         "wk:page":"Vacoas-Phoenix"
@@ -247,7 +245,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1565728081,
+    "wof:lastmodified":1566612096,
     "wof:name":"Vacoas-Phoenix",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-16.818676,
     "lbl:longitude":59.496433,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-16.818676,
     "mps:longitude":59.496433,
     "mz:hierarchy_label":1,
@@ -54,9 +55,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0440\u0433\u0430\u0434\u043e\u0441 \u041a\u0430\u0440\u0430\u0445\u043e\u0441"
-    ],
-    "name:unk_x_variant":[
-        "Cargados Carajos"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MUS",
@@ -128,7 +126,7 @@
     "qs:type":"Dependency",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:area_km":"1",
     "statoids:area_mi":"0",
@@ -142,7 +140,6 @@
     "statoids:population":"",
     "statoids:timezone":"+4",
     "statoids:type":"dependency",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102193527,
         85632357
@@ -154,7 +151,7 @@
         "gp:id":2346238,
         "hasc:id":"MU.CC",
         "iso:id":"MU-CC",
-        "qs:id":1311327
+        "qs_pg:id":1311327
     },
     "wof:country":"MU",
     "wof:geomhash":"a761267dc3a5d8aabad0339fd654dc5a",
@@ -174,11 +171,10 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1565728080,
+    "wof:lastmodified":1566612095,
     "wof:name":"Cargados Carajos Shoals",
     "wof:parent_id":85632357,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"dependency",
     "wof:population":63,
     "wof:population_rank":1,

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-20.244756,
     "lbl:longitude":57.584745,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-20.244756,
     "mps:longitude":57.584745,
     "mz:hierarchy_label":1,
@@ -148,9 +149,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Moka District"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u06a9\u0627 \u0636\u0644\u0639"
     ],
@@ -236,9 +234,9 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-03",
+    "src:population_date":"2011-07-03",
     "statoids:area_km":"231",
     "statoids:area_mi":"89",
     "statoids:as_of_date":"2011-07-03",
@@ -263,7 +261,7 @@
         "gp:id":2346231,
         "hasc:id":"MU.MO",
         "iso:id":"MU-MO",
-        "qs:id":318532,
+        "qs_pg:id":318532,
         "unlc:id":"MU-MO",
         "wd:id":"Q911643",
         "wk:page":"Moka District"
@@ -286,11 +284,10 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1565728081,
+    "wof:lastmodified":1566612096,
     "wof:name":"Moka",
     "wof:parent_id":85632357,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":82302,
     "wof:population_rank":8,

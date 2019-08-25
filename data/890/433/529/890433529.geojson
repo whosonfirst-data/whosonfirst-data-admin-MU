@@ -11,10 +11,14 @@
     "geom:longitude":57.66111,
     "gn:country":"MU",
     "gn:fcode":"PPL",
-    "gn:pop":10404,
+    "gn:population":10404,
     "iso:country":"MU",
+    "lbl:bbox":"57.64111,-20.20972,57.68111,-20.16972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Lalmatie"
     ],
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":934390,
         "gp:id":1377294,
-        "qs:id":130167,
+        "qs_pg:id":130167,
         "wd:id":"Q11752672",
         "wk:page":"Lallmatie"
     },
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890433529,
-    "wof:lastmodified":1563571295,
+    "wof:lastmodified":1566612126,
     "wof:name":"Lalmatie",
     "wof:parent_id":85674943,
     "wof:placetype":"locality",

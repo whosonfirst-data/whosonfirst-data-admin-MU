@@ -11,10 +11,14 @@
     "geom:longitude":57.73611,
     "gn:country":"MU",
     "gn:fcode":"PPL",
-    "gn:pop":5952,
+    "gn:population":5952,
     "iso:country":"MU",
+    "lbl:bbox":"57.71611,-20.24611,57.75611,-20.20611",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0644\u0627\u0633\u0643"
     ],
@@ -165,7 +169,7 @@
     "wof:concordances":{
         "gn:id":1106660,
         "gp:id":1377294,
-        "qs:id":1029741,
+        "qs_pg:id":1029741,
         "wd:id":"Q911651",
         "wk:page":"Flacq District"
     },
@@ -181,7 +185,7 @@
         }
     ],
     "wof:id":890436965,
-    "wof:lastmodified":1563571277,
+    "wof:lastmodified":1566612123,
     "wof:name":"Ecroignard",
     "wof:parent_id":85674943,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":57.44528,
     "gn:country":"MU",
     "gn:fcode":"PPL",
-    "gn:pop":5331,
+    "gn:population":5331,
     "iso:country":"MU",
+    "lbl:bbox":"57.42528,-20.20944,57.46528,-20.16944",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Petite Rivi\u00e8re"
     ],
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":934195,
         "gp:id":1377413,
-        "qs:id":130155
+        "qs_pg:id":130155
     },
     "wof:country":"MU",
     "wof:created":1469051982,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890433503,
-    "wof:lastmodified":1564125541,
+    "wof:lastmodified":1566612126,
     "wof:name":"Petite Rivi\u00e8re",
     "wof:parent_id":85674983,
     "wof:placetype":"locality",

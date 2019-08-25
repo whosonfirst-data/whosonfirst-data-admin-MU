@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-20.457232,
     "lbl:longitude":57.543444,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-20.457232,
     "mps:longitude":57.543444,
     "mz:hierarchy_label":1,
@@ -151,7 +152,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u0421\u0430\u0432\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Savane"
     ],
     "name:urd_x_preferred":[
@@ -239,9 +240,9 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-03",
+    "src:population_date":"2011-07-03",
     "statoids:area_km":"243",
     "statoids:area_mi":"94",
     "statoids:as_of_date":"2011-07-03",
@@ -266,7 +267,7 @@
         "gp:id":2346236,
         "hasc:id":"MU.SA",
         "iso:id":"MU-SA",
-        "qs:id":423829,
+        "qs_pg:id":423829,
         "unlc:id":"MU-SA",
         "wd:id":"Q1053600",
         "wk:page":"Savanne District"
@@ -289,11 +290,10 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1565728080,
+    "wof:lastmodified":1566612095,
     "wof:name":"Savanne",
     "wof:parent_id":85632357,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":67906,
     "wof:population_rank":8,

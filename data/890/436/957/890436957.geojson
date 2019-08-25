@@ -11,10 +11,14 @@
     "geom:longitude":57.59083,
     "gn:country":"MU",
     "gn:fcode":"PPL",
-    "gn:pop":1956,
+    "gn:population":1956,
     "iso:country":"MU",
+    "lbl:bbox":"57.57083,-20.16889,57.61083,-20.12889",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0628\u0627\u0645\u0628\u0644\u0645\u0648\u0633\u0632"
     ],
@@ -162,7 +166,7 @@
     "wof:concordances":{
         "gn:id":1106621,
         "gp:id":1377378,
-        "qs:id":1029734,
+        "qs_pg:id":1029734,
         "wd:id":"Q934126",
         "wk:page":"Pamplemousses District"
     },
@@ -178,7 +182,7 @@
         }
     ],
     "wof:id":890436957,
-    "wof:lastmodified":1563571279,
+    "wof:lastmodified":1566612123,
     "wof:name":"Congomah",
     "wof:parent_id":85674957,
     "wof:placetype":"locality",

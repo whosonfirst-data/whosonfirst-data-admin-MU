@@ -10,8 +10,12 @@
     "geom:latitude":-20.10306,
     "geom:longitude":57.68472,
     "iso:country":"MU",
+    "lbl:bbox":"57.66472,-20.12306,57.70472,-20.08306",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Rivi\u00e8re du Rempart"
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":934091,
         "gp:id":1377460,
-        "qs:id":279420
+        "qs_pg:id":279420
     },
     "wof:country":"MU",
     "wof:created":1459009907,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":421197247,
-    "wof:lastmodified":1527716406,
+    "wof:lastmodified":1566612120,
     "wof:name":"Riviere du Rempart",
     "wof:parent_id":85674979,
     "wof:placetype":"locality",

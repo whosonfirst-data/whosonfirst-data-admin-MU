@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Mauritius",
     "iso:country":"MU",
+    "lbl:bbox":"57.71639,-20.375,57.75639,-20.335",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u0434\u044d\u043d\u0441"
     ],
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":1226521231,
-    "wof:lastmodified":1564125572,
+    "wof:lastmodified":1566612140,
     "wof:name":"Providence",
     "wof:parent_id":85674947,
     "wof:placetype":"locality",
