@@ -11,10 +11,14 @@
     "geom:longitude":57.54417,
     "gn:country":"MU",
     "gn:fcode":"PPL",
-    "gn:pop":7804,
+    "gn:population":7804,
     "iso:country":"MU",
+    "lbl:bbox":"57.52417,-20.43889,57.56417,-20.39889",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Grand Bois"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":934485,
         "gp:id":1377466,
-        "qs:id":130172,
+        "qs_pg:id":130172,
         "wk:page":"Grand Bois"
     },
     "wof:country":"MU",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890433537,
-    "wof:lastmodified":1564125542,
+    "wof:lastmodified":1566612127,
     "wof:name":"Grand Bois",
     "wof:parent_id":85674993,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":57.77056,
     "gn:country":"MU",
     "gn:fcode":"PPL",
-    "gn:pop":3515,
+    "gn:population":3515,
     "iso:country":"MU",
+    "lbl:bbox":"57.75056,-20.31917,57.79056,-20.27917",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0644\u0627\u0633\u0643"
     ],
@@ -135,7 +139,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u0424\u043b\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Quatre Soeurs Br."
     ],
     "name:urd_x_preferred":[
@@ -168,7 +172,7 @@
     "wof:concordances":{
         "gn:id":934127,
         "gp:id":1377407,
-        "qs:id":130150,
+        "qs_pg:id":130150,
         "wd:id":"Q911651",
         "wk:page":"Flacq District"
     },
@@ -184,7 +188,7 @@
         }
     ],
     "wof:id":890432105,
-    "wof:lastmodified":1563571298,
+    "wof:lastmodified":1566612127,
     "wof:name":"Quatre Soeurs",
     "wof:parent_id":85674943,
     "wof:placetype":"locality",

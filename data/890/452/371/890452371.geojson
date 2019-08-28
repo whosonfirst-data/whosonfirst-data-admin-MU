@@ -11,10 +11,14 @@
     "geom:longitude":57.65306,
     "gn:country":"MU",
     "gn:fcode":"PPL",
-    "gn:pop":10778,
+    "gn:population":10778,
     "iso:country":"MU",
+    "lbl:bbox":"57.63306,-20.44861,57.67306,-20.40861",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Plaine Magnien"
     ],
@@ -42,7 +46,7 @@
     "name:swe_x_preferred":[
         "Plaine Magnien"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Plaines Magnien"
     ],
     "qs:name":"Plaine Magnien",
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":934169,
         "gp:id":12514796,
-        "qs:id":130153,
+        "qs_pg:id":130153,
         "wd:id":"Q3390948",
         "wk:page":"Plaine Magnien"
     },
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890452371,
-    "wof:lastmodified":1563571276,
+    "wof:lastmodified":1566612122,
     "wof:name":"Plaine Magnien",
     "wof:parent_id":85674947,
     "wof:placetype":"locality",

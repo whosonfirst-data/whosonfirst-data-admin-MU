@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-20.171481,
     "lbl:longitude":57.529301,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-20.171481,
     "mps:longitude":57.529301,
     "mz:hierarchy_label":1,
@@ -99,7 +100,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0442-\u041b\u0443\u0457"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "District of Port Louis"
     ],
     "name:urd_x_preferred":[
@@ -184,9 +185,9 @@
     "qs:type":"City",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-03",
+    "src:population_date":"2011-07-03",
     "statoids:area_km":"44",
     "statoids:area_mi":"17",
     "statoids:as_of_date":"2011-07-03",
@@ -210,7 +211,7 @@
         "gp:id":2346234,
         "hasc:id":"MU.PL",
         "iso:id":"MU-PL",
-        "qs:id":1083850,
+        "qs_pg:id":1083850,
         "wd:id":"Q960645",
         "wk:page":"Port Louis District"
     },
@@ -232,11 +233,10 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1565728081,
+    "wof:lastmodified":1566612096,
     "wof:name":"Port Louis",
     "wof:parent_id":85632357,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":118431,
     "wof:population_rank":9,

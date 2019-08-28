@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Mauritius",
     "iso:country":"MU",
+    "lbl:bbox":"57.64583,-20.22889,57.68583,-20.18889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102193527,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1242656813,
-    "wof:lastmodified":1536950046,
+    "wof:lastmodified":1566612133,
     "wof:name":"Rich Fund",
     "wof:parent_id":85674943,
     "wof:placetype":"locality",

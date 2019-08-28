@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-20.368607,
     "lbl:longitude":57.530706,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-20.368607,
     "mps:longitude":57.530706,
     "mz:hierarchy_label":1,
@@ -151,7 +152,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u041f\u043b\u0435\u043d-\u0412\u0456\u043b\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Plains Wilhems"
     ],
     "name:urd_x_preferred":[
@@ -239,9 +240,9 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-03",
+    "src:population_date":"2011-07-03",
     "statoids:area_km":"205",
     "statoids:area_mi":"79",
     "statoids:as_of_date":"2011-07-03",
@@ -269,7 +270,7 @@
         "gp:id":2346233,
         "hasc:id":"MU.PW",
         "iso:id":"MU-PW",
-        "qs:id":235610,
+        "qs_pg:id":235610,
         "unlc:id":"MU-PW",
         "wd:id":"Q1053595",
         "wk:page":"Plaines Wilhems District"
@@ -292,11 +293,10 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1565728080,
+    "wof:lastmodified":1566612094,
     "wof:name":"Plaines Wilhems",
     "wof:parent_id":85632357,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":362292,
     "wof:population_rank":10,

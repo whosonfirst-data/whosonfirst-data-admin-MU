@@ -10,8 +10,12 @@
     "geom:latitude":-20.01816,
     "geom:longitude":57.58015,
     "iso:country":"MU",
+    "lbl:bbox":"57.56015,-20.03816,57.60015,-19.99816",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Grand-Baie"
@@ -46,9 +50,6 @@
     "name:swe_x_preferred":[
         "Grand Baie"
     ],
-    "name:unk_x_variant":[
-        "Grand Baie"
-    ],
     "qs:gn_country":"MU",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":934482,
@@ -79,7 +80,7 @@
     "wof:concordances":{
         "gn:id":934482,
         "gp:id":1377323,
-        "qs:id":492834,
+        "qs_pg:id":492834,
         "wd:id":"Q992154",
         "wk:page":"Grand-Baie"
     },
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":421168013,
-    "wof:lastmodified":1563571266,
+    "wof:lastmodified":1566612119,
     "wof:name":"Grande Baie",
     "wof:parent_id":85674957,
     "wof:placetype":"locality",

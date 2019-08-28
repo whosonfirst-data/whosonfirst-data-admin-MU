@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Mauritius",
     "iso:country":"MU",
+    "lbl:bbox":"57.58617,-20.00767,57.62617,-19.96767",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102193527,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1343473811,
-    "wof:lastmodified":1536727154,
+    "wof:lastmodified":1566612092,
     "wof:name":"Bain Boeuf",
     "wof:parent_id":85674979,
     "wof:placetype":"locality",

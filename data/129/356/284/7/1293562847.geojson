@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Mauritius",
     "iso:country":"MU",
+    "lbl:bbox":"57.70222,-20.38917,57.74222,-20.34917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Belle Vue"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1293562847,
-    "wof:lastmodified":1564125494,
+    "wof:lastmodified":1566612099,
     "wof:name":"Belle Vue",
     "wof:parent_id":85674947,
     "wof:placetype":"locality",

@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":-20.321973,
     "lbl:longitude":57.534935,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-20.321973,
     "mps:longitude":57.534935,
     "mz:hierarchy_label":1,
@@ -751,13 +753,8 @@
     "name:und_x_colloquial":[
         "Maritius"
     ],
-    "name:und_x_preferred":[
-        "M\u00e1rit\u00edus"
-    ],
     "name:und_x_variant":[
-        "Republika Mauritius"
-    ],
-    "name:unk_x_variant":[
+        "Republika Mauritius",
         "Isle de France"
     ],
     "name:urd_x_preferred":[
@@ -912,7 +909,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"230",
     "statoids:ds":"MS",
@@ -932,7 +929,6 @@
     "wd:longitude":57.5,
     "wd:population":1258653,
     "wd:wordcount":10847,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102193527
     ],
@@ -958,7 +954,7 @@
         "mzb:id":"mauritius",
         "ne:adm0_a3":"MUS",
         "nyt:id":"N16080242468809507411",
-        "qs:id":83993,
+        "qs_pg:id":83993,
         "uncrt:id":"MS",
         "wd:id":"Q1027",
         "wk:page":"Mauritius",
@@ -982,7 +978,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1565728080,
+    "wof:lastmodified":1566612094,
     "wof:name":"Mauritius",
     "wof:parent_id":102193527,
     "wof:placetype":"country",

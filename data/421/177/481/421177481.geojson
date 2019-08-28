@@ -10,8 +10,12 @@
     "geom:latitude":-20.32556,
     "geom:longitude":57.37056,
     "iso:country":"MU",
+    "lbl:bbox":"57.35056,-20.34556,57.39056,-20.30556",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tamarin"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":933982,
         "gp:id":1377498,
-        "qs:id":423480,
+        "qs_pg:id":423480,
         "wd:id":"Q2322083",
         "wk:page":"Tamarin, Mauritius"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":421177481,
-    "wof:lastmodified":1563571270,
+    "wof:lastmodified":1566612121,
     "wof:name":"Tamarin",
     "wof:parent_id":85674983,
     "wof:placetype":"locality",

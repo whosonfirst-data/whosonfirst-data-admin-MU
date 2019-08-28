@@ -11,10 +11,14 @@
     "geom:longitude":57.43,
     "gn:country":"MU",
     "gn:fcode":"PPL",
-    "gn:pop":3361,
+    "gn:population":3361,
     "iso:country":"MU",
+    "lbl:bbox":"57.41,-20.22722,57.45,-20.18722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0647\u0631 \u0627\u0644\u0623\u0633\u0648\u062f"
     ],
@@ -153,7 +157,7 @@
     "wof:concordances":{
         "gn:id":1106763,
         "gp:id":1377240,
-        "qs:id":1029743,
+        "qs_pg:id":1029743,
         "wd:id":"Q873740",
         "wk:page":"Rivi\u00e8re Noire District"
     },
@@ -169,7 +173,7 @@
         }
     ],
     "wof:id":890436971,
-    "wof:lastmodified":1563571279,
+    "wof:lastmodified":1566612123,
     "wof:name":"Gros Cailloux",
     "wof:parent_id":85674983,
     "wof:placetype":"locality",
