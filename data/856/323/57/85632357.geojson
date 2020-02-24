@@ -962,6 +962,11 @@
     },
     "wof:country":"MU",
     "wof:country_alpha3":"MUS",
+    "wof:geom_alt":[
+        "naturalearth",
+        "meso",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"4fe885c36b72aa680ac267a8faac09bc",
     "wof:hierarchy":[
         {
@@ -978,7 +983,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1566612094,
+    "wof:lastmodified":1582332264,
     "wof:name":"Mauritius",
     "wof:parent_id":102193527,
     "wof:placetype":"country",
