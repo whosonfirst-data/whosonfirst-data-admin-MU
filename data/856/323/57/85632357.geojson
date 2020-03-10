@@ -938,9 +938,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Mauritius",
-        "digitalenvoy:country_code":[
-            480
-        ],
+        "digitalenvoy:country_code":480,
         "fb:id":"en.mauritius",
         "fifa:id":"MRI",
         "fips:code":"MP",
@@ -986,7 +984,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1583529189,
+    "wof:lastmodified":1583797396,
     "wof:name":"Mauritius",
     "wof:parent_id":102193527,
     "wof:placetype":"country",
