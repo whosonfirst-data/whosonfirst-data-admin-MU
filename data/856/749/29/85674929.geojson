@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.001064,
     "geom:area_square_m":12345557.17198,
-    "geom:bbox":"57.4561352644,-20.2560736154,57.4947928087,-20.2190604716",
+    "geom:bbox":"57.456135,-20.256074,57.494793,-20.21906",
     "geom:latitude":-20.23722,
     "geom:longitude":57.472878,
     "iso:country":"MU",
@@ -38,6 +38,9 @@
         "Beau Bassin-Rose Hill"
     ],
     "name:fra_x_preferred":[
+        "Beau Bassin-Rose Hill"
+    ],
+    "name:fra_x_variant":[
         "Beau-Bassin Rose-Hill"
     ],
     "name:heb_x_preferred":[
@@ -183,7 +186,7 @@
         "wk:page":"Beau Bassin-Rose Hill"
     },
     "wof:country":"MU",
-    "wof:geomhash":"3901164e12ec73c89dd656ce1893096e",
+    "wof:geomhash":"9f19a34bdb9e1e2f5c4f3ce746cdf7c1",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -200,7 +203,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1566612095,
+    "wof:lastmodified":1614895145,
     "wof:name":"Beau Bassin-Rose Hill",
     "wof:parent_id":85632357,
     "wof:placetype":"region",
@@ -212,10 +215,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    57.45613526443094,
-    -20.256073615405,
-    57.49479280874118,
-    -20.21906047156347
+    57.456135,
+    -20.256074,
+    57.494793,
+    -20.21906
 ],
-  "geometry": {"coordinates":[[[57.49479280874118,-20.24851263455042],[57.45696293928825,-20.256073615405],[57.45613526443094,-20.24324115045869],[57.45969124675366,-20.21906047156347],[57.48307840164699,-20.21922661501623],[57.49479280874118,-20.24851263455042]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[57.494793,-20.248513],[57.456963,-20.256074],[57.456135,-20.243241],[57.459691,-20.21906],[57.483078,-20.219227],[57.494793,-20.248513]]],"type":"Polygon"}
 }

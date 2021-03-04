@@ -252,11 +252,11 @@
         "\u00cele de France"
     ],
     "name:fra_x_preferred":[
-        "Maurice (pays)",
         "Maurice"
     ],
     "name:fra_x_variant":[
-        "\u00cele Maurice"
+        "\u00cele Maurice",
+        "Maurice (pays)"
     ],
     "name:frp_x_preferred":[
         "M\u00f4ris (payis)",
@@ -1035,7 +1035,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1587428786,
+    "wof:lastmodified":1614895145,
     "wof:name":"Mauritius",
     "wof:parent_id":102193527,
     "wof:placetype":"country",
