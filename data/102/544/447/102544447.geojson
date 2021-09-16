@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"63.3608333333,-19.7575,63.3608333333,-19.7575",
+    "geom:bbox":"63.360833,-19.7575,63.360833,-19.7575",
     "geom:latitude":-19.7575,
     "geom:longitude":63.360833,
     "iso:country":"MU",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Sir Ga\u00ebtan Duval Airport"
+    ],
+    "name:eng_x_variant":[
+        "RRG",
+        "FIMR"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0627\u0626\u062a\u0627\u0646 \u062f\u0648\u0648\u0627\u0644"
@@ -65,7 +69,7 @@
         "wd:id":"Q2875887"
     },
     "wof:country":"MU",
-    "wof:geomhash":"0976056b5855db24ff09b49d5e933aaf",
+    "wof:geomhash":"0217206371b16e8c1cb01e0c08dddd5c",
     "wof:hierarchy":[
         {
             "campus_id":102544447,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":102544447,
-    "wof:lastmodified":1566612089,
+    "wof:lastmodified":1631747593,
     "wof:name":"Rodrigues Plaine Corail Airport",
     "wof:parent_id":85674989,
     "wof:placetype":"campus",
@@ -86,10 +90,10 @@
     ]
 },
   "bbox": [
-    63.360833333333,
+    63.360833,
     -19.7575,
-    63.360833333333,
+    63.360833,
     -19.7575
 ],
-  "geometry": {"coordinates":[63.360833333333,-19.7575],"type":"Point"}
+  "geometry": {"coordinates":[63.360833,-19.7575],"type":"Point"}
 }
