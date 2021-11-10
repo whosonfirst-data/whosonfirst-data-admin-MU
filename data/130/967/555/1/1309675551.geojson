@@ -65,6 +65,9 @@
     "name:heb_x_preferred":[
         "\u05e1\u05d8\u05e0\u05dc\u05d9"
     ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u091f\u0948\u0928\u0932\u0947"
+    ],
     "name:hrv_x_preferred":[
         "Stanley"
     ],
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":1309675551,
-    "wof:lastmodified":1566612119,
+    "wof:lastmodified":1636497595,
     "wof:name":"Stanley",
     "wof:parent_id":85674983,
     "wof:placetype":"locality",

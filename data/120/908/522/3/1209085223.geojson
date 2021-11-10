@@ -32,7 +32,16 @@
     "name:ceb_x_preferred":[
         "Beau Vallon"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648 \u0648\u0627\u0644\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
+        "Beau Vallon"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5 \u05d5\u05d0\u05dc\u05d5\u05df"
+    ],
+    "name:hun_x_preferred":[
         "Beau Vallon"
     ],
     "name:ita_x_preferred":[
@@ -50,7 +59,7 @@
         "gn:id":934754
     },
     "wof:country":"MU",
-    "wof:geomhash":"6a6069c17933da243961388868e78d6f",
+    "wof:geomhash":"83363608e3f26aec154e3cad9ef38b30",
     "wof:hierarchy":[
         {
             "country_id":85632357,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1209085223,
-    "wof:lastmodified":1566612106,
+    "wof:lastmodified":1636497595,
     "wof:name":"Beau Vallon",
     "wof:parent_id":85632357,
     "wof:placetype":"locality",
@@ -68,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    57.68333000000001,
+    57.68333,
     -20.35,
-    57.68333000000001,
+    57.68333,
     -20.35
 ],
-  "geometry": {"coordinates":[57.68333000000001,-20.35],"type":"Point"}
+  "geometry": {"coordinates":[57.68333,-20.35],"type":"Point"}
 }

@@ -119,6 +119,9 @@
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05df \u05d1\u05dc\u05d0\u05df"
     ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0902\u091f \u092c\u094d\u0932\u0948\u0902\u0915"
+    ],
     "name:hrv_x_preferred":[
         "Mont Blanc"
     ],
@@ -332,7 +335,7 @@
         }
     ],
     "wof:id":1226714821,
-    "wof:lastmodified":1566612139,
+    "wof:lastmodified":1636497598,
     "wof:name":"Mont Blanc",
     "wof:parent_id":85674993,
     "wof:placetype":"locality",

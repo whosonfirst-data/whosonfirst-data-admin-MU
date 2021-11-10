@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0627\u062a\u0631 \u0628\u0648\u0631\u0646\u064a\u0647"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u0989\u09df\u09be\u09a4\u09cd\u09b0\u09c7 \u09ac\u09cb\u09b0\u09cd\u09a8\u09c7\u09b8"
+    ],
     "name:cat_x_preferred":[
         "Quatre Bornes"
     ],
@@ -31,10 +37,28 @@
     "name:deu_x_preferred":[
         "Quatre Bornes"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c4\u03c1 \u039c\u03c0\u03cc\u03c1\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Quatre Bornes"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0627\u062a\u0631\u0647 \u0628\u0648\u0631\u0646\u0633"
+    ],
     "name:fra_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d5\u05d0\u05d8\u05e8\u05d4 \u05d1\u05d5\u05e8\u05e0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0935\u093e\u0924\u094d\u0930\u0947 \u092c\u094b\u0930\u094d\u0928\u0947\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:ind_x_preferred":[
         "Quatre Bornes"
     ],
     "name:ita_x_preferred":[
@@ -67,8 +91,17 @@
     "name:swe_x_preferred":[
         "Quatre Bornes"
     ],
+    "name:tur_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0432\u0430\u0442\u0440\u0435-\u0411\u043e\u0440\u043d\u0435\u0441"
+    ],
     "name:urd_x_preferred":[
         "\u0642\u06cc\u062a\u062e \u0628\u0648\u0631\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Quatre Bornes"
     ],
     "name:zho_x_preferred":[
         "\u5361\u7279\u52d2\u535a\u723e\u7d0d"
@@ -124,7 +157,7 @@
         }
     ],
     "wof:id":1125925417,
-    "wof:lastmodified":1566612128,
+    "wof:lastmodified":1636497597,
     "wof:name":"Quatre Bornes",
     "wof:parent_id":85674975,
     "wof:placetype":"locality",

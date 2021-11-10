@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00205,
     "geom:area_square_m":23770789.3587,
-    "geom:bbox":"57.4592068764,-20.3288182631,57.5287645911,-20.2766272125",
+    "geom:bbox":"57.459207,-20.328818,57.528765,-20.276627",
     "geom:latitude":-20.300394,
     "geom:longitude":57.489226,
     "gn:population":110000,
@@ -51,6 +51,9 @@
     "name:epo_x_preferred":[
         "Vacoas-Phoenix"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06a9\u0648\u0626\u0627\u0633 \u0641\u0648\u0646\u06cc\u06a9\u0633"
+    ],
     "name:fin_x_preferred":[
         "Vacoas-Phoenix"
     ],
@@ -60,8 +63,14 @@
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0a95\u0acb\u0ab8-\u0aab\u0abf\u0aa8\u0abf\u0a95\u0acd\u0ab8"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d0\u05e7\u05d0\u05d0\u05e1-\u05e4\u05d9\u05e0\u05d9\u05e7\u05e1"
+    ],
     "name:hin_x_preferred":[
         "\u0935\u0915\u093e\u090a \u092b\u0940\u0928\u093f\u0915\u094d\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Vacoas-Phoenix"
     ],
     "name:ido_x_preferred":[
         "Vacoas-Phoenix"
@@ -228,7 +237,7 @@
         "wk:page":"Vacoas-Phoenix"
     },
     "wof:country":"MU",
-    "wof:geomhash":"0fdb514a8d6b88dac87a1e78479d1293",
+    "wof:geomhash":"f65659a417eab2f6d8b2037572d1330f",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -245,7 +254,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1566612096,
+    "wof:lastmodified":1636497594,
     "wof:name":"Vacoas-Phoenix",
     "wof:parent_id":85632357,
     "wof:placetype":"region",
@@ -259,10 +268,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    57.45920687639631,
-    -20.32881826305237,
-    57.52876459111303,
-    -20.27662721247583
+    57.459207,
+    -20.328818,
+    57.528765,
+    -20.276627
 ],
-  "geometry": {"coordinates":[[[57.52876459111303,-20.29654170543529],[57.48312739581274,-20.32206343717786],[57.47104861849903,-20.32881826305237],[57.46332547279241,-20.32195324504619],[57.46010386919824,-20.30477135831148],[57.45920687639631,-20.29086416754723],[57.5111929795724,-20.27662721247583],[57.52876459111303,-20.29654170543529]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[57.528765,-20.296542],[57.483127,-20.322063],[57.471049,-20.328818],[57.463325,-20.321953],[57.460104,-20.304771],[57.459207,-20.290864],[57.511193,-20.276627],[57.528765,-20.296542]]],"type":"Polygon"}
 }
