@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Le Hochet"
     ],
+    "name:hun_x_preferred":[
+        "Le Hochet"
+    ],
     "name:nld_x_preferred":[
         "Le Hochet"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890433607,
-    "wof:lastmodified":1566612127,
+    "wof:lastmodified":1690846521,
     "wof:name":"Le Hochet",
     "wof:parent_id":85674965,
     "wof:placetype":"locality",

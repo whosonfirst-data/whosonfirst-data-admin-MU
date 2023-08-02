@@ -37,6 +37,9 @@
     "name:heb_x_preferred":[
         "\u05d2\u05d5\u05d3\u05dc\u05e0\u05d3\u05e1"
     ],
+    "name:hun_x_preferred":[
+        "Goodlands"
+    ],
     "name:ita_x_preferred":[
         "Goodlands"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:swe_x_preferred":[
         "Goodlands"
+    ],
+    "name:zho_x_preferred":[
+        "\u53e4\u5fb7\u5170\u5179"
     ],
     "qs:name":"Goodlands",
     "qs:photos_9r":0,
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890443527,
-    "wof:lastmodified":1566612125,
+    "wof:lastmodified":1690846519,
     "wof:name":"Goodlands",
     "wof:parent_id":85674979,
     "wof:placetype":"locality",

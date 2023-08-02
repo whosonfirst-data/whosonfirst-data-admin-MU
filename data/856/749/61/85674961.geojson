@@ -56,6 +56,12 @@
     "name:eng_x_variant":[
         "Plaines Wilhems District"
     ],
+    "name:epo_x_preferred":[
+        "Distrikto Plaines Wilhems"
+    ],
+    "name:eus_x_preferred":[
+        "Plaines Wilhems"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u067e\u0644\u0646 \u0648\u06cc\u0644\u0647\u0645"
     ],
@@ -94,6 +100,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud50c\ub7ad\uc70c\ub810\ub984 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ud50c\ub7ad\uc70c\ub810\ub984\uad6c"
     ],
     "name:lav_x_preferred":[
         "Pl\u0113nvilemsas distrikts"
@@ -296,7 +305,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1636497592,
+    "wof:lastmodified":1690846508,
     "wof:name":"Plaines Wilhems",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

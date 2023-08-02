@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Rose Belle"
+    ],
     "name:eng_x_preferred":[
         "Rose-Belle"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0420\u043e\u0437-\u0411\u0435\u043b\u044c"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u65af\u8d1d\u52d2"
     ],
     "qs:gn_country":"MU",
     "qs:gn_fcode":"PPLA",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":421177339,
-    "wof:lastmodified":1566612121,
+    "wof:lastmodified":1690846513,
     "wof:name":"Rose Belle",
     "wof:parent_id":85674947,
     "wof:placetype":"locality",

@@ -43,10 +43,19 @@
     "name:eng_x_preferred":[
         "Quatre Bornes"
     ],
+    "name:epo_x_preferred":[
+        "Quatre Bornes"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0627\u062a\u0631\u0647 \u0628\u0648\u0631\u0646\u0633"
     ],
     "name:fra_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:gle_x_preferred":[
+        "Quatre Bornes"
+    ],
+    "name:glg_x_preferred":[
         "Quatre Bornes"
     ],
     "name:heb_x_preferred":[
@@ -157,7 +166,7 @@
         }
     ],
     "wof:id":1125925417,
-    "wof:lastmodified":1636497597,
+    "wof:lastmodified":1690846523,
     "wof:name":"Quatre Bornes",
     "wof:parent_id":85674975,
     "wof:placetype":"locality",

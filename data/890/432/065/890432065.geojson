@@ -22,10 +22,16 @@
     "name:ceb_x_preferred":[
         "Saint Pierre"
     ],
+    "name:deu_x_preferred":[
+        "Saint-Pierre"
+    ],
     "name:eng_x_preferred":[
         "Saint Pierre"
     ],
     "name:fra_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:hun_x_preferred":[
         "Saint-Pierre"
     ],
     "name:jpn_x_preferred":[
@@ -37,11 +43,17 @@
     "name:pol_x_preferred":[
         "Saint-Pierre"
     ],
+    "name:por_x_preferred":[
+        "Saint Pierre"
+    ],
     "name:swe_x_preferred":[
         "Saint Pierre"
     ],
     "name:und_x_variant":[
         "Saint Pierre Village"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u76ae\u57c3\u5c14"
     ],
     "qs:name":"Saint Pierre",
     "qs:photos_9r":0,
@@ -74,7 +86,7 @@
         }
     ],
     "wof:id":890432065,
-    "wof:lastmodified":1566612127,
+    "wof:lastmodified":1690846522,
     "wof:name":"Saint Pierre",
     "wof:parent_id":85674953,
     "wof:placetype":"locality",

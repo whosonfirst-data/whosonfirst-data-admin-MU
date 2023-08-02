@@ -56,6 +56,9 @@
     "name:eng_x_variant":[
         "Flacq District"
     ],
+    "name:epo_x_preferred":[
+        "Distrikto Flacq"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u0641\u0644\u0627\u06a9"
     ],
@@ -94,6 +97,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud50c\ub77c\ud06c \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ud50c\ub77c\ud06c\uad6c"
     ],
     "name:lav_x_preferred":[
         "Flakas distrikts"
@@ -296,7 +302,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1636497593,
+    "wof:lastmodified":1690846510,
     "wof:name":"Flacq",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

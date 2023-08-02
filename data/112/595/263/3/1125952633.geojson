@@ -32,11 +32,35 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a \u0644\u0648\u064a\u0633"
     ],
+    "name:arg_x_preferred":[
+        "Port-Louis"
+    ],
+    "name:ary_x_preferred":[
+        "\u067e\u0648\u0631 \u0644\u0648\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0631\u062a \u0644\u0648\u064a\u0633"
+    ],
     "name:ast_x_preferred":[
         "Puertu Louis"
     ],
+    "name:ast_x_variant":[
+        "Puertu Lluis"
+    ],
+    "name:avk_x_preferred":[
+        "Port-Louis"
+    ],
     "name:aze_x_preferred":[
         "Port Luiz"
+    ],
+    "name:aze_x_variant":[
+        "Port-Lui"
+    ],
+    "name:bak_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041b\u0443\u0438"
+    ],
+    "name:ban_x_preferred":[
+        "Port Louis"
     ],
     "name:bel_x_preferred":[
         "\u041f\u043e\u0440\u0442-\u041b\u0443\u0456"
@@ -89,6 +113,9 @@
     "name:deu_x_preferred":[
         "Port Louis"
     ],
+    "name:diq_x_preferred":[
+        "Port Louis"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03c1-\u039b\u03bf\u03c5\u03af"
     ],
@@ -97,6 +124,9 @@
     ],
     "name:epo_x_preferred":[
         "Port-Luiso"
+    ],
+    "name:epo_x_variant":[
+        "Portluiso"
     ],
     "name:est_x_preferred":[
         "Port Louis"
@@ -167,6 +197,9 @@
     "name:ile_x_preferred":[
         "Port Louis"
     ],
+    "name:ina_x_preferred":[
+        "Port Louis"
+    ],
     "name:ind_x_preferred":[
         "Port Louis"
     ],
@@ -181,6 +214,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30dd\u30fc\u30c8\u30eb\u30a4\u30b9"
+    ],
+    "name:kaa_x_preferred":[
+        "Port-lui"
     ],
     "name:kan_x_preferred":[
         "\u0caa\u0ccb\u0cb0\u0ccd\u0c9f\u0ccd \u0cb2\u0cc2\u0caf\u0cbf\u0cb8\u0ccd"
@@ -230,7 +266,13 @@
     "name:mkd_x_preferred":[
         "\u041f\u043e\u0440\u0442 \u041b\u0443\u0438\u0441"
     ],
+    "name:mkd_x_variant":[
+        "\u041f\u043e\u0440\u0442 \u041b\u0443\u0458"
+    ],
     "name:mlg_x_preferred":[
+        "Port Louis"
+    ],
+    "name:mlt_x_preferred":[
         "Port Louis"
     ],
     "name:mon_x_preferred":[
@@ -238,6 +280,9 @@
     ],
     "name:msa_x_preferred":[
         "Port Louis"
+    ],
+    "name:mzn_x_preferred":[
+        "\u067e\u0648\u0631\u062a \u0644\u0648\u06cc\u06cc\u0633"
     ],
     "name:nah_x_preferred":[
         "Port Louis"
@@ -259,6 +304,9 @@
     ],
     "name:oci_x_preferred":[
         "Port Louis"
+    ],
+    "name:olo_x_preferred":[
+        "Port Lui"
     ],
     "name:ori_x_preferred":[
         "\u0b2a\u0b4b\u0b30\u0b4d\u0b1f \u0b32\u0b41\u0b07\u0b38"
@@ -302,6 +350,9 @@
     "name:slv_x_preferred":[
         "Port Louis"
     ],
+    "name:smn_x_preferred":[
+        "Port Louis"
+    ],
     "name:sna_x_preferred":[
         "Port Louis"
     ],
@@ -314,6 +365,9 @@
     "name:sqi_x_preferred":[
         "Port Louis"
     ],
+    "name:srd_x_preferred":[
+        "Port Louis"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u043e\u0440\u0442 \u041b\u0443\u0438\u0441"
     ],
@@ -321,6 +375,9 @@
         "Port Louis"
     ],
     "name:swe_x_preferred":[
+        "Port Louis"
+    ],
+    "name:szl_x_preferred":[
         "Port Louis"
     ],
     "name:tam_x_preferred":[
@@ -343,6 +400,9 @@
     ],
     "name:tuk_x_preferred":[
         "Port-Lui"
+    ],
+    "name:tum_x_preferred":[
+        "Port Louis"
     ],
     "name:tur_x_preferred":[
         "Port Louis"
@@ -448,7 +508,7 @@
         }
     ],
     "wof:id":1125952633,
-    "wof:lastmodified":1636497597,
+    "wof:lastmodified":1690846523,
     "wof:name":"Port Louis",
     "wof:parent_id":85674971,
     "wof:placetype":"locality",

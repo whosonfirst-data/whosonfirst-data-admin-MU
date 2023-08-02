@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Rivi\u00e8re Noire-distrik"
+    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0647\u0631 \u0627\u0644\u0623\u0633\u0648\u062f"
     ],
@@ -42,6 +45,12 @@
     ],
     "name:eng_x_preferred":[
         "Rivi\u00e8re Noire District"
+    ],
+    "name:epo_x_preferred":[
+        "Distrikto Rivi\u00e8re Noire"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0631\u06cc\u0648\u06cc\u0631 \u0646\u0648\u0622\u06cc\u0631"
     ],
     "name:fin_x_preferred":[
         "Rivi\u00e8re Noiren kaupunginosa"
@@ -115,6 +124,9 @@
     "name:swe_x_preferred":[
         "Black River"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb1\u0bbf\u0bb5\u0bc8\u0bb0\u0bc7 \u0ba8\u0bcb\u0baf\u0bbf\u0bb0\u0bc7 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c30\u0c3f\u0c35\u0c3f\u0c2f\u0c30\u0c4d \u0c28\u0c4b\u0c2f\u0c30\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
@@ -173,7 +185,7 @@
         }
     ],
     "wof:id":890436971,
-    "wof:lastmodified":1566612123,
+    "wof:lastmodified":1690846516,
     "wof:name":"Gros Cailloux",
     "wof:parent_id":85674983,
     "wof:placetype":"locality",

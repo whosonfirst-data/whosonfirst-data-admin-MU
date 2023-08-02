@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a \u0644\u0648\u064a\u0633"
     ],
+    "name:aze_x_preferred":[
+        "Port-Lui"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cb\u09b0\u09cd\u099f \u09b2\u09c1\u0987"
     ],
@@ -51,6 +54,9 @@
         "Pt Louis",
         "Pt. Louis",
         "Port Louis District"
+    ],
+    "name:epo_x_preferred":[
+        "Distrikto Port-Louis"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u067e\u0648\u0631\u062a \u0644\u0648\u0626\u06cc\u0633"
@@ -84,6 +90,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud3ec\ud2b8\ub8e8\uc774\uc2a4 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ud3ec\ud2b8\ub8e8\uc774\uc2a4\uad6c"
     ],
     "name:lit_x_preferred":[
         "Port Luiso rajonas"
@@ -257,7 +266,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1636497593,
+    "wof:lastmodified":1690846510,
     "wof:name":"Port Louis",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

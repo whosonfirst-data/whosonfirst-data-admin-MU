@@ -47,6 +47,9 @@
     "name:bre_x_preferred":[
         "Rodrigez"
     ],
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u0434\u0440\u0438\u0433\u0435\u0441"
+    ],
     "name:cat_x_preferred":[
         "Illa de Rodrigues"
     ],
@@ -101,6 +104,12 @@
     "name:hin_x_preferred":[
         "\u0930\u094b\u0921\u094d\u0930\u093f\u0917\u094d\u091c\u093c"
     ],
+    "name:hrv_x_preferred":[
+        "Rodrigues"
+    ],
+    "name:hun_x_preferred":[
+        "Rodriguez-sziget"
+    ],
     "name:ind_x_preferred":[
         "Rodrigues"
     ],
@@ -116,6 +125,9 @@
     "name:kat_x_preferred":[
         "\u10e0\u10dd\u10d3\u10e0\u10d8\u10d2\u10d4\u10e1\u10d8"
     ],
+    "name:kir_x_preferred":[
+        "\u0420\u043e\u0434\u0440\u0438\u0433\u0435\u0441"
+    ],
     "name:kor_x_preferred":[
         "\ub85c\ub4dc\ub9ac\uac8c\uc2a4 \uc12c"
     ],
@@ -127,6 +139,9 @@
     ],
     "name:lit_x_preferred":[
         "Rodrigesas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d31\u0d4b\u0d21\u0d4d\u0d30\u0d3f\u0d17\u0d38\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0930\u0949\u0921\u094d\u0930\u093f\u0917\u094d\u091c"
@@ -166,6 +181,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dbb\u0ddc\u0da9\u0dca\u0dbb\u0dd2\u0d9c\u0dd4\u0dc3\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Rodrigues"
     ],
     "name:spa_x_preferred":[
         "Rodrigues"
@@ -223,6 +241,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7f57\u5fb7\u91cc\u683c\u65af\u5c9b"
+    ],
+    "name:zho_x_variant":[
+        "\u7f57\u5fb7\u91cc\u683c\u5c9b"
     ],
     "name:zho_yue_x_preferred":[
         "\u7f85\u5fb7\u91cc\u683c\u65af\u5cf6"
@@ -346,7 +367,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1636497593,
+    "wof:lastmodified":1690846509,
     "wof:name":"Rodrigues",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

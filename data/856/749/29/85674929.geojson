@@ -100,6 +100,9 @@
     "name:swe_x_preferred":[
         "Beau Bassin"
     ],
+    "name:szl_x_preferred":[
+        "Beau Bassin Rose-Hill"
+    ],
     "name:tur_x_preferred":[
         "Beau Bassin-Rose Hill"
     ],
@@ -123,6 +126,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7f85\u65af\u5e0c\u723e"
+    ],
+    "name:zho_x_variant":[
+        "\u535a\u5df4\u68ee-\u7f57\u65af\u5e0c\u5c14"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MUS",
@@ -230,7 +236,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1636497593,
+    "wof:lastmodified":1690846509,
     "wof:name":"Beau Bassin-Rose Hill",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

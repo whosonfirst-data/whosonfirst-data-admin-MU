@@ -23,7 +23,13 @@
     "name:eng_x_preferred":[
         "Tamarin"
     ],
+    "name:epo_x_preferred":[
+        "Tamarin"
+    ],
     "name:fra_x_preferred":[
+        "Tamarin"
+    ],
+    "name:hun_x_preferred":[
         "Tamarin"
     ],
     "name:ita_x_preferred":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421177481,
-    "wof:lastmodified":1566612121,
+    "wof:lastmodified":1690846514,
     "wof:name":"Tamarin",
     "wof:parent_id":85674983,
     "wof:placetype":"locality",

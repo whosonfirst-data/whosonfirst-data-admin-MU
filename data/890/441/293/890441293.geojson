@@ -25,11 +25,17 @@
     "name:eng_x_preferred":[
         "Bel Air Rivi\u00e8re S\u00e8che"
     ],
+    "name:fra_x_preferred":[
+        "Bel Air Rivi\u00e8re S\u00e8che"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05dc \u05d0\u05d9\u05d9\u05e8"
     ],
     "name:hun_x_preferred":[
         "Bel Air"
+    ],
+    "name:hun_x_variant":[
+        "Bel Air Rivi\u00e8re S\u00e8che"
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30eb\u30fb\u30a8\u30a2\u30fb\u30ea\u30d3\u30a8\u30fc\u30eb\u30fb\u30bb\u30b7\u30a7"
@@ -42,6 +48,9 @@
     ],
     "name:swe_x_preferred":[
         "Bel Air Rivi\u00e8re S\u00e8che"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u83b1\u5c14"
     ],
     "qs:name":"Bel Air",
     "qs:photos_9r":0,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":890441293,
-    "wof:lastmodified":1636497596,
+    "wof:lastmodified":1690846515,
     "wof:name":"Bel Air",
     "wof:parent_id":85674943,
     "wof:placetype":"locality",

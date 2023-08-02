@@ -23,7 +23,13 @@
     "name:ceb_x_preferred":[
         "Moka"
     ],
+    "name:deu_x_preferred":[
+        "Moka"
+    ],
     "name:eng_x_preferred":[
+        "Moka"
+    ],
+    "name:epo_x_preferred":[
         "Moka"
     ],
     "name:fas_x_preferred":[
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":421178551,
-    "wof:lastmodified":1636497596,
+    "wof:lastmodified":1690846514,
     "wof:name":"Moka",
     "wof:parent_id":85674953,
     "wof:placetype":"locality",
