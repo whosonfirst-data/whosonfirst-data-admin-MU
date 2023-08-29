@@ -43,6 +43,9 @@
     "name:eng_x_preferred":[
         "Savanne District"
     ],
+    "name:epo_x_preferred":[
+        "Distrikto Savanne"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u0633\u0627\u0648\u0627\u0646\u0647"
     ],
@@ -75,6 +78,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0ac\ubc18 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc0ac\ubc18\uad6c"
     ],
     "name:lav_x_preferred":[
         "Savannas distrikts"
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":890432081,
-    "wof:lastmodified":1566612128,
+    "wof:lastmodified":1690846523,
     "wof:name":"Rivi\u00e8re des Anguilles",
     "wof:parent_id":85674993,
     "wof:placetype":"locality",

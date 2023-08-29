@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0643\u0648\u0633-\u0641\u064a\u0646\u064a\u0643\u0633"
     ],
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u043a\u043e\u0430-\u0424\u0435\u043d\u0456\u043a\u0441"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09be\u0995\u09cb\u09af\u09bc\u09be\u09b8-\u09ab\u09bf\u09a8\u09bf\u0995\u09cd\u09b8"
     ],
@@ -129,6 +132,9 @@
     "name:swe_x_preferred":[
         "Vacoas-Phoenix"
     ],
+    "name:szl_x_preferred":[
+        "Vacoas-Phoenix"
+    ],
     "name:tel_x_preferred":[
         "\u0c35\u0c3e\u0c15\u0c4b\u0c35\u0c38\u0c4d-\u0c2b\u0c40\u0c28\u0c3f\u0c15\u0c4d\u0c38\u0c4d"
     ],
@@ -146,6 +152,9 @@
     ],
     "name:vie_x_preferred":[
         "Vacoas-Phoenix"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u79d1\u963f-\u83f2\u5c3c\u514b\u65af"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MUS",
@@ -254,7 +263,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1636497594,
+    "wof:lastmodified":1690846511,
     "wof:name":"Vacoas-Phoenix",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

@@ -28,6 +28,9 @@
     "name:ell_x_preferred":[
         "\u03a0\u03bb\u03ad\u03b9\u03bd\u03c2 \u0393\u03bf\u03c5\u03af\u03bb\u03c7\u03b5\u03bc\u03c2"
     ],
+    "name:eus_x_preferred":[
+        "Plaines Wilhems"
+    ],
     "name:fra_x_preferred":[
         "Plaines Wilhems"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud50c\ub7ad\uc70c\ub810\ub984 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ud50c\ub7ad\uc70c\ub810\ub984\uad6c"
     ],
     "name:lav_x_preferred":[
         "Pl\u0113nvilemsas distrikts"
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":890421837,
-    "wof:lastmodified":1566612125,
+    "wof:lastmodified":1690846519,
     "wof:name":"Cascavelle",
     "wof:parent_id":85674983,
     "wof:placetype":"locality",

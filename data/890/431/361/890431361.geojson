@@ -55,6 +55,12 @@
     "name:fra_x_preferred":[
         "Albion"
     ],
+    "name:gle_x_preferred":[
+        "Albion"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d1\u05d9\u05d5\u05df"
+    ],
     "name:hrv_x_preferred":[
         "Albion"
     ],
@@ -84,6 +90,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0410\u043b\u0431\u0438\u043e\u043d"
+    ],
+    "name:mlg_x_preferred":[
+        "Albion"
     ],
     "name:nld_x_preferred":[
         "Albion"
@@ -158,7 +167,7 @@
         }
     ],
     "wof:id":890431361,
-    "wof:lastmodified":1566612124,
+    "wof:lastmodified":1690846518,
     "wof:name":"Albion",
     "wof:parent_id":85674983,
     "wof:placetype":"locality",

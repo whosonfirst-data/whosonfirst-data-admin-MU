@@ -29,6 +29,9 @@
     "name:fra_x_variant":[
         "chemin Grenier"
     ],
+    "name:hun_x_preferred":[
+        "Chemin Grenier"
+    ],
     "name:nld_x_preferred":[
         "Chemin Grenier"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:swe_x_preferred":[
         "Chemin Grenier"
+    ],
+    "name:zho_x_preferred":[
+        "\u820d\u66fc\u683c\u52d2\u6d85"
     ],
     "qs:gn_country":"MU",
     "qs:gn_fcode":"PPL",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421170479,
-    "wof:lastmodified":1566612121,
+    "wof:lastmodified":1690846513,
     "wof:name":"Chemin Grenier",
     "wof:parent_id":85674993,
     "wof:placetype":"locality",

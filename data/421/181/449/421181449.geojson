@@ -26,7 +26,13 @@
     "name:eng_x_preferred":[
         "Mah\u00e9bourg"
     ],
+    "name:epo_x_preferred":[
+        "Mah\u00e9bourg"
+    ],
     "name:fra_x_preferred":[
+        "Mah\u00e9bourg"
+    ],
+    "name:hun_x_preferred":[
         "Mah\u00e9bourg"
     ],
     "name:ita_x_preferred":[
@@ -67,6 +73,9 @@
     ],
     "name:yue_x_preferred":[
         "\u99ac\u53ef\u90a6"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u57c3\u5821"
     ],
     "qs:gn_country":"MU",
     "qs:gn_fcode":"PPL",
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":421181449,
-    "wof:lastmodified":1566612120,
+    "wof:lastmodified":1690846513,
     "wof:name":"Mahebourg",
     "wof:parent_id":85674947,
     "wof:placetype":"locality",

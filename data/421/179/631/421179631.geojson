@@ -17,6 +17,18 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Triolet"
+    ],
+    "name:ast_x_preferred":[
+        "Triolet"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u0438\u043e\u043b\u0435\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Triolet"
+    ],
     "name:deu_x_preferred":[
         "Triolet"
     ],
@@ -24,6 +36,9 @@
         "Triolet"
     ],
     "name:fra_x_preferred":[
+        "Triolet"
+    ],
+    "name:hun_x_preferred":[
         "Triolet"
     ],
     "name:jpn_x_preferred":[
@@ -46,6 +61,9 @@
     ],
     "name:rus_x_variant":[
         "\u0422\u0440\u0438\u043e\u043b\u0435\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Triolet"
     ],
     "name:tur_x_preferred":[
         "Triolet"
@@ -108,7 +126,7 @@
         }
     ],
     "wof:id":421179631,
-    "wof:lastmodified":1566612121,
+    "wof:lastmodified":1690846514,
     "wof:name":"Triolet",
     "wof:parent_id":85674957,
     "wof:placetype":"locality",

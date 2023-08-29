@@ -16,12 +16,18 @@
     "name:ast_x_preferred":[
         "Aeropuertu Sir Ga\u00ebtan Duval"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Sir Ga\u00ebtan Duval"
+    ],
     "name:eng_x_preferred":[
         "Sir Ga\u00ebtan Duval Airport"
     ],
     "name:eng_x_variant":[
         "RRG",
         "FIMR"
+    ],
+    "name:epo_x_preferred":[
+        "Flughaveno Plaine Corail"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0627\u0626\u062a\u0627\u0646 \u062f\u0648\u0648\u0627\u0644"
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":102544447,
-    "wof:lastmodified":1631747593,
+    "wof:lastmodified":1690846507,
     "wof:name":"Rodrigues Plaine Corail Airport",
     "wof:parent_id":85674989,
     "wof:placetype":"campus",

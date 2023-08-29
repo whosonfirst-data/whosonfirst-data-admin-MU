@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Plaine Magnien"
     ],
+    "name:hun_x_preferred":[
+        "Plaine Magnien"
+    ],
     "name:jpn_x_preferred":[
         "\u30d7\u30ec\u30f3\u30cc\u30fb\u30de\u30cb\u30a7\u30f3"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:und_x_variant":[
         "Plaines Magnien"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u5c3c\u5b89\u5e73\u539f"
     ],
     "qs:name":"Plaine Magnien",
     "qs:photos_9r":0,
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890452371,
-    "wof:lastmodified":1566612122,
+    "wof:lastmodified":1690846515,
     "wof:name":"Plaine Magnien",
     "wof:parent_id":85674947,
     "wof:placetype":"locality",

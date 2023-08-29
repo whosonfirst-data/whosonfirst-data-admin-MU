@@ -34,6 +34,12 @@
     "name:fra_x_preferred":[
         "Mapou"
     ],
+    "name:hun_x_preferred":[
+        "Mapou"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30d7\u30fc"
+    ],
     "name:nld_x_preferred":[
         "Mapou"
     ],
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890436973,
-    "wof:lastmodified":1566612124,
+    "wof:lastmodified":1690846517,
     "wof:name":"Mapou",
     "wof:parent_id":85674957,
     "wof:placetype":"locality",
