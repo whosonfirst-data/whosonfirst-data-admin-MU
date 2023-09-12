@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001514,
-    "geom:area_square_m":17562493.458044,
+    "geom:area_square_m":17562200.748184,
     "geom:bbox":"57.456963,-20.290864,57.511193,-20.248513",
     "geom:latitude":-20.268985,
     "geom:longitude":57.48044,
     "gn:population":80961,
     "iso:country":"MU",
     "label:eng_x_preferred_longname":[
-        "Quatre Bornes City"
+        "Quatre Bornes Urban Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "urban council"
     ],
     "label:eng_x_preferred_shortcode":[
         "QB"
@@ -23,7 +26,7 @@
     "mps:latitude":-20.268215,
     "mps:longitude":57.48044,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -212,7 +215,7 @@
         "wk:page":"Quatre Bornes"
     },
     "wof:country":"MU",
-    "wof:geomhash":"03ca4e491fe405e7dd181d1569807e98",
+    "wof:geomhash":"fe6d9b4818995149b649f96826049c57",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -229,7 +232,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690846510,
+    "wof:lastmodified":1694493128,
     "wof:name":"Quatre Bornes",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001064,
-    "geom:area_square_m":12345557.17198,
+    "geom:area_square_m":12345758.010988,
     "geom:bbox":"57.456135,-20.256074,57.494793,-20.21906",
     "geom:latitude":-20.23722,
     "geom:longitude":57.472878,
     "iso:country":"MU",
     "label:eng_x_preferred_longname":[
-        "Beau Bassin-Rose Hill City"
+        "Beau Bassin Urban Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "urban council"
     ],
     "label:eng_x_preferred_shortcode":[
         "BR"
@@ -22,7 +25,7 @@
     "mps:latitude":-20.237093,
     "mps:longitude":57.473246,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -219,7 +222,7 @@
         "wk:page":"Beau Bassin-Rose Hill"
     },
     "wof:country":"MU",
-    "wof:geomhash":"9f19a34bdb9e1e2f5c4f3ce746cdf7c1",
+    "wof:geomhash":"5e4870931a3cc2bcafeed11b56c3ba59",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -236,7 +239,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690846509,
+    "wof:lastmodified":1694493128,
     "wof:name":"Beau Bassin-Rose Hill",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

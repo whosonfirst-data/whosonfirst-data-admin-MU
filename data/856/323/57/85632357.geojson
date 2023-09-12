@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175365,
-    "geom:area_square_m":2035687141.759164,
+    "geom:area_square_m":2035687141.759611,
     "geom:bbox":"56.572029,-20.528723,63.502083,-10.326333",
     "geom:latitude":-20.119971,
     "geom:longitude":57.882687,
@@ -13,6 +13,9 @@
     "iso:country":"MU",
     "itu:country_code":[
         "230"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "MU"
@@ -1115,7 +1118,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"230",
     "statoids:ds":"MS",
     "statoids:fifa":"MRI",
@@ -1174,7 +1178,7 @@
         "meso",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"547106a13997752bc3ced16b88364a30",
+    "wof:geomhash":"0c2224ea26b478058241b3bcaae40c95",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -1190,12 +1194,12 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690846508,
+    "wof:lastmodified":1694492215,
     "wof:name":"Mauritius",
     "wof:parent_id":102193527,
     "wof:placetype":"country",
-    "wof:population":1258653,
-    "wof:population_rank":12,
+    "wof:population":1265711,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-mu",
     "wof:shortcode":"MU",
     "wof:superseded_by":[],
