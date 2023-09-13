@@ -20,6 +20,9 @@
     "label:eng_x_preferred_shortcode":[
         "CU"
     ],
+    "label:eng_x_variant_longname":[
+        "Curepipe City"
+    ],
     "lbl:latitude":-20.321098,
     "lbl:longitude":57.519537,
     "lbl:min_zoom":8.0,
@@ -54,9 +57,6 @@
         "\u039a\u03bf\u03c5\u03c1\u03b5\u03c0\u03af\u03c0\u03b5"
     ],
     "name:eng_x_preferred":[
-        "Curepipe"
-    ],
-    "name:eng_x_variant":[
         "Curepipe"
     ],
     "name:epo_x_preferred":[
@@ -251,7 +251,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1694493128,
+    "wof:lastmodified":1694639831,
     "wof:name":"Curepipe",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

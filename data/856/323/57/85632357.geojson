@@ -1119,7 +1119,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"230",
     "statoids:ds":"MS",
     "statoids:fifa":"MRI",
@@ -1194,7 +1194,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1694492215,
+    "wof:lastmodified":1694639668,
     "wof:name":"Mauritius",
     "wof:parent_id":102193527,
     "wof:placetype":"country",
