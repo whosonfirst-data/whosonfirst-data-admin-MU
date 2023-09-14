@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00205,
-    "geom:area_square_m":23770789.3587,
+    "geom:area_square_m":23770828.303639,
     "geom:bbox":"57.459207,-20.328818,57.528765,-20.276627",
     "geom:latitude":-20.300394,
     "geom:longitude":57.489226,
     "gn:population":110000,
     "iso:country":"MU",
     "label:eng_x_preferred_longname":[
-        "Vacoas-Phoenix City"
+        "Vacoas-Phoenix Urban Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "urban council"
     ],
     "label:eng_x_preferred_shortcode":[
         "VP"
+    ],
+    "label:eng_x_variant_longname":[
+        "Vacoas-Phoenix City"
     ],
     "lbl:latitude":-20.300647,
     "lbl:longitude":57.489226,
@@ -23,7 +29,7 @@
     "mps:latitude":-20.300647,
     "mps:longitude":57.489226,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -45,11 +51,10 @@
         "\u0392\u03b1\u03ba\u03cc\u03b1\u03c2-\u03a6\u03bf\u03af\u03bd\u03b9\u03be"
     ],
     "name:eng_x_preferred":[
-        "Vacoas"
+        "Vacoas-Phoenix"
     ],
     "name:eng_x_variant":[
-        "Vacoa",
-        "Vacoas-Phoenix"
+        "Vacoa"
     ],
     "name:epo_x_preferred":[
         "Vacoas-Phoenix"
@@ -246,7 +251,7 @@
         "wk:page":"Vacoas-Phoenix"
     },
     "wof:country":"MU",
-    "wof:geomhash":"f65659a417eab2f6d8b2037572d1330f",
+    "wof:geomhash":"25d13b831e34ed3a9b91729d7b7c0229",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -263,7 +268,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690846511,
+    "wof:lastmodified":1694639831,
     "wof:name":"Vacoas-Phoenix",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

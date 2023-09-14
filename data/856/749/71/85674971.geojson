@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001321,
-    "geom:area_square_m":15333508.123621,
+    "geom:area_square_m":15333465.781722,
     "geom:bbox":"57.463878,-20.171508,57.522075,-20.122328",
     "geom:latitude":-20.151582,
     "geom:longitude":57.497034,
     "gn:population":155226,
     "iso:country":"MU",
     "label:eng_x_preferred_longname":[
-        "Port Louis City"
+        "Port Louis Urban Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "urban council"
     ],
     "label:eng_x_preferred_shortcode":[
         "PL"
@@ -478,7 +481,7 @@
         1125952633
     ],
     "wof:country":"MU",
-    "wof:geomhash":"f06c1c2448a3694186ee11afd82aefef",
+    "wof:geomhash":"bb1a1fc029edace4ae2eaf607463cd94",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -495,7 +498,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690846512,
+    "wof:lastmodified":1694493257,
     "wof:megacity":0,
     "wof:name":"Port Louis",
     "wof:parent_id":85632357,

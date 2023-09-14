@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001943,
-    "geom:area_square_m":22530053.164294,
+    "geom:area_square_m":22530020.807063,
     "geom:bbox":"57.483127,-20.346914,57.554536,-20.296542",
     "geom:latitude":-20.322176,
     "geom:longitude":57.519537,
     "gn:id":"",
     "iso:country":"MU",
     "label:eng_x_preferred_longname":[
-        "Curepipe City"
+        "Curepipe Urban Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "urban council"
     ],
     "label:eng_x_preferred_shortcode":[
         "CU"
+    ],
+    "label:eng_x_variant_longname":[
+        "Curepipe City"
     ],
     "lbl:latitude":-20.321098,
     "lbl:longitude":57.519537,
@@ -23,7 +29,7 @@
     "mps:latitude":-20.321098,
     "mps:longitude":57.519537,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -51,9 +57,6 @@
         "\u039a\u03bf\u03c5\u03c1\u03b5\u03c0\u03af\u03c0\u03b5"
     ],
     "name:eng_x_preferred":[
-        "Curepipe (2)"
-    ],
-    "name:eng_x_variant":[
         "Curepipe"
     ],
     "name:epo_x_preferred":[
@@ -231,7 +234,7 @@
         "wd:id":"Q1002525"
     },
     "wof:country":"MU",
-    "wof:geomhash":"b1fe9e3655a2a9064f72b9a865866a85",
+    "wof:geomhash":"bf2788b7d6a2c0ebaafd37197bdb2e93",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -248,7 +251,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690846511,
+    "wof:lastmodified":1694639831,
     "wof:name":"Curepipe",
     "wof:parent_id":85632357,
     "wof:placetype":"region",
