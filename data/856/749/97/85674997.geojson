@@ -245,11 +245,13 @@
         "gn:id":933945,
         "gp:id":1377510,
         "hasc:id":"MU.",
+        "iso:code":"MU-VP",
         "qs_pg:id":492847,
         "unlc:id":"MU-VP",
         "wd:id":"Q676724",
         "wk:page":"Vacoas-Phoenix"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MU",
     "wof:geomhash":"25d13b831e34ed3a9b91729d7b7c0229",
     "wof:hierarchy":[
@@ -268,7 +270,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1694639831,
+    "wof:lastmodified":1695884286,
     "wof:name":"Vacoas-Phoenix",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

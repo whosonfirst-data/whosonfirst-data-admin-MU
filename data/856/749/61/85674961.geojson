@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012295,
-    "geom:area_square_m":142546206.772071,
+    "geom:area_square_m":142546546.360071,
     "geom:bbox":"57.448291,-20.425045,57.599707,-20.188794",
     "geom:latitude":-20.337178,
     "geom:longitude":57.518088,
@@ -281,14 +281,16 @@
         "gn:id":934166,
         "gp:id":2346233,
         "hasc:id":"MU.PW",
+        "iso:code":"MU-PW",
         "iso:id":"MU-PW",
         "qs_pg:id":235610,
         "unlc:id":"MU-PW",
         "wd:id":"Q1053595",
         "wk:page":"Plaines Wilhems District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MU",
-    "wof:geomhash":"ecf555decd726547fb3ce3b3a653e0ad",
+    "wof:geomhash":"33886e08ed15f0853b72e1ded898e77e",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -305,7 +307,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690846508,
+    "wof:lastmodified":1695884855,
     "wof:name":"Plaines Wilhems",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

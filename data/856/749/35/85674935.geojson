@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000023,
-    "geom:area_square_m":274627.107081,
+    "geom:area_square_m":274664.937355,
     "geom:bbox":"59.492035,-16.820896,59.697032,-16.423679",
     "geom:latitude":-16.687398,
     "geom:longitude":59.564381,
@@ -153,11 +153,13 @@
         "gn:id":1106583,
         "gp:id":2346238,
         "hasc:id":"MU.CC",
+        "iso:code":"MU-CC",
         "iso:id":"MU-CC",
         "qs_pg:id":1311327
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MU",
-    "wof:geomhash":"0683ec6b0e5869b78a569b41435a0c73",
+    "wof:geomhash":"d3b10776a9485e5102235ff199fab76f",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -174,7 +176,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1614895145,
+    "wof:lastmodified":1695884523,
     "wof:name":"Cargados Carajos Shoals",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

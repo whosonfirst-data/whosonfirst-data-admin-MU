@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020575,
-    "geom:area_square_m":238356516.906173,
+    "geom:area_square_m":238356219.357265,
     "geom:bbox":"57.391376,-20.517348,57.630974,-20.39605",
     "geom:latitude":-20.461808,
     "geom:longitude":57.517202,
@@ -278,14 +278,16 @@
         "gn:id":934017,
         "gp:id":2346236,
         "hasc:id":"MU.SA",
+        "iso:code":"MU-SA",
         "iso:id":"MU-SA",
         "qs_pg:id":423829,
         "unlc:id":"MU-SA",
         "wd:id":"Q1053600",
         "wk:page":"Savanne District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MU",
-    "wof:geomhash":"4d84c3e2110ba2e7bb8cf4e246dc6d14",
+    "wof:geomhash":"7d60058c898d147ca7c9d35cfca0acb9",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -302,7 +304,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690846509,
+    "wof:lastmodified":1695884855,
     "wof:name":"Savanne",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

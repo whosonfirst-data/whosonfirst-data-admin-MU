@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026118,
-    "geom:area_square_m":303059971.092632,
+    "geom:area_square_m":303060170.093846,
     "geom:bbox":"57.607224,-20.328396,57.795746,-20.096124",
     "geom:latitude":-20.218458,
     "geom:longitude":57.710745,
@@ -278,14 +278,16 @@
         "gn:id":934522,
         "gp:id":2346229,
         "hasc:id":"MU.FL",
+        "iso:code":"MU-FL",
         "iso:id":"MU-FL",
         "qs_pg:id":318528,
         "unlc:id":"MU-FL",
         "wd:id":"Q911651",
         "wk:page":"Flacq District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MU",
-    "wof:geomhash":"db3b08011a3c7a226f9f37a0e523ee3f",
+    "wof:geomhash":"9f667a159afe83950613e28fc971528d",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -302,7 +304,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690846510,
+    "wof:lastmodified":1695884855,
     "wof:name":"Flacq",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

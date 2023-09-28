@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01916,
-    "geom:area_square_m":222074859.336182,
+    "geom:area_square_m":222074663.057433,
     "geom:bbox":"57.546013,-20.49204,57.781505,-20.302624",
     "geom:latitude":-20.39078,
     "geom:longitude":57.666018,
@@ -275,14 +275,16 @@
         "gn:id":934466,
         "gp:id":2346230,
         "hasc:id":"MU.GP",
+        "iso:code":"MU-GP",
         "iso:id":"MU-GP",
         "qs_pg:id":318531,
         "unlc:id":"MU-GP",
         "wd:id":"Q911635",
         "wk:page":"Grand Port District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MU",
-    "wof:geomhash":"89324d65db06ec2a0c16c98c063d58a4",
+    "wof:geomhash":"e3a30b1f10357947a79945b7ab80e836",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -299,7 +301,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690846512,
+    "wof:lastmodified":1695884855,
     "wof:name":"Grand Port",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

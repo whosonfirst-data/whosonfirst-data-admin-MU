@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003418,
-    "geom:area_square_m":39677777.80682,
+    "geom:area_square_m":39677528.460318,
     "geom:bbox":"57.465407,-20.201959,57.550309,-20.122214",
     "geom:latitude":-20.164729,
     "geom:longitude":57.519332,
@@ -243,13 +243,15 @@
         "gn:id":934153,
         "gp:id":2346234,
         "hasc:id":"MU.PL",
+        "iso:code":"MU-PL",
         "iso:id":"MU-PL",
         "qs_pg:id":1083850,
         "wd:id":"Q960645",
         "wk:page":"Port Louis District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MU",
-    "wof:geomhash":"eac9df93f31c32755f73a4f4aa12d667",
+    "wof:geomhash":"3249340cbb976d543cddb0229f3e2103",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -266,7 +268,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690846510,
+    "wof:lastmodified":1695884855,
     "wof:name":"Port Louis",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

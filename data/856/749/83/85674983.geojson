@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027535,
-    "geom:area_square_m":319249709.663284,
+    "geom:area_square_m":319250377.532467,
     "geom:bbox":"57.303477,-20.507013,57.488024,-20.161554",
     "geom:latitude":-20.33934,
     "geom:longitude":57.407082,
@@ -274,14 +274,16 @@
         "gn:id":934718,
         "gp:id":2346228,
         "hasc:id":"MU.BL",
+        "iso:code":"MU-BL",
         "iso:id":"MU-BL",
         "qs_pg:id":1083849,
         "unlc:id":"MU-BL",
         "wd:id":"Q873740",
         "wk:page":"Rivi\u00e8re Noire District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MU",
-    "wof:geomhash":"3606acad9ff384942d7f229733af40c4",
+    "wof:geomhash":"d374e972f3d7a77aa8fb81eae7e5f638",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -298,7 +300,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690846511,
+    "wof:lastmodified":1695884325,
     "wof:name":"Rivi\u00e8re Noire",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

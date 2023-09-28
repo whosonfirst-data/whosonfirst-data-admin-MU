@@ -229,10 +229,12 @@
         "gn:id":-934166,
         "gp:id":1377308,
         "hasc:id":"MU.",
+        "iso:code":"MU-CU",
         "qs_pg:id":920353,
         "unlc:id":"MU-CU",
         "wd:id":"Q1002525"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MU",
     "wof:geomhash":"bf2788b7d6a2c0ebaafd37197bdb2e93",
     "wof:hierarchy":[
@@ -251,7 +253,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1694639831,
+    "wof:lastmodified":1695884286,
     "wof:name":"Curepipe",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

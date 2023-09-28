@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001158,
-    "geom:area_square_m":14080004.522058,
+    "geom:area_square_m":14080345.037593,
     "geom:bbox":"56.524181,-10.406508,56.569347,-10.323907",
     "geom:latitude":-10.362172,
     "geom:longitude":56.545544,
@@ -295,14 +295,16 @@
         "gn:id":448254,
         "gp:id":2346237,
         "hasc:id":"MU.AG",
+        "iso:code":"MU-AG",
         "iso:id":"MU-AG",
         "qs_pg:id":1311326,
         "unlc:id":"MU-AG",
         "wd:id":"Q196042",
         "wk:page":"Agal\u00e9ga"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MU",
-    "wof:geomhash":"4d8decc00952db994a2b948af03020b4",
+    "wof:geomhash":"9a64738215b27bb3ff9a1756a3662ab2",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -319,7 +321,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690846512,
+    "wof:lastmodified":1695884325,
     "wof:name":"Agal\u00e9ga",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

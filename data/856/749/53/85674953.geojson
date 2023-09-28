@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01787,
-    "geom:area_square_m":207297990.299379,
+    "geom:area_square_m":207297781.484521,
     "geom:bbox":"57.485877,-20.344504,57.679173,-20.184498",
     "geom:latitude":-20.259005,
     "geom:longitude":57.591335,
@@ -275,14 +275,16 @@
         "gn:id":934275,
         "gp:id":2346231,
         "hasc:id":"MU.MO",
+        "iso:code":"MU-MO",
         "iso:id":"MU-MO",
         "qs_pg:id":318532,
         "unlc:id":"MU-MO",
         "wd:id":"Q911643",
         "wk:page":"Moka District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MU",
-    "wof:geomhash":"2d21cbdd5be99546bba191a72b0f2306",
+    "wof:geomhash":"0b01828e2444c43ea8f5fbc78546f58b",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -299,7 +301,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690846510,
+    "wof:lastmodified":1695884855,
     "wof:name":"Moka",
     "wof:parent_id":85632357,
     "wof:placetype":"region",
