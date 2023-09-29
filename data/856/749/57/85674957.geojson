@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016949,
-    "geom:area_square_m":196809661.812658,
+    "geom:area_square_m":196809289.19095,
     "geom:bbox":"57.493826,-20.204902,57.635144,-19.999933",
     "geom:latitude":-20.099094,
     "geom:longitude":57.56981,
@@ -290,14 +290,16 @@
         "gn:id":934212,
         "gp:id":2346232,
         "hasc:id":"MU.PA",
+        "iso:code":"MU-PA",
         "iso:id":"MU-PA",
         "qs_pg:id":318533,
         "unlc:id":"MU-PA",
         "wd:id":"Q934126",
         "wk:page":"Pamplemousses District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MU",
-    "wof:geomhash":"4729ecd5d426ce2e09a4fb993783dcbb",
+    "wof:geomhash":"ea869e5e36d514cba9e4a2688e3c81cd",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -314,7 +316,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690846509,
+    "wof:lastmodified":1695884855,
     "wof:name":"Pamplemousses",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

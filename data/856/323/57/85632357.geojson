@@ -1157,6 +1157,7 @@
         "hasc:id":"MU",
         "icao:code":"3B",
         "ioc:id":"MRI",
+        "iso:code":"MU",
         "itu:id":"MAU",
         "loc:id":"n79060078",
         "m49:code":"480",
@@ -1171,6 +1172,7 @@
         "wk:page":"Mauritius",
         "wmo:id":"MA"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MU",
     "wof:country_alpha3":"MUS",
     "wof:geom_alt":[
@@ -1194,7 +1196,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1694639668,
+    "wof:lastmodified":1695881328,
     "wof:name":"Mauritius",
     "wof:parent_id":102193527,
     "wof:placetype":"country",

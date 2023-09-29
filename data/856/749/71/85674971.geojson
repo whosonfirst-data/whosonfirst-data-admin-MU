@@ -472,11 +472,13 @@
     "wof:concordances":{
         "gn:id":934154,
         "gp:id":1377436,
+        "iso:code":"MU-PL",
         "loc:id":"n79090018",
         "qs_pg:id":219476,
         "wd:id":"Q960645",
         "wk:page":"Port Louis"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1125952633
     ],
@@ -498,7 +500,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1694493257,
+    "wof:lastmodified":1695884856,
     "wof:megacity":0,
     "wof:name":"Port Louis",
     "wof:parent_id":85632357,

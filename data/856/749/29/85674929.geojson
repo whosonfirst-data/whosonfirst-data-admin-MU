@@ -216,11 +216,13 @@
         "gn:id":934765,
         "gp:id":1377240,
         "hasc:id":"MU.",
+        "iso:code":"MU-BR",
         "qs_pg:id":229253,
         "unlc:id":"MU-BR",
         "wd:id":"Q813337",
         "wk:page":"Beau Bassin-Rose Hill"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MU",
     "wof:geomhash":"5e4870931a3cc2bcafeed11b56c3ba59",
     "wof:hierarchy":[
@@ -239,7 +241,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1694493128,
+    "wof:lastmodified":1695884286,
     "wof:name":"Beau Bassin-Rose Hill",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

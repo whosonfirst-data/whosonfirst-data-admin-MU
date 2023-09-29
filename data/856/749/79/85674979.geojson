@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012581,
-    "geom:area_square_m":146129552.958523,
+    "geom:area_square_m":146130192.746915,
     "geom:bbox":"57.580333,-20.155504,57.733653,-19.979425",
     "geom:latitude":-20.060586,
     "geom:longitude":57.650885,
@@ -267,14 +267,16 @@
         "gn:id":934090,
         "gp:id":2346235,
         "hasc:id":"MU.RR",
+        "iso:code":"MU-RR",
         "iso:id":"MU-RR",
         "qs_pg:id":1083851,
         "unlc:id":"MU-RR",
         "wd:id":"Q1053565",
         "wk:page":"Rivi\u00e8re du Rempart District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MU",
-    "wof:geomhash":"cd429455efff09b4cc978c2dc9e24769",
+    "wof:geomhash":"31cd91a11922ac104066b161b8a64fa7",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -291,7 +293,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690846511,
+    "wof:lastmodified":1695884325,
     "wof:name":"Rivi\u00e8re du Rempart",
     "wof:parent_id":85632357,
     "wof:placetype":"region",

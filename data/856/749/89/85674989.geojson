@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008553,
-    "geom:area_square_m":99561708.746346,
+    "geom:area_square_m":99561417.824044,
     "geom:bbox":"63.332286,-19.767185,63.493907,-19.669854",
     "geom:latitude":-19.712535,
     "geom:longitude":63.410501,
@@ -344,13 +344,15 @@
         "gn:id":1547449,
         "gp:id":2346239,
         "hasc:id":"MU.RO",
+        "iso:code":"MU-RO",
         "iso:id":"MU-RO",
         "qs_pg:id":219579,
         "wd:id":"Q208668",
         "wk:page":"Rodrigues"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MU",
-    "wof:geomhash":"5301293205b7ad20e87f6b1f98a96542",
+    "wof:geomhash":"376d45136c6a53989476af193dec7494",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -367,7 +369,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690846509,
+    "wof:lastmodified":1695884855,
     "wof:name":"Rodrigues",
     "wof:parent_id":85632357,
     "wof:placetype":"region",
